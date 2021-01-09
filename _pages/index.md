@@ -24,6 +24,11 @@ Whether you develop software, design things, or create art, Alexander's insights
 
 This project is my attempt in making the core ideas in _The Nature of Order_ more accessible to a broader audience.
 
+### Explore this site
+
+- [[Unfolding the Nature of Order]]
+- [[Shared understanding is needed to have meaningful debate]]
+
 ---
 
 Take a look at [[Your first note]] to get started on your exploration.
