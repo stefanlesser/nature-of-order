@@ -9,6 +9,8 @@ In contrast to a blog, the notes are not necessarily meant to be polished articl
 
 In contrast to a wiki, the notes are not necessarily organized in an encyclopedic way. Instead you discover what you are most interested in by following crosslinks from one note to another choose-your-own-adventure style.
 
+A digital garden seems especially appropriate for this project, because [[digital gardening is a living process]] itself.
+
 ### Further reading
 - [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
 - [🌱 My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
