@@ -26,7 +26,8 @@ A list of key concepts in _The Nature of Order_, in order of appearance in the f
 	* [[Sequence]]
 	* [[The fundamental process]]
 	* [[Living process]]
-	* [[Patterns]]
+	* [[Word picture]]
+	* [[Pattern]]
 * Part 3: A New Paradigm for Process in Society
 	* …
 
@@ -35,6 +36,9 @@ Book 3 is about implementation of living processes. With many examples of his ow
 
 * Part 1: Belonging
 	* …
+* Part 2: Public spaces
+	* [[Mechanization in architecture and software]]
+		* -> *perhaps top-level, book 1 preface?*
 
 ### Book 4: The Luminous Ground
 

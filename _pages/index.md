@@ -12,6 +12,8 @@ This site is a living (as in *work-in-progress*) and loose collection of notes, 
 
 Right now I'm mostly in the process of slowly transferring my private notes taken during my reading to here, editing them slightly so they make more sense and don't require too much context to understand.
 
+Find out what's going on right [[now]]. Help me [[growing this site]].
+
 ### Explore
 There is no table of contents. You navigate this collection of ideas by following links from one note to another.
 
