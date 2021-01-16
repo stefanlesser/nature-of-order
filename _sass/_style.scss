@@ -17,6 +17,14 @@ body {
   color: $color-text;
   font-size: 1rem;
   max-width: 63em;
+
+/*
+ // dark mode support; TODO: figure out colors
+ @media (prefers-color-scheme: dark)  {
+    background-color: black;
+    color: white;
+  }
+*/
 }
 
 time {
