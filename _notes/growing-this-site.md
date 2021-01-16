@@ -21,3 +21,6 @@ What are the technical features (centers) which add the most value to this colle
 
 ### Design
 * Footnotes displayed as floats right next to the place where they are referenced in the main text
+
+### Tools
+* ~~One of the scripts in the template rewrites all the notes, regardless of whether they changed or not. That messes with the last modified date, which is reset each time I generate the site. I’d like it to only write the note to disk if it actually makes changes to it. I believe it’s [this script](https://github.com/stefanlesser/nature-of-order/blob/master/_plugins/empty_front_matter_note_injector.rb).~~ Never mind. [Fixed it](https://github.com/stefanlesser/nature-of-order/commit/3dc9915e69c1441837e231315df03f82590493f6).

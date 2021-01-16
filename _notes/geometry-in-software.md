@@ -2,7 +2,7 @@
 title: Geometry in software
 ---
 
-*My slightly edited posts from a thread originally discussed on the Beautiful Software seminar forum in November 2020, as. I was in the middle of reading book 2:*
+*My slightly edited posts from a thread originally discussed on the Beautiful Software seminar forum in November 2020, as I was in the middle of reading book 2:*
 
 Alexander is mostly concerned about the **arrangement of matter in space**. This means looking at **geometry** makes total sense.
 
