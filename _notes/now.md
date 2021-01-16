@@ -13,8 +13,7 @@ What I am working on currently:
 	* Change all links to group note; link to group only from there
 * Making this site work
 	* See also: [[Growing this site]]
-* Reading Book 3 _A Vision of a Living World_, chapter 4 _Large Public Buildings_, pp. 67-152
-	* *this was due on Thursday, 14th January; I’m late on my reading assignments — that means fewer notes added and updated until I catch up…*
+* Reading Book 3 _A Vision of a Living World_, chapter 5 _The Positive Pattern of Space and Volume in Three Dimensions on the Land_, pp. 153-190 (*due on Tuesday, 19th January*)
 * Transferring and editing my private notes from Book 1
 
 ### Reading List
