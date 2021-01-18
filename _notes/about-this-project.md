@@ -14,11 +14,11 @@ Christopher Alexander is an **architect and design theorist** known for his theo
 
 -> [Wikipedia: Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander)
 
+A brief comment on [[Christopher Alexander and religion]].
+
 #### Why should you care about this?
 You don't have to be an architect to be interested and become fascinated by Alexander's body of work. Many concepts he discusses in his various books apply to many fields beyond architecture.
 
 Whether you **develop software**, **design objects**, or **create art**, Alexander's insights will be relevant to your domain.
 
-This project is my attempt in making the core ideas in _The Nature of Order_ more accessible to a broader audience.
-
-See my [[Project Objectives|specific objectives for this project]].
+This project is my attempt in making the core ideas in _The Nature of Order_ more accessible to a broader audience. Read about my [[Project Objectives|specific objectives for this project]].
