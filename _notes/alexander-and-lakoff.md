@@ -1,0 +1,34 @@
+---
+title: Alexander and Lakoff
+---
+
+*Copied from a discussion in the Building Beauty forum. Slightly edited for better understanding without the context of that discussion.*
+
+I’ve been scratching my head about this ever since I started reading NoO. With his criticism about the Cartesian-rationalist world view, Alexander is clearly arguing against objectivism (external reality, humans are reduced to perceiving that reality but are basically not part of the model) and he proposes a different world-view that makes the experiencing individual part of the model. That sounds a lot like Lakoff to me, who also makes the case against objectivism, and also subjectivism (everything is just perception, there isn’t really any external reality), an alternative world view that Alexander also rejects. (I’m oversimplifying the world view descriptions somewhat, but it might help understanding for people not familiar with Lakoff’s work.)
+
+Lakoff presents a well-researched and empirically supported world view in _Women, Fire, and Dangerous Things_ which he calls Experientialism that does make the experiencing individual part of the model but without the downsides of subjectivism and by preserving the notion of a shared reality. 
+It seems like what Alexander struggles to “sell” as science in NoO, in particular in the [[Mirror of the Self]] chapters, maps shockingly well to what Lakoff defines as Experientialism, which is — as far as I can tell — excruciatingly well backed by research.
+
+I was wondering if there have been others, perhaps even Alexander and Lakoff themselves, making that connection?
+
+Going deeper on later research in cognitive science it seems rather obvious to me that there must be a strong connection between the notion of [[centers]] and the [[fifteen properties]] and deeply rooted cognitive facilities like spatial metaphor and kinesthetic image schemas which Lakoff talks about (this is too hard to explain in a footnote here, but if you ask me to do it and you bring some time we can absolutely go there :-). 
+
+There is some further research published after Lakoff’s book, which has the potential to provide a much more substantial scientific explanation on how our perception of centers and their geometric composition works in our brains, in full compliance with everything Alexander states as part of the [[mirror-of-the-self]] test.
+
+If you are aware of any research in that area that takes both Alexander’s and Lakoff’s work as starting points and tries to combine them to add more color to the cognitive basis for the perception and embodiment of centers and the 15 properties, please get in touch!
+
+Anyway, if anyone read this far and found this interesting but has no clue what I’m talking about, I’d recommend George Lakoff’s _Metaphors We Live By_ as an accessible introduction into some of the surprising insights how human language, thinking, and understanding work and how it is based on embodied cognition (is that the “[[feeling]]” Alexander talks about?) and a lot of spatial metaphors. And then please tell me if you can also see the connections or if I’m just hallucinating all this.
+
+---
+
+Over the last three years I’ve been bringing these things up countless times in several different (computer people) communities where I saw important connections, but all I got was the virtual equivalent of a blank stare because nobody had explored these topics and it is difficult to get across what I am talking about without any context. They’re not to blame — it is definitely weird to meet well-read computer scientists that have also taken the time to go deep into design, cognitive science, and architecture. You can find a select few that went deep on either one of these, but this exact combination is obviously rare.
+
+My (still very limited) understanding of linguistics is that Chomsky, who I only know from his information theoretic work and generative grammars that made it into computer science, represents the front of generative linguists, whereas Lakoff with some others represent an opposing front of cognitive linguists and that the war metaphor is somewhat appropriate.
+
+_Women, Fire, and Dangerous Things_ seems to be Lakoff’s ultimate work where he takes on generative linguistics once and for all and dismantles it, pointing out all its shortcomings and compiling a vast amount of theories and research by countless scientists that spans several decades all lined up in a sequence of a compelling argument why embodied cognition and Experientialism are superior over objectivism (aka mechanist-rational), subjectivism and some other fringe theories in that field. Granted, Lakoff clearly takes a side here, but as a scientific argument it feels pretty darn comprehensive to me — I have seen few academic works with that level of comprehensiveness and scientific rigor. Unfortunately, that makes the book a rather challenging read — it easily took 3 months of my life to work through it, but I’d say it was worth every second. Which means that groundbreaking insights are inaccessible to some who need to know about them the most. That’s why I usually recommend Lakoff’s _Metaphors_ instead; it’s a much lighter read, and hopefully draws people in enough to want to learn more.
+
+Lakoff went on focusing on political language, which is interesting (and quite important for the US at the moment), but certainly less relevant to what we discuss here, although it strikes me as a similar move from figuring out the why and how to looking for contemporary application of what he found out is true and works — again something that he seems to share with Alexander. 
+
+Though Lakoff does from time to time appear to give lectures where he talks about the latest developments in cognitive science and how recent experiments do verify some of the theories about embodied cognition, universal metaphor, and image schemas as the core building blocks of how our brain makes sense of our environment and experience (cue McGilchrist to somehow fit into this). 
+
+Lakoff and Chomsky as the important forebears of getting us to this point aside, it is in the current generation of scientists that follow in their footsteps where I have the most hope to see progress that ultimately benefits us in building both physical and digital things that are more aligned with our human nature, simply because we understand it better. That doesn’t take anything away from the impressive work Chomsky, Lakoff, Alexander et al. have brought into this world, but hopefully will make their insights more accessible to a broader audience — and that is quite specifically something that we could do here, as a group, today.

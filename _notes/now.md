@@ -13,7 +13,10 @@ What I am working on currently:
 	* Change all links to group note; link to group only from there
 * Making this site work
 	* See also: [[Growing this site]]
-* Reading Book 3 _A Vision of a Living World_, chapter 5 _The Positive Pattern of Space and Volume in Three Dimensions on the Land_, pp. 153-190 (*due on Tuesday, 19th January*)
+* Reading Book 3: _A Vision of a Living World_
+	* chapter 6: _‌Positive Space in Engineering Structure and Geometry_, pp. 191-228
+	* chapter 7: _The Character of Gardens_, pp. 229-256
+	* *due Thursday, 21th January*
 * Transferring and editing my private notes from Book 1
 
 ### Reading List
