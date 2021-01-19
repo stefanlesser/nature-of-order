@@ -3,11 +3,11 @@
   <head>
   <meta charset="UTF-8">
 
-  <link rel="canonical" href="/growing-this-site" />
+  <link rel="canonical" href="/todo" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="I’m trying to grow this site in a way that resembles Alexander’s adaptive process — both content and technical features. That means: constantly taking a step...">
+  <meta name="description" content="What are the technical features (centers) which add the most value to how this site works?">
 
   <meta property="og:site_name" content="Notes on The Nature of Order">
 
@@ -16,11 +16,11 @@
   <link rel="stylesheet" href="/styles.css">
 
   
-  <meta property="og:description" content="I’m trying to grow this site in a way that resembles Alexander’s adaptive process — both content and technical features. That means: constantly taking a step..."/>
+  <meta property="og:description" content="What are the technical features (centers) which add the most value to how this site works?"/>
   
 
   
-  <meta property="og:title" content="Growing this site">
+  <meta property="og:title" content="Todo">
   <meta property="og:type" content="article">
   
 
@@ -29,13 +29,13 @@
   <meta property="article:author" content="/">
   
 
-  <meta property="og:url" content="/growing-this-site" />
+  <meta property="og:url" content="/todo" />
 
   
 
   <title>
     
-      Growing this site &mdash; Notes on The Nature of Order
+      Todo &mdash; Notes on The Nature of Order
     
   </title>
 </head>
@@ -48,7 +48,7 @@
     <div class="wrapper">
       <main><article>
   <div>
-    <h1>Growing this site</h1>
+    <h1>Todo</h1>
     <time datetime="2021-01-19T13:49:49+00:00">
       Last updated on January 19, 2021
       
@@ -57,13 +57,30 @@
 
   <div id="notes-entry-container">
     <content>
-      <p>I’m trying to <em>grow</em> this site in a way that resembles Alexander’s adaptive process — both content and technical features. That means: constantly taking a step back, looking at the whole as it works right now, and then judging what the <strong>next most valuable step</strong> could be that will make it better as a whole.</p>
+      <p><em>What are the technical features (centers) which add the most value to how this site works?</em></p>
 
-<p>For now, I want to focus on growing the content and add many more notes and links between them. Yet, there a many things I’d like to change about how this site works.</p>
+<h3 id="navigation">Navigation</h3>
+<ul>
+  <li>More discovery entry points on the home page!</li>
+  <li>A list of recently updated notes on the index page; that should make it easier for people who come back to this site on a regular basis to see what has changed.</li>
+  <li>A list of unconnected notes that don’t have any incoming links, or any other mechanism that helps discover <a class="internal-link" href="/inspired-inklings">notes that aren’t well connected yet</a>.</li>
+  <li><em>I don’t like the graph visualization that much. Not sure it adds value. It came with the template. As several notes aren’t properly linked yet, I’ll leave it in for now.</em></li>
+</ul>
 
-<p><a class="internal-link" href="/todo">Here</a> I list ideas, in order of importance/priority, of what I think are useful modifications to achieve the various <a class="internal-link" href="/project-objectives">reasons why this site exists</a>. Feel free to suggest other ideas in the <a href="https://t.me/nature_of_order_chat">Telegram group</a>.</p>
+<h3 id="design">Design</h3>
+<ul>
+  <li>A better, more subtle way of referencing specific pages in the books</li>
+  <li>Footnotes displayed as floating blocks right next to the place where they are referenced in the main text</li>
+  <li>Dark/light mode dependent on system setting (<em>I figured out how, just need to decide on colors…</em>)</li>
+</ul>
 
-<p>For this technical part, I could use help. This site is <a href="https://github.com/stefanlesser/nature-of-order">open source</a>, Jekyll-based, and hosted with GitHub Pages. If you’re familiar with Jekyll and Ruby, or with HTML and CSS, many of these ideas should be straightforward to implement.</p>
+<h3 id="tools--process">Tools &amp; process</h3>
+<ul>
+  <li>A list of broken links, ie. local links that point to notes that don’t exist.</li>
+  <li>Am I using GitHub Pages correctly? Seems odd to have both the “source code” and the generated site in the same repository on the same branch. What’s best practice here?</li>
+  <li>Streamline my publishing process: pretty straightforward already; perhaps all that is needed is a little shell script.</li>
+  <li><del>One of the scripts in the template rewrites all the notes, regardless of whether they changed or not. That messes with the last modified date, which is reset each time I generate the site. I’d like it to only write the note to disk if it actually makes changes to it. I believe it’s <a href="https://github.com/stefanlesser/nature-of-order/blob/master/_plugins/empty_front_matter_note_injector.rb">this script</a>.</del> Never mind. <a href="https://github.com/stefanlesser/nature-of-order/commit/3dc9915e69c1441837e231315df03f82590493f6">Fixed it</a>.</li>
+</ul>
 
     </content>
 
@@ -73,14 +90,8 @@
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
       
         <div class="backlink-box">
-        <a class="internal-link" href="/now">Now</a><br>
-        <div style="font-size: 0.9em">Infrequently updated status report on what’s on my mind right now (regarding this site).
-</div>
-        </div>
-      
-        <div class="backlink-box">
-        <a class="internal-link" href="/project-objectives">Project Objectives</a><br>
-        <div style="font-size: 0.9em">There are several reasons why I decided to move my notes online and make them public. These are possible outcomes...</div>
+        <a class="internal-link" href="/growing-this-site">Growing this site</a><br>
+        <div style="font-size: 0.9em">I’m trying to grow this site in a way that resembles Alexander’s adaptive process — both content and technical features....</div>
         </div>
       
       </div>
