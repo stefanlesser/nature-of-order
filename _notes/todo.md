@@ -7,6 +7,7 @@ Title: Todo
 ### Navigation
 * More discovery entry points on the home page!
 * A list of recently updated notes on the index page; that should make it easier for people who come back to this site on a regular basis to see what has changed.
+	* *Should there be a last updated date on the index page?*
 * A list of unconnected notes that don’t have any incoming links, or any other mechanism that helps discover [[inspired inklings|notes that aren’t well connected yet]].
 * *I don’t like the graph visualization that much. Not sure it adds value. It came with the template. As several notes aren’t properly linked yet, I’ll leave it in for now.*
 

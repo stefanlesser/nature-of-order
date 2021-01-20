@@ -7,8 +7,10 @@ A list of key concepts in _The Nature of Order_, in order of appearance in the f
 ### Book 1: The Phenomenon of Life
 
 * Prologue
+	* [[Search for real beauty]]
 	* [[Building is an essential order-creation process]]
 	* [[About the nature of the universe]]
+	* [[Human feeling is 90% the same across people]]
 * Part 1: The Phenomenon of Life
 	* [[Order]]
 	* [[Life]] and [[Living Structure]]

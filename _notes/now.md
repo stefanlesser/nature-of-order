@@ -14,14 +14,14 @@ What I am working on currently:
 * Making this site work
 	* See also: [[Growing this site]]
 * Reading Book 3: _A Vision of a Living World_
-	* chapter 6: _‌Positive Space in Engineering Structure and Geometry_, pp. 191-228
 	* chapter 7: _The Character of Gardens_, pp. 229-256
-	* *due Thursday, 21th January*
+		* *due Thursday, 21th January*
 * Transferring and editing my private notes from Book 1
+	* *just finished transferring notes about the prologue, next up: preface*
 
 ### Reading List
 If you like this site, you might like these (I have not read these yet):
 
-* <https://medium.com/designscience/1960s-32969cc82d03>
 * <https://medium.com/new-rules-for-modelling>
 * <https://patterns.architexturez.net/doc/az-cf-172831>
+* https://www.youtube.com/watch?app=desktop&feature=youtu.be&v=E-qnXNUSUMA
