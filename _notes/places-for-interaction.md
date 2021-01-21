@@ -13,7 +13,7 @@ Well, technically, I’m still in the process of reading it. Keep in mind, I’m
 1. Your questions will give me valuable feedback of what exactly people are interested in, and which parts are difficult to understand and could be explained better — both in the books and on this site. This might or might not eventually result in a more linear, structured introductory guide about _The Nature of Order_…
 2. In the weekly seminars we have in [Building Beauty](http://buildingbeauty.org), I realized how helpful it is to discuss the material with others. You quickly realize which parts you don’t fully understand yet. And you get to hear other people’s perspectives and their interpretations of the material. This is so valuable to form a deeper understanding and avoid biases that lead to missing important details.
 
-Please ask your questions in the [Telegram group chat](https://t.me/joinchat/RaDQv_BGCm7OcPaP), which is the channel I have set up for this purpose.
+Please ask your questions in the [[Telegram group]], which is the channel I have set up for this purpose.
 
 ### (Experiment) Weekly live AMA
 Similar to the asynchronous Telegram group mentioned above, I’d like to try a synchronous format as well. Sometimes it’s better to talk than to text.
@@ -29,7 +29,7 @@ There could be a more structured regular online event than the AMA. People could
 
 I’m not sure we have critical mass to sustain a regular online gathering (yet?). But I’m open to try this, if there’s enough interest.
 
-Share your thoughts on the [Telegram group chat](https://t.me/joinchat/RaDQv_BGCm7OcPaP).
+Share your thoughts on the [[Telegram group]].
 
 ### Twitter list
 I’m curating a [Twitter list of people that tweet about Christopher Alexander and his work](https://twitter.com/i/lists/1349650597247655936?s=20).

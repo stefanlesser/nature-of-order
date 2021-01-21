@@ -7,17 +7,18 @@ Infrequently updated status report on what’s on my mind right now (regarding t
 ### What’s happening?
 What I am working on currently:
 
-* Getting the Telegram group going
-	* Add a note about the group
-	* Explain group/channel distinction
-	* Change all links to group note; link to group only from there
+* ✔️ Getting the [[Telegram group]] going
+	* ✔️ Add a note about the group
+	* ✔️ Explain group/channel distinction
+	* ✔️ Change all links to group note; link to group only from there
 * Making this site work
 	* See also: [[Growing this site]]
-* Reading Book 3: _A Vision of a Living World_
-	* chapter 7: _The Character of Gardens_, pp. 229-256
-		* *due Thursday, 21th January*
 * Transferring and editing my private notes from Book 1
-	* *just finished transferring notes about the prologue, next up: preface*
+	* *just finished transferring notes about the prologue*
+	* next up: preface
+* Currently reading Book 3: _A Vision of a Living World_
+	* chapter 8: _People in Their Neighborhood Form a Collective Vision of Their World_, pp. 257-282
+		* *due Tuesday, 26th January*
 
 ### Reading List
 If you like this site, you might like these (I have not read these yet):
