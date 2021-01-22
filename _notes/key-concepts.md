@@ -9,8 +9,17 @@ A list of key concepts in _The Nature of Order_, in order of appearance in the f
 * Prologue
 	* [[Search for real beauty]]
 	* [[Building is an essential order-creation process]]
-	* [[About the nature of the universe]]
 	* [[Human feeling is 90% the same across people]]
+	* [[About the nature of the universe]]
+* Preface
+	* [[Authentic architecture with deep feeling and true worth has become almost impossible]]
+	* [[Arrangement in space and time is fundamental to how we understand our world]]
+	* [[Mechanical-rationalist world view]]
+	* [[Order is difficult to describe]]
+	* [[Mechanism vs. harmony]]
+	* [[Consequences of the mechanistic view]]
+	* [[Pluralist view of value]]
+	* [[Function vs. ornament]]
 * Part 1: The Phenomenon of Life
 	* [[Order]]
 	* [[Life]] and [[Living Structure]]
@@ -19,9 +28,9 @@ A list of key concepts in _The Nature of Order_, in order of appearance in the f
 	* [[15 fundamental properties]]
 * Part 2: The Personal Nature of Order
 	* [[Feeling]]
+		* [[Can we talk about feeling|Can we talk about “feeling”…?]]
 	* [[Mirror of the self]]
 	* [[Life as a universal value]]
-	* [[Mechanist-rationalist vs. holistic worldviews]]
 
 ### Book 2: The Process of Creating Life
 

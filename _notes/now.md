@@ -14,8 +14,8 @@ What I am working on currently:
 * Making this site work
 	* See also: [[Growing this site]]
 * Transferring and editing my private notes from Book 1
-	* *just finished transferring notes about the prologue*
-	* next up: preface
+	* *just finished transferring notes about the prologue and preface*
+	* next up: chapter 1
 * Currently reading Book 3: _A Vision of a Living World_
 	* chapter 8: _People in Their Neighborhood Form a Collective Vision of Their World_, pp. 257-282
 		* *due Tuesday, 26th January*

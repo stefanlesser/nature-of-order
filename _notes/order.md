@@ -8,7 +8,7 @@ title: Order
 - why we are doing it
 - what its significance might be
 
-Order usually stands for “some **deep regularity** we cannot quite define”.
+Order usually stands for “some **deep regularity** we [[Order is difficult to describe|cannot quite define]]”.
 
 > We need a better understanding of the **deep geometric reality** of order.
 
@@ -17,9 +17,7 @@ Order
 : The most general system of mathematical structures that arises because of the nature of space.
 
 ### See also
-
-* <- [[Arrangement in space (and time) is fundamental to how we understand our world]]
-* -> [[It is difficult to precisely describe what order is]]
-* -> [[Order (definition)]]
+* [[Arrangement in space and time is fundamental to how we understand our world]]
+* [[Order (definition)]]
 
 #book/The Nature of Order/1 The Phenomenon of Life/Prologue#
