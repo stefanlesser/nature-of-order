@@ -17,9 +17,11 @@ Find out what's going on right [[now]]. Help me [[growing this site]].
 ### Explore
 There is no table of contents. You navigate this collection of ideas by following links from one note to another.
 
-Start here: [[About The Nature of Order]]
+Start here: 
 
-*There'll be more entry points here soon.*
+- [[About The Nature of Order]]
+- [[Key concepts]] in _The Nature of Order_
+- [[Ideas inspired by The Nature of Order]]
 
 ### Connect
 Join the [_Unfold_ Telegram group](https://t.me/joinchat/RaDQv_BGCm7OcPaP) to discuss Alexander's ideas and [how we can adopt them in other domains](https://stefan-lesser.com/2020/10/27/how-to-adopt-christopher-alexanders-ideas-in-the-software-industry/).

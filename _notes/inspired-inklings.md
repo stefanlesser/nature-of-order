@@ -8,9 +8,11 @@ Unfinished inklings which I don’t yet know where to put exactly, so I just col
 
 * [[Geometry in music]]
 * [[Geometry in software]]
+* [[Where software and architecture are different]]
 * [[General and repurposable tools]]
 
 ### Cultural and sociological consequences of his theory
 
 * [[Loosing the sense of true connection]]
 * [[Shared understanding is needed to have meaningful debate]]
+* [[Are peoples’ wishes really universal]]?
