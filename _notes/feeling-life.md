@@ -25,6 +25,8 @@ The deepest experience of [[order]] we experience with wonder
 
 *I wonder how much Alexander’s definition of life aligns with extroversion/introversion. It is easier for extroverts to sense life?*
 
+-> [[Seeing centers]]
+
 ### Life shows itself in imperfection and simplicity
 Perfect = dead.
 
