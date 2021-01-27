@@ -17,7 +17,12 @@ Find out what's going on right [[now]]. Help me [[growing this site]].
 ### Explore
 There is no table of contents. You navigate this collection of ideas by following links from one note to another.
 
-Start here: [[About The Nature of Order]]
+#### Start here: 
+
+- [[About The Nature of Order]]
+- [[Key concepts]] in _The Nature of Order_
+- [[Ideas inspired by The Nature of Order]]
+- [[
 
 *There'll be more entry points here soon.*
 
