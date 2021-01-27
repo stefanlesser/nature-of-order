@@ -26,6 +26,8 @@ A list of key concepts in _The Nature of Order_, in order of appearance in the f
 	* [[Wholeness]]
 	* [[Center]]
 	* [[15 fundamental properties]]
+	* Chapter 1: The Phenomenon of Life
+		* [[From ecology to a broader conception of life]]
 * Part 2: The Personal Nature of Order
 	* [[Feeling]]
 		* [[Can we talk about feeling|Can we talk about “feeling”…?]]
@@ -41,7 +43,7 @@ A list of key concepts in _The Nature of Order_, in order of appearance in the f
 	* [[The fundamental process]]
 	* [[Living process]]
 	* [[Word picture]]
-	* [[Pattern]]
+	* [[Pattern]] and [[Pattern language]]
 * Part 3: A New Paradigm for Process in Society
 	* …
 

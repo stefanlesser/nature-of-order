@@ -12,6 +12,7 @@ In contrast to a wiki, the notes are not necessarily organized in an encyclopedi
 A digital garden seems especially appropriate for this project, because [[digital gardening is a living process]] itself.
 
 ### Further reading
+- [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 - [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
 - [🌱 My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
 

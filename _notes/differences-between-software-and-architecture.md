@@ -14,4 +14,20 @@ In software, these scales do not really exist, or are not as clearly visible, an
 -> [[The geometry of software]]
 
 ### Static buildings vs. dynamic software
-The product of architecture is mostly static structure — a building. The product of software is an application that responds differently to different inputs (although it also has a lot of static invariants).
+The product of architecture is mostly static structure — a building, which at the time it has been built doesn’t change its structure much (it can, but only in limited ways). 
+
+The product of software is an application that responds differently to different inputs (although it also has a lot of static invariants).
+
+The structure of software is easier to change afterwards than the structure of a building is.
+
+These are not differences in kind, but of degree. And I propose that the difference in degree is important enough to be considered a difference between the fields.
+
+### Different weights of design and construction/manufacturing
+Software engineering can be seen as more of a design task, as production of software can be reduced to the copying of bits, which doesn’t need as much thought and effort put into it than the construction of actual physical structures. Physical structures need to be designed *and* then constructed, and both of these task require considerable effort.
+
+### Aging is different
+When buildings age, their materials and structure change over time. These are caused by the environment, but impact the structure and material of the building itself, up to a point where the building needs to be repaired or is no longer functional.
+
+When software ages, their material and structure does not change at all. It’s purely the changing environment that eventually renders the not-changing software unfit for further use.
+
+*Inspired by <https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/>*
