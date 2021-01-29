@@ -24,6 +24,6 @@ Start here:
 - [[Ideas inspired by The Nature of Order]]
 
 ### Connect
-Join the [_Unfold_ Telegram group](https://t.me/joinchat/RaDQv_BGCm7OcPaP) to discuss Alexander's ideas and [how we can adopt them in other domains](https://stefan-lesser.com/2020/10/27/how-to-adopt-christopher-alexanders-ideas-in-the-software-industry/).
+Join the _Unfold_ [[Telegram group]] to discuss Alexander's ideas and [how we can adopt them in other domains](https://stefan-lesser.com/2020/10/27/how-to-adopt-christopher-alexanders-ideas-in-the-software-industry/).
 
 If you have ideas, corrections, or suggestions for this site, please get in touch with me on [Twitter](https://twitter.com/stefanlesser/).

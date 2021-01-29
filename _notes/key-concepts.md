@@ -2,7 +2,9 @@
 title: Key concepts in The Nature of Order
 ---
 
-A list of key concepts in _The Nature of Order_, in order of appearance in the four books:
+*A list of key concepts in _The Nature of Order_, in order of appearance in the four books.*
+
+You might want to start with these [[helpful foundational ideas]].
 
 ### Book 1: The Phenomenon of Life
 
@@ -26,8 +28,6 @@ A list of key concepts in _The Nature of Order_, in order of appearance in the f
 	* [[Wholeness]]
 	* [[Center]]
 	* [[15 fundamental properties]]
-	* Chapter 1: The Phenomenon of Life
-		* [[From ecology to a broader conception of life]]
 * Part 2: The Personal Nature of Order
 	* [[Feeling]]
 		* [[Can we talk about feeling|Can we talk about “feeling”…?]]

@@ -16,7 +16,7 @@ Four key ideas that give us the secret of living structure, and of the way life 
 > 
 > However, to make this work, we do need a conception of a kind of space in which these things can happen. In the end we shall be able to penetrate this apparent circularity only by modifying our idea of space to a form of space which explicitly includes provision for this feature. […] I believe this recursive and apparently cyclical set of relationships will then be seen as the key to the phenomenon of life.
 
-*Reminds me of composing music: too few notes over time are boring. Many notes, but in a simple, repetitive pattern are boring too. It is the slight variation of recognizably similar rhythms and melodic themes over time that makes music interesting, as well as an arc that goes through the whole piece.*
+*Reminds me of [[Geometry in music|composing music]]: too few notes over time are boring. Many notes, but in a simple, repetitive pattern are boring too. It is the slight variation of recognizably similar rhythms and melodic themes over time that makes music interesting, as well as an arc that goes through the whole piece.*
 
 ### The process is not additive: it is transformative
 > The process is not additive: it is transformative. At each step, we do not *add* things, but *transform* the previous version, as a whole, to give it more centeredness, as a whole, by inducing more centers to intensify those that exist already.

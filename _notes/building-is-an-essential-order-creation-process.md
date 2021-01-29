@@ -8,6 +8,6 @@ We have a rudimentary idea of how creation works for:
 - new particles through interaction with each other
 - living organisms through the morphogenetic process
 
-The process of building is an [[order]]-creating process of equal importance. Understanding how it works is of essential importance for understanding our world.
+The process of building is an order-creating process of equal importance. Understanding how it works is of essential importance for [[Arrangement in space is fundamental to how we understand our world|understanding our world]].
 
 #book/The Nature of Order/1 The Phenomenon of Life/Prologue#

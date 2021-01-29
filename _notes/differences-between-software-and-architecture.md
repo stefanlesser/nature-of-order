@@ -11,7 +11,7 @@ In the physical space there are levels of scale and in the built environment esp
 
 In software, these scales do not really exist, or are not as clearly visible, and do not have a similar relationship to resources.
 
--> [[The geometry of software]]
+-> [[Geometry in software]]
 
 ### Static buildings vs. dynamic software
 The product of architecture is mostly static structure — a building, which at the time it has been built doesn’t change its structure much (it can, but only in limited ways). 
@@ -31,3 +31,8 @@ When buildings age, their materials and structure change over time. These are ca
 When software ages, their material and structure does not change at all. It’s purely the changing environment that eventually renders the not-changing software unfit for further use.
 
 *Inspired by <https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/>*
+
+### Communities in physical space vs. ideological space
+Larger projects in architecture — developments — get their life from the unfolding process and from responding to events in time. This unfolding over time is rooted in the wishes and desires of the local community — people that live and work *there*, in the physical space of this community.
+
+Software is not tied to a physical space and can be used anywhere. The people using software form a community too, but their community exists independent of any physical space (though it is still connected to time). They are purely bound by ideological space. What is the geometry of that conceptual terrain?

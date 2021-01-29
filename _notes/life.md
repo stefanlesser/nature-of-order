@@ -25,6 +25,8 @@ Alexander does not consider this a useful, or precise, or adequate definition of
 - Is a virus alive?
 - Is a forest alive (as a whole, and over and above the life of the component species taken as individuals)?
 
+He acknowledges [[From ecology to a broader conception of life|ecology as an entry point for a better definition]], yet what he has in mind has little to do with ecology as we understand it today.
+
 ### Understanding life as a structure
 Alexander’s hypothesis:
 

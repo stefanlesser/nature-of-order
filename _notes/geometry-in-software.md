@@ -91,3 +91,5 @@ Code, then, is even further to the right because it has even fewer constraints a
 It seems this continuum from left to right is about removing or ignoring certain constraints that act on the elements under consideration. The further you move to the right, the fewer constraints, or rules, are in effect. Until you end up with simple mathematical (algebraic?) structures on the right.
 
 Partially inspired by this tweet and thread: <https://twitter.com/prathyvsh/status/1332740035410419713?s=21>
+
+See also: [[Where software and architecture are different]]
