@@ -2,7 +2,7 @@
 title: Center
 ---
 
-The building blocks of [[Wholeness]].
+Centers are the building blocks of [[Wholeness]].
 
 > Entities appear in the world because different parts of space have different levels of coherence.
 
@@ -40,53 +40,49 @@ Coherent centers define character, and create arrangement.
 
 > [T]he wholeness is made of parts; the parts are created by the wholeness. To understand wholeness we must have a conception in which “parts” and wholes work in this holistic way.
 
-General rules which identify zones of space that stand out as centers
-	- The sets which appear as entities are often locally symmetrical — but not always
-	- The entities are usually bounded: that is, at their edge, there is often a sharp change of structure
-	- Some of the entities are marked by an internal center where there is another change of continuity near the middle of the center itself
-	- There is a simplicity and regularity about these sets which marks them as wholes, and makes them function as entities
-	- They are often relatively homogenous across their interior, compared with the surrounding space
-	- There is a topological connectivity in them which marks them as compact
-	- They are usually — not always — convex
-	- …
+### Learn more
+* [[Recursive definition of a center]]
+* [[Rules for identifying centers]]
+* [[Seeing centers]]
+* [[Centers and design]]
+* [[Mathematical and physical existence of centers]]
 
-* -> [[Recursive definition of a center]]
-* -> [[Seeing centers]]
-* -> [[Centers and design]]
+### Origin of the word “center”
+“Center”
 
-### The origin of the word “center”
-“Center” 
-	- does not refer to a point center, but 
-	- identifies an organized zone of space
-		- a distinct set of points in space, which exhibits centeredness because of
-			- its organization, 
-			- internal coherence, and 
-			- its relation to its context
-		- forms a local zone of relative centeredness with respect to the other parts of space
-	- always refers to a physical set, a distinct physical system, which occupies a certain volume in space, and has a special marked coherence
-	- even social or cultural centers are ultimately spatial
-		- they occur in space and have a spatial locus
+- does not refer to a point, but 
+- identifies an **organized zone** of space
+	- a distinct set of points in space, which exhibits centeredness because of
+		- its organization, 
+		- internal coherence, and 
+		- its relation to its context
+	- forms a local zone of relative centeredness with respect to the other parts of space
+- always refers to a physical set, a distinct physical system, which
+	- occupies a certain volume in space, and 
+	- has a special marked coherence
+- Even social or cultural centers are ultimately spatial
+	- they occur in space and have a spatial locus
 
-> [E]ntities, which were so important as the building blocks of nature, were not truly bounded entities but were in fact non-bounded centers: Centers of influence, centers of action, centers of other centers — centers of some kind, appearing in the seething mass of the wholeness.
+> Entities, which were so important as the building blocks of nature, were not truly bounded entities but were in fact non-bounded centers: Centers of influence, centers of action, centers of other centers — centers of some kind, appearing in the seething mass of the wholeness.
 
 “Whole” appears as an isolated object, a feeling of boundedness. 
 “Center” points towards relationships to other, surrounding objects, a feeling of relatedness.
 
-*Center avoids a problem with categorization, the urge of rigid thinking to find exact boundaries for what belongs into the whole and what doesn’t (binary container schema, where elements are either inside or outside). Alexander refers to fuzzy sets, but isn’t happy about that reference. I’m sure he’d be interested in the center-periphery image schema (and perhaps prototype theory).*
+Centers avoid a problem with categorization: the urge of rigid thinking to find exact boundaries for what belongs into the whole and what doesn’t, applying a [[Binary vs. gradual perspectives — from boundaries to centers|binary container schema]], where elements are either inside or outside.
 
 *In software we tend to think too much in bounded, isolated wholes. Perhaps, we should think more in interconnected centers?*
 
+### Connection to embodied schemas (kinesthetic image schemas)
+*Alexander refers to fuzzy sets, but isn’t happy about that reference. I’m sure he’d be interested in the center-periphery image schema (and perhaps prototype theory).*
+
 These three kinesthetic image schemas seem extremely relevant to Alexander’s theory:
-	- container
-	- whole-part-configuration
-	- center-periphery
 
-### The mathematical and physical existence of centers
-> The entities which come into existence in a configuration are not merely cognitive. They have a real mathematical existence, and are actually occurring features *of the space itself*. They may be established mathematically according to the relative hierarchies of differentiation in the space. They are mathematically and physically *real*.
-> And they have different degrees of strength.
+- container(-boundary)
+- center-periphery
+- whole-part-configuration
 
-*The same question that is brought up in the paper _The Architecture of Complexity_ is valid here: do these regularities appear important to us because they are foundational principles of how the universe is structured, or do they appear important to us because we are hardwired biologically and/or psychologically to recognize these patterns?*
-
+***
 
 #book/The Nature of Order/1 The Phenomenon of Life/3 Wholeness and the theory of centers#
+
 #book/The Nature of Order/1 The Phenomenon of Life/4 How life comes from wholeness#
