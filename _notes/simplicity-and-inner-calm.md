@@ -2,7 +2,7 @@
 title: Simplicity and inner calm
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > Simplicity and inner calm is the way the strength of a center depends on its simplicity — on the process of reducing the *number* of different centers which exist in it, while increasing the *strength* of these centers to make them weigh more.
 

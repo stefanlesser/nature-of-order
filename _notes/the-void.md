@@ -2,7 +2,7 @@
 title: The void
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > The void is the way that the intensity of every center depends on the existence of a still place — en empty center — somewhere in its field.
 

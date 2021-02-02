@@ -11,7 +11,7 @@ It seems like what Alexander struggles to “sell” as science in NoO, in parti
 
 I was wondering if there have been others, perhaps even Alexander and Lakoff themselves, making that connection?
 
-Going deeper on later research in cognitive science it seems rather obvious to me that there must be a strong connection between the notion of [[centers]] and the [[fifteen properties]] and deeply rooted cognitive facilities like spatial metaphor and kinesthetic image schemas which Lakoff talks about (this is too hard to explain in a footnote here, but if you ask me to do it and you bring some time we can absolutely go there :-). 
+Going deeper on later research in cognitive science it seems rather obvious to me that there must be a strong connection between the notion of [[centers]] and the [[15 fundamental properties]] and deeply rooted cognitive facilities like spatial metaphor and kinesthetic image schemas which Lakoff talks about (this is too hard to explain in a footnote here, but if you ask me to do it and you bring some time we can absolutely go there :-). 
 
 There is some further research published after Lakoff’s book, which has the potential to provide a much more substantial scientific explanation on how our perception of centers and their geometric composition works in our brains, in full compliance with everything Alexander states as part of the [[mirror-of-the-self]] test.
 

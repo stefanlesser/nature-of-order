@@ -2,7 +2,7 @@
 title: Strong centers
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > Strong centers defines the way that a strong center requires a special field-like effect, created by other centers, as the primary source of its strength.
 

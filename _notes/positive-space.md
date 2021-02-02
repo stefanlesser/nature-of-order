@@ -2,7 +2,7 @@
 title: Positive space
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > Positive space is the way that a given center must draw its strength, in part, from the strength of other centers immediately adjacent to it in space.
 

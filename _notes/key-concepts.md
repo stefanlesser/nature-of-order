@@ -27,7 +27,7 @@ You might want to start with these [[helpful foundational ideas]].
 	* [[Life and living structure]]
 	* [[Wholeness]]
 	* [[Center]]
-	* [[Fifteen fundamental properties]]
+	* [[15 fundamental properties]]
 * Part 2: The Personal Nature of Order
 	* [[Feeling]]
 		* [[Can we talk about feeling|Can we talk about “feeling”…?]]

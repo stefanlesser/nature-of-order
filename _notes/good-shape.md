@@ -2,7 +2,7 @@
 title: Good shape
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > Good shape is the way that the strength of a given center depends on its actual shape, and the way this effect requires that even the shape, its boundary, and the space around it are made up of strong centers.
 

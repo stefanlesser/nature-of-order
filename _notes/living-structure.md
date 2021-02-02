@@ -1,6 +1,0 @@
----
-title: Living structure
----
-
-[tbd…]
-

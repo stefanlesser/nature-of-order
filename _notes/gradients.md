@@ -2,7 +2,7 @@
 title: Gradients
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > Gradients is the way in which a center is strengthened by a graded series of different-sized centers which then “point” to the new center and intensify its field effect.
 

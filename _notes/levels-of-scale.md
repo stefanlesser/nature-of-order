@@ -2,7 +2,7 @@
 title: Levels of scale
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > Levels of scale is the way that a strong center is made stronger partly by **smaller strong centers contained in it**, and partly by its **larger strong centers which contain it**.
 

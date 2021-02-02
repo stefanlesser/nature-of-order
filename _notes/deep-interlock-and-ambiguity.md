@@ -2,7 +2,7 @@
 title: Deep interlock and ambiguity
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > Deep interlock and ambiguity is the way in which the intensity of a given center can be increased when it is attached to nearby strong centers, through a third set of strong centers that ambiguously belong to both.
 

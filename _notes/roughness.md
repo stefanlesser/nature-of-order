@@ -2,7 +2,7 @@
 title: Roughness
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > Roughness is the way that the field effect of a given center draws its strength, necessarily, from irregularities in the sizes, shapes and arrangements of other nearby centers.
 

@@ -2,7 +2,7 @@
 title: Boundaries
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > Boundaries is the way in which the field-like effect of a center is strengthened by the creation of a ring-like center, made of smaller centers which surround and intensify the first. The boundary also unites the center with the centers beyond it, thus strengthening it further.
 

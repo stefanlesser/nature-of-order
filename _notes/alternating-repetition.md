@@ -2,7 +2,7 @@
 title: Alternating repetition
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > Alternating repetition is the way in which centers are strengthened when they repeat, by the insertion of other centers between the repeating ones.
 

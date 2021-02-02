@@ -2,9 +2,9 @@
 title: Not-separateness
 ---
 
-<- [[Fifteen fundamental properties]]
-
 Also: connectedness.
+
+One of the [[15 fundamental properties]].
 
 > Not-separateness is the way the life and strength of a center depends on the extent to which that center is merged smoothly — sometimes even indistinguishably — with the centers that form its surroundings.
 

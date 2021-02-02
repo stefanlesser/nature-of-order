@@ -2,7 +2,7 @@
 title: Echoes
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > Echoes is the way that the strength of a given center depends on similarities of angle and orientation and systems of centers forming characteristic angles thus forming larger centers, among the centers it contains.
 

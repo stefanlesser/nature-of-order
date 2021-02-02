@@ -2,7 +2,7 @@
 title: Contrast
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > Contrast is the way that a center is strengthened by the sharpness of the distinction between its character and the character of surrounding centers.
 

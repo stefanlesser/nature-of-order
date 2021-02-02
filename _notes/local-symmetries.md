@@ -2,7 +2,7 @@
 title: Local symmetries
 ---
 
-<- [[Fifteen fundamental properties]]
+One of the [[15 fundamental properties]].
 
 > Local symmetries is the way that the intensity of a given center is increased by the extent to which other smaller centers which it contains are themselves arranged in locally symmetrical groups.
 
