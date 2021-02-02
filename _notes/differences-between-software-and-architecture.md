@@ -25,12 +25,22 @@ These are not differences in kind, but of degree. And I propose that the differe
 ### Different weights of design and construction/manufacturing
 Software engineering can be seen as more of a design task, as production of software can be reduced to the copying of bits, which doesn’t need as much thought and effort put into it than the construction of actual physical structures. Physical structures need to be designed *and* then constructed, and both of these task require considerable effort.
 
+### The environment changes
+In architecture, the environment to built a house into changes very slowly.
+
+In software, today your view out the window shows a beautiful sunset over your garden. Tomorrow, somebody built a garage there. The day after, there’s a skyscraper. The environment changes so quickly, and it even is reasonable to change your window every day.
+
 ### Aging is different
 When buildings age, their materials and structure change over time. These are caused by the environment, but impact the structure and material of the building itself, up to a point where the building needs to be repaired or is no longer functional.
 
 When software ages, their material and structure does not change at all. It’s purely the changing environment that eventually renders the not-changing software unfit for further use.
 
 *Inspired by <https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/>*
+
+### Tools and environment
+In architecture you use tools to amplify your ability to modify materials.
+
+In software in a way that applies too, but software tools often are also an environment we live in. For instance, a heavily customized text editor is as much a tools for effectively shaping text documents, as it is an environment you adapted to your personal needs and live in.
 
 ### Communities in physical space vs. ideological space
 Larger projects in architecture — developments — get their life from the unfolding process and from responding to events in time. This unfolding over time is rooted in the wishes and desires of the local community — people that live and work *there*, in the physical space of this community.

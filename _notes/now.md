@@ -11,11 +11,11 @@ What I am working on currently:
 * Making this site work better
 	* See also: [[Growing this site]]
 * Transferring and editing my private notes from Book 1
-	* *just finished transferring notes about the prologue and preface*
-	* next up: chapter 1
+	* *finished transferring notes up until and including chapter 4*
+	* next up: chapter 5 and 6
 * Currently reading Book 3: _A Vision of a Living World_
-	* chapter 11: _Necessary Further Dynamics of any Neighborhood Which Comes to Life_, pp. 333-360
-		* *due Thursday, 28th January*
+	* chapter 13: _The Character of Rooms_, pp. 411-446
+		* *due Thursday, 4th February*
 
 ### Reading List
 If you like this site, you might like these (I have not read these yet):
