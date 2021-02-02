@@ -1,5 +1,5 @@
 ---
-title: Authentic architecture with deep feeling and true worth has become almost impossible
+title: Authentic architecture with deep feeling has become almost impossible
 ---
 
 > In traditional society, building was almost always something that stood for human value, that raised life to its greatest possible heights, that supported a spiritual and meaningful conception of human existence.

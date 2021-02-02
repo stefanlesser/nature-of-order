@@ -14,8 +14,8 @@ You might want to start with these [[helpful foundational ideas]].
 	* [[Human feeling is 90% the same across people]]
 	* [[About the nature of the universe]]
 * Preface
-	* [[Authentic architecture with deep feeling and true worth has become almost impossible]]
-	* [[Arrangement in space and time is fundamental to how we understand our world]]
+	* [[Authentic architecture with deep feeling has become almost impossible]]
+	* [[Arrangement in space is fundamental to how we understand our world]]
 	* [[Mechanical-rationalist world view]]
 	* [[Order is difficult to describe]]
 	* [[Mechanism vs. harmony]]
@@ -24,7 +24,7 @@ You might want to start with these [[helpful foundational ideas]].
 	* [[Function vs. ornament]]
 * Part 1: The Phenomenon of Life
 	* [[Order]]
-	* [[Life]] and [[Living Structure]]
+	* [[Life and living structure]]
 	* [[Wholeness]]
 	* [[Center]]
 	* [[Fifteen fundamental properties]]

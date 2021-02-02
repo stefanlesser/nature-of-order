@@ -2,7 +2,9 @@
 title: Order
 ---
 
-[[Building is an essential order-creation process|We’re responsible for the creation of order]] on an enormous scale, yet we don’t really know that “order” means, precisely.  We don’t know:
+[[Building is an essential order-creation process|We’re responsible for the creation of order]] on an enormous scale, yet we don’t really know that “order” means, precisely.  
+
+We don’t know:
 
 - what it is
 - why we are doing it
@@ -10,7 +12,7 @@ title: Order
 
 > We need a better understanding of the **deep geometric reality** of order.
 
-Order usually stands for “some **deep geometric regularity** we [[Order is difficult to describe|cannot quite define]]”, which is rooted in the sense that [[arrangement in space and time is fundamental to how we understand our world]].
+Order usually stands for “some **deep geometric regularity** we [[Order is difficult to describe|cannot quite define]]”, which is rooted in the sense that [[arrangement in space is fundamental to how we understand our world]].
 
 ### Definition
 Order
@@ -25,6 +27,7 @@ _The Nature of Order_ presents a way of understanding order which:
 - is a common-sense and powerful view, with practical results
 - is full of unexpected intellectual results
 
+---
 
 #book/The Nature of Order/1 The Phenomenon of Life/Prologue#
 
