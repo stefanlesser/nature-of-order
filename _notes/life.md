@@ -13,6 +13,8 @@ Alexander’s hypothesis:
 
 *Living structure* has this property to a high degree and supports human life better than other structures. A high degree of life comes from [[Wholeness]].
 
+* [[The concept of living structure]]
+
 ### Degree of life
 Every form of [[order]] has some degree of life.
 The particular degree of life that occurs in organisms becomes a special case of a broader conception of life.

@@ -18,6 +18,7 @@ Here are a few connections I see:
 * Teams are kept small. Larger teams would introduce too much friction for coordination. Naturally, mechanization of processes would occur. New hires starting at Apple are often surprised about how few processes are in place and how independent individuals and teams can — and are expected — to act.
 * Engineering managers have engineering backgrounds. There are no career managers managing people without deep understanding for what the work is about.
 * The squircles came originally from hardware design. Classic rounded borders are a combination of curves based on circles in the corners connected with straight lines in between. At the point where the straight edge of one side transitions into the arc of the circle in the corner, the curvature suddenly increases. Depending on the physical material used, this can be noticed in light reflections. Squircles avoid this problem with a continuously transitioning angle at that point — a detail that *feels* better in the resulting product.
+* Vertical integration: Apple tries to get full control over the most important components that go into their products. That is like Alexander requesting that you can’t just design a building, but you have to know exactly how to build it. It seems a little off with Apple in fact having contractors manufacturing all their devices, but they do heavily influence that manufacturing process up to the point where they invent the machines that are part of it.
 * …
 
 - [ ] link each item to notes describing the appropriate principles from NoO

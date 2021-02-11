@@ -9,6 +9,9 @@ Unfinished inklings which I don’t yet know where to put exactly, so I just col
 * [[Geometry in music]]
 * [[Geometry in software]]
 * [[Where software and architecture are different]]
+* [[Beauty in code]]
+* [[Unfolding a LISP]]
+* [[Send a program, not a data structure]]
 * [[General and repurposable tools]]
 
 ### Cultural and sociological consequences of his theory

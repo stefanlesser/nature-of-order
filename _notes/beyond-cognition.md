@@ -4,7 +4,7 @@ title: Beyond cognition
 
 > If we are to use the theory of centers — and the concept of life — as the basis of all architecture, it would be reassuring to know that wholeness, together with the properties which bring centers to life, is **a necessary feature of material reality, not merely a psychological aspect of things which arises during perception** of works of art.
 
-*Alexander might have left behind the mechanist-rational worldview, but he still seems to subscribe to an objectivist worldview, not the experientialist view that his theory would fit so well into. I can only assume that he wasn’t exposed to the works of Lakoff and Johnson and the findings of late 20th-century cognitive science?*
+*Alexander might have left behind the mechanist-rational worldview, but he still seems to subscribe to an objectivist worldview, not the experientialist view that his theory would fit so well into. I can only assume that he wasn’t exposed to [[Alexander and Lakoff|the works of Lakoff and Johnson]] and the findings of late 20th-century cognitive science?*
 
 > According to a “cognitive” interpretation, the **centers could merely exist in the mind’s eye (as products of cognition)**, and the fifteen properties, which apparently make the centers work, could also exist merely as artifacts of cognition.
 > According to such an interpretation, it might be said that buildings and works of art look good when they are made of centers in the way I have described, *simply because they correspond somehow to deep cognitive structures — that is, to the way human perception and cognition work*.
