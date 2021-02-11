@@ -3,11 +3,11 @@
   <head>
   <meta charset="UTF-8">
 
-  <link rel="canonical" href="/telegram-group" />
+  <link rel="canonical" href="/beauty-in-code" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="I set up a Telegram group where you can join the discussion about  Christopher Alexander’s theory about centers, wholeness, and generative unfolding from his...">
+  <meta name="description" content="Can code itself have beauty?">
 
   <meta property="og:site_name" content="Notes on The Nature of Order">
 
@@ -16,11 +16,11 @@
   <link rel="stylesheet" href="/styles.css">
 
   
-  <meta property="og:description" content="I set up a Telegram group where you can join the discussion about  Christopher Alexander’s theory about centers, wholeness, and generative unfolding from his..."/>
+  <meta property="og:description" content="Can code itself have beauty?"/>
   
 
   
-  <meta property="og:title" content="Telegram Group">
+  <meta property="og:title" content="Beauty in code">
   <meta property="og:type" content="article">
   
 
@@ -29,13 +29,13 @@
   <meta property="article:author" content="/">
   
 
-  <meta property="og:url" content="/telegram-group" />
+  <meta property="og:url" content="/beauty-in-code" />
 
   
 
   <title>
     
-      Telegram Group &mdash; Notes on The Nature of Order
+      Beauty in code &mdash; Notes on The Nature of Order
     
   </title>
 </head>
@@ -48,39 +48,57 @@
     <div class="wrapper">
       <main><article>
   <div>
-    <h1>Telegram Group</h1>
-    <time datetime="2021-01-21T19:02:02+00:00">
-      Last updated on January 21, 2021
+    <h1>Beauty in code</h1>
+    <time datetime="2021-02-11T11:34:06+00:00">
+      Last updated on February 11, 2021
       
     </time>
   </div>
 
   <div id="notes-entry-container">
     <content>
-      <p>I set up a <a href="https://t.me/nature_of_order_chat"><strong>Telegram group</strong></a> where you can join the discussion about  Christopher Alexander’s theory about centers, wholeness, and generative unfolding from his magnum opus <em>The Nature of Order</em> and where you can help us make these ideas accessible to a broader audience.</p>
+      <p><em>Can code itself have beauty?</em></p>
 
-<p>While this Digital Garden of notes is a more one-sided affair, the discussion group is an experiment with a <strong>more interactive format</strong>, where I hope to be just one of many contributors.</p>
+<p><em>How does the beauty of code relate to the architecture of the program that it describes?</em></p>
 
-<p>I’m hoping for a <strong>small community of people</strong>, who are interested in Alexander and who want to — like myself — have <strong>more interesting conversations</strong> about how we can make it easier for everyone to learn about his ideas, and how we can use them to make the (software) world around us more alive and a more beautiful place.</p>
+<h3 id="knuths-four-criteria-of-elegance-for-code">Knuth’s four criteria of elegance for code</h3>
+<ol>
+  <li>Leanness of code</li>
+  <li>Clarity of problem definition</li>
+  <li>Spareness of use of resources (time, processor cycles)</li>
+  <li>Implementation in most suitable language and system</li>
+</ol>
 
-<p>Your support — in form of questions, suggestions, corrections, feedback, and any kind of small interaction that gets this little community off the ground and keeps it alive — means the world to me.</p>
+<blockquote>
+  <p>Matthew Fuller describes Knuth’s aesthetic in his essay Elegance (2006) collected in the classic book of essays Software Studies:</p>
+</blockquote>
 
-<p><a href="https://t.me/nature_of_order_chat">-&gt; to the <strong>Unfold Chat</strong> Telegram group</a></p>
+<blockquote>
+  <blockquote>
+    <p>In Literate Programming, Donald Knuth suggests that the best programs can be said to possess the quality of elegance. Elegance is defined by four criteria: the <strong>leanness</strong> of the code; the <strong>clarity</strong> with which the problem is defined; <strong>spareness of use of resources</strong> such as time and processor cycles; and, implementation in the <strong>most suitable language</strong> on the <strong>most suitable system</strong> for its execution.</p>
+  </blockquote>
+</blockquote>
 
-<h3 id="telegram-group-vs-channel">Telegram Group vs. Channel</h3>
-<p>If you just want to stay up to date on what’s going on, but not participate in the group chat, I have also set up a <em>channel</em>.</p>
+<blockquote>
+  <p>This is all to say that Knuthian elegance is <strong>algorithmic elegance</strong>, and that this draws from the <strong>aesthetics of math</strong>, with its latent Platonism, emphasis on axiomatics, and “beauty in simplicity” that Fazi describes in her computational idealism.</p>
+</blockquote>
 
-<p><a href="https://t.me/nature_of_order"><strong>Unfold</strong></a> is a <em>channel</em>. You can’t chat here, it is subscription only. If you subscribed to this channel, you’ll only get my announcements, which will also be posted to the group.</p>
+<blockquote>
+  <p>But imagine if we changed the name of the only function in the program so that the fork bomb read like this:</p>
+</blockquote>
 
-<p>The channel links to the group. Should you ever feel inspired to start commenting, you can join the group from the channel right within Telegram.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>f(){ f|f&amp; };f
+</code></pre></div></div>
 
-<p><em>I know it’s confusing. They really only exist both because I started with the channel, only to learn that you can’t discuss in a channel. The gist is: just join the group. :)</em></p>
+<blockquote>
+  <p>Now it is much easier to understand. It declares a function, f(), which calls itself twice. Even if you’re not familiar with the | and &amp; symbols (&amp; runs a process in the background), the logic of the program becomes clear. The semi-colon near the end separates the function definition from the final command: an initial call to f. That is the fuse that ignites the bomb. […]</p>
+</blockquote>
 
-<h3 id="see-also">See also</h3>
-<ul>
-  <li><a class="internal-link" href="/project-objectives">What I’d like to achieve with this</a></li>
-  <li><a class="internal-link" href="/places-for-interaction">Activities I’d love to see form around this</a></li>
-</ul>
+<blockquote>
+  <p>The aesthetic of the fork bomb, in other words, is not entirely determined by necessity and brevity, but also involves the conscious choice to make the short program appear <strong>alien</strong> and <strong>inscrutable</strong>, written in all punctuation. It makes the script <strong>feel machinic</strong>, not at all intended for the human reader. Jaromil’s fork bomb is perhaps the shortest program that one could call obfuscated.</p>
+</blockquote>
+
+<p>From <a href="https://esoteric.codes/blog/esoprogramming-and-computational-idealism">https://esoteric.codes/blog/esoprogramming-and-computational-idealism</a></p>
 
     </content>
 
@@ -90,19 +108,8 @@
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
       
         <div class="backlink-box">
-        <a class="internal-link" href="/growing-this-site">Growing this site</a><br>
-        <div style="font-size: 0.9em">I’m trying to grow this site in a way that resembles Alexander’s adaptive process — both content and technical features....</div>
-        </div>
-      
-        <div class="backlink-box">
-        <a class="internal-link" href="/now">Now</a><br>
-        <div style="font-size: 0.9em">Infrequently updated status report on what’s on my mind right now (regarding this site).
-</div>
-        </div>
-      
-        <div class="backlink-box">
-        <a class="internal-link" href="/places-for-interaction">Interactive places discussing Christopher Alexander</a><br>
-        <div style="font-size: 0.9em">Some ideas on how to encourage more interactive discussions about Alexander’s ideas.
+        <a class="internal-link" href="/inspired-inklings">Ideas inspired by The Nature of Order</a><br>
+        <div style="font-size: 0.9em">Unfinished inklings which I don’t yet know where to put exactly, so I just collect them here for now:
 </div>
         </div>
       
