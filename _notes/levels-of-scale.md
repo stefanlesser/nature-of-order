@@ -17,7 +17,7 @@ A great variety of well-formed wholes of many different sizes. Often the first t
 
 > A center becomes most intense in its life when other centers near it have a definite size relation to it at a scale which is perhaps half its size, or twice its size — but not *enormously* bigger, or *enormously* smaller. To intensify a given center, we need to make another center perhaps half or quarter of the size of the first. If the smaller one is less than one-tenth of the larger one it is less likely to help it in its intensity.
 
--> Paper: [The Architecture of complexity]
+-> Paper: [[The Architecture of Complexity]]
 
 > In any system where there is good functional order it is necessary that there be functional coherence at different levels, hence necessary that there are recognizable hierarchies in the organization of these functional systems. The presence of a continuous range of structures, at different scales, with one level never too far from the next level above or below, is common both in organic and inorganic nature.
 
