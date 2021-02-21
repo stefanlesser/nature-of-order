@@ -3,11 +3,11 @@
   <head>
   <meta charset="UTF-8">
 
-  <link rel="canonical" href="/why-15-fundamental-properties" />
+  <link rel="canonical" href="/growing-a-lisp-with-structure-preserving-transformations" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="The number of properties is not as important as the order of magnitude — there aren’t going to be many more. This means that relatively few elements, which w...">
+  <meta name="description" content="An experiment to find ways to explore the solution space of program implementations in a way that resembles unfolding and preserves the structure of previous...">
 
   <meta property="og:site_name" content="Notes on The Nature of Order">
 
@@ -16,11 +16,11 @@
   <link rel="stylesheet" href="/styles.css">
 
   
-  <meta property="og:description" content="The number of properties is not as important as the order of magnitude — there aren’t going to be many more. This means that relatively few elements, which w..."/>
+  <meta property="og:description" content="An experiment to find ways to explore the solution space of program implementations in a way that resembles unfolding and preserves the structure of previous..."/>
   
 
   
-  <meta property="og:title" content="Why 15 fundamental properties?">
+  <meta property="og:title" content="Growing a LISP with structure-preserving transformations">
   <meta property="og:type" content="article">
   
 
@@ -29,13 +29,13 @@
   <meta property="article:author" content="/">
   
 
-  <meta property="og:url" content="/why-15-fundamental-properties" />
+  <meta property="og:url" content="/growing-a-lisp-with-structure-preserving-transformations" />
 
   
 
   <title>
     
-      Why 15 fundamental properties? &mdash; Notes on The Nature of Order
+      Growing a LISP with structure-preserving transformations &mdash; Notes on The Nature of Order
     
   </title>
 </head>
@@ -48,42 +48,55 @@
     <div class="wrapper">
       <main><article>
   <div>
-    <h1>Why 15 fundamental properties?</h1>
-    <time datetime="2021-02-02T20:51:11+00:00">
-      Last updated on February 2, 2021
+    <h1>Growing a LISP with structure-preserving transformations</h1>
+    <time datetime="2021-02-21T16:45:51+00:00">
+      Last updated on February 21, 2021
       
     </time>
   </div>
 
   <div id="notes-entry-container">
     <content>
-      <p>The number of properties is not as important as the order of magnitude — there aren’t going to be <em>many</em> more. This means that <strong>relatively few elements</strong>, which we can one day understand and perhaps even explain precisely (mathematically), <strong>can produce all the complexity</strong> and beauty in the world, simply because the number of ways in which centers can be in relationships with each other is limited.</p>
+      <p><em>An experiment to find ways to explore the solution space of program implementations in a way that resembles unfolding and preserves the structure of previous steps.</em></p>
 
-<p><em>In a fully connected graph, relations between nodes increase exponentially with the number of nodes. This is like taking advantage of this rule by using its reverse.</em></p>
+<p>See also: <a class="internal-link" href="/unfolding-a-lisp">Unfolding a LISP</a></p>
 
-<blockquote>
-  <p>The precise number fifteen is not significant. But I do believe that the order of magnitude of the number is significant. Throughout my efforts to define these properties, it was always clear that there were <strong>not five, and not a hundred, but <em>about</em> fifteen</strong> of these properties. It wasn’t possible to go on listing new ones indefinitely.</p>
-</blockquote>
+<h3 id="process">Process</h3>
+<p>I started with <a href="https://github.com/stefanlesser/TinyLisp">an extremely simple LISP I wrote in Swift</a>, inspired by <a href="https://github.com/fogus/ulithp">this LISP written in Ruby</a>.</p>
 
-<p>Although Alexander is pretty sure he found a good set of properties, <strong>there could be more</strong>.</p>
+<p><a href="https://github.com/stefanlesser/TinyLisp/blob/891b6b598570b6f61f34a9cd13c1744101931a36/Sources/TinyLisp/TinyLisp.swift">My first working implementation</a> is about ~150 lines of uncommented Swift code and was deliberately designed to only work with lists and string atoms. There was no capability to work with numbers at that point. I wrote a few tests (by far not enough), and they pass. It seems to work.</p>
 
-<blockquote>
-  <p>There is no certainty that this list is exhaustive. On the other hand, if you try to think up other effects which are combinatorially different from these, you will find it is not very easy. When we focus on the mathematical ways in which centers can be built out of other centers, or the ways in which one center helps to make other centers stronger, <strong>there is a limit to the number of ways</strong> in which this can be done.</p>
-</blockquote>
+<p><a href="https://github.com/stefanlesser/TinyLisp/commit/a167ec7cf6d21c453aea42ae65a58714fa078cab?branch=a167ec7cf6d21c453aea42ae65a58714fa078cab&amp;diff=unified">I then added the capability to distinguish string and number atoms in the most naive way I could think of.</a> The change requires touching a lot of the core functions — changing the structure significantly. It works as far as the existing tests and two added tests implementing a Fibonacci algorithm can tell.</p>
+
+<h3 id="adding-features-with-structure-preserving-transformations">Adding features with structure-preserving transformations</h3>
+<p>I wonder, is it possible to add the capability to work with numbers <em>without</em> changing the structure of the previous, strings-only version?</p>
+
+<ul>
+  <li>Which methods allow to extend the existing working system by only making additive changes (preferably in a separate source file)? <em>In my mind, this would be a structure-preserving transformation: the previous version isn’t changed, it’s structure preserved, and the additions differentiate the previous version enough to enable new functionality, without destroying what worked before. The interesting bit is to make this work under the constraints that both versions need to keep working.</em></li>
+  <li>What would the structure of the previous version ideally look like to enable and perhaps even encourage differentiation in future steps? <em>This is the key question, with potential to figure out techniques that enable actively designing for not yet anticipated changes.</em></li>
+</ul>
+
+<h4 id="potential-approaches">Potential approaches</h4>
+<p>One option to achieve this could be with <strong>inheritance</strong>. However, the original version would need to be written very differently in an object-oriented style.</p>
+
+<p>Another — more “swift-y” way — could be to leverage the <strong>type system</strong> and generalize the strings-only version enough such that the differentiated numbers-version could inject more concrete types.</p>
+
+<p>Usually, we leverage generics to make specific implementations more widely usable in other contexts. We go from most specific to less specific/more generic. There is also a sentiment that this is the right way to do this.</p>
+
+<p>But what if we went the other direction? What if we started with abstract types everywhere and carefully and gradually added more specifics — in the form of protocol conformances on parametric types? That sounds to me like a pretty literal translation of Alexander’s process to software development.</p>
+
+<p><em>I’m not sure if this already counts as a proof-of-concept, but <a href="https://github.com/stefanlesser/TinyLisp/commit/96890b2508cdc86e0ca7eeab011efbe362162264">I’m surprised how straightforward that was in this rather simple example.</a></em></p>
 
     </content>
 
     <side style="font-size: 0.9em">
       <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
       
-      <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
-      
-        <div class="backlink-box">
-        <a class="internal-link" href="/fifteen-fundamental-properties">15 fundamental properties</a><br>
-        <div style="font-size: 0.9em">Recurring identifiable structural characteristics of objects and buildings which manifest in their geometric features.
-</div>
-        </div>
-      
+
+      <div style="font-size: 0.9em">
+        <p>
+          There are no notes linking to this note.
+        </p>
       </div>
       
     </side>

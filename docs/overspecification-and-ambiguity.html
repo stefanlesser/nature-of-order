@@ -3,11 +3,11 @@
   <head>
   <meta charset="UTF-8">
 
-  <link rel="canonical" href="/why-15-fundamental-properties" />
+  <link rel="canonical" href="/overspecification-and-ambiguity" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="The number of properties is not as important as the order of magnitude — there aren’t going to be many more. This means that relatively few elements, which w...">
+  <meta name="description" content="  Successively adding detail to a description of a process (meta, I know), is exactly how you make software.  Software development is little more than mappin...">
 
   <meta property="og:site_name" content="Notes on The Nature of Order">
 
@@ -16,11 +16,11 @@
   <link rel="stylesheet" href="/styles.css">
 
   
-  <meta property="og:description" content="The number of properties is not as important as the order of magnitude — there aren’t going to be many more. This means that relatively few elements, which w..."/>
+  <meta property="og:description" content="  Successively adding detail to a description of a process (meta, I know), is exactly how you make software.  Software development is little more than mappin..."/>
   
 
   
-  <meta property="og:title" content="Why 15 fundamental properties?">
+  <meta property="og:title" content="Successively adding detail — over-specification and ambiguity">
   <meta property="og:type" content="article">
   
 
@@ -29,13 +29,13 @@
   <meta property="article:author" content="/">
   
 
-  <meta property="og:url" content="/why-15-fundamental-properties" />
+  <meta property="og:url" content="/overspecification-and-ambiguity" />
 
   
 
   <title>
     
-      Why 15 fundamental properties? &mdash; Notes on The Nature of Order
+      Successively adding detail — over-specification and ambiguity &mdash; Notes on The Nature of Order
     
   </title>
 </head>
@@ -48,42 +48,83 @@
     <div class="wrapper">
       <main><article>
   <div>
-    <h1>Why 15 fundamental properties?</h1>
-    <time datetime="2021-02-02T20:51:11+00:00">
-      Last updated on February 2, 2021
+    <h1>Successively adding detail — over-specification and ambiguity</h1>
+    <time datetime="2021-02-21T16:45:51+00:00">
+      Last updated on February 21, 2021
       
     </time>
   </div>
 
   <div id="notes-entry-container">
     <content>
-      <p>The number of properties is not as important as the order of magnitude — there aren’t going to be <em>many</em> more. This means that <strong>relatively few elements</strong>, which we can one day understand and perhaps even explain precisely (mathematically), <strong>can produce all the complexity</strong> and beauty in the world, simply because the number of ways in which centers can be in relationships with each other is limited.</p>
+      <blockquote>
+  <p>Successively adding detail to a description of a process (meta, I know), is exactly how you make software.</p>
 
-<p><em>In a fully connected graph, relations between nodes increase exponentially with the number of nodes. This is like taking advantage of this rule by using its reverse.</em></p>
+  <p>Software development is little more than mapping a desired outcome to a precise procedure for achieving that outcome, and as we carry this mapping-out, we successively add detail.</p>
 
-<blockquote>
-  <p>The precise number fifteen is not significant. But I do believe that the order of magnitude of the number is significant. Throughout my efforts to define these properties, it was always clear that there were <strong>not five, and not a hundred, but <em>about</em> fifteen</strong> of these properties. It wasn’t possible to go on listing new ones indefinitely.</p>
+  <p>— <a href="https://dorian.substack.com/p/place-space-time">Place, Space, Time</a></p>
 </blockquote>
 
-<p>Although Alexander is pretty sure he found a good set of properties, <strong>there could be more</strong>.</p>
+<blockquote>
+  <p>Code both over-specifies the business logic, and specifies it inaccurately.</p>
+
+  <p>— <a href="http://brooker.co.za/blog/2020/06/23/code">Code Only Says What it Does</a></p>
+</blockquote>
+
+<p>This almost rhymes with:</p>
 
 <blockquote>
-  <p>There is no certainty that this list is exhaustive. On the other hand, if you try to think up other effects which are combinatorially different from these, you will find it is not very easy. When we focus on the mathematical ways in which centers can be built out of other centers, or the ways in which one center helps to make other centers stronger, <strong>there is a limit to the number of ways</strong> in which this can be done.</p>
+  <p>Beauty comes when form fits function. The real world is bumpy, and the most efficient solutions are tailored to that bumpiness. Hence Alexander likes everything to be specialized; he doesn’t go for much low-level reuse. He does go for reuse at higher levels. He has symmetries and recurring patterns. He seems to believe beauty involves the tension between high-level symmetry and low-level bumpiness.</p>
+
+  <p>— <a href="http://wiki.c2.com/?SoftwareLacksaBody">Software Lacks a Body</a></p>
 </blockquote>
+
+<p>In natural (spoken/written) language we deal with concepts that are only roughly defined in our heads, just enough that we understand the meaning. And in those situations where we don’t understand, we can often learn about it just enough by asking a quick question.</p>
+
+<p>There is power in wielding symbols as stand-ins for concepts and accepting the ambiguity that comes with it. We don’t have to specify ideas down to their last bits and atoms, we just need to get to a level of abstraction that is far enough down to make sense.</p>
+
+<p>We can’t do that in software. I mean, we can, and design patterns are one way of doing exactly that (and <a class="internal-link" href="/unfolding-a-lisp">here I’m thinking of another</a>), but to get from a pattern to a working software application we need to get all our bits in order — we have to over-specify it such that a dumb machine knows exactly what to do.</p>
+
+<blockquote>
+  <p>In the process of making software, a subject that is near and dear to me, I have found that the information gathered that yields the decisions that configure the final product tends to get tossed when that product is realized. This I consider to be a grievous mistake.</p>
+
+  <p>[…]</p>
+
+  <p>Source code is far and away the most perishable part of the system, but it’s treated as the most valuable because it’s the part that does the work. Effort into the precursor material is only as much as it takes to get to the code, and then it’s locked away in formats that are not (at least conveniently and/or persistently) addressable. I believe this is a terrific waste and I endeavour to do something about it.</p>
+
+  <p>— <a href="https://dorian.substack.com/p/place-space-time">Place, Space, Time</a></p>
+</blockquote>
+
+<h3 id="documentation-as-higher-level-specs">Documentation as higher-level specs</h3>
+<p>We mostly think of higher-level specs as documentation for making changes later or maintenance and we tend to do it after the fact, if we do it at all.</p>
+
+<blockquote>
+  <p>I’m not advocating for Big Design Up Front. Many of the most important things we learn about a project we learn during the implementation. Some of the most important things we learn years after the implementation is complete. Design documentation isn’t a static one-time ahead-of-time deliverable, but an ongoing process. Most importantly, design documentation is not a commitment to bad ideas. If it’s wrong, fix it and move forward. Documentation is not a deal with the devil.</p>
+
+  <p>[…]</p>
+
+  <p>Building long-lasting, maintainable, systems requires not only communicating with computers, but also communicating in space with other people, and in time with our future selves. Communicating, recording, and indexing the intent behind our designs is an important part of that picture. Make time for it, or regret it later.</p>
+
+  <p>— <a href="http://brooker.co.za/blog/2020/06/23/code">Code Only Says What it Does</a></p>
+</blockquote>
+
+<p>It seems that we have it backwards. Higher-level specs should help us <em>generate</em> a fully detailed result. Not in a planning kind of way. More in a pattern (or sequence) kind of way. Those patterns can potentially be reused if we ever need a similar solution again, although re-use is not the main reason to do it. The main reason is that it helps us do what looks like maintenance, even though it is just further unfolding the whole in response to its environment, after that arbitrary chosen moment in time when it was supposed to be “done”.</p>
+
+<h3 id="specifying-process-vs-specifying-results">Specifying process vs. specifying results</h3>
+<p>This also seems connected to the connection between specifying process and specifying results, or imperative vs. declarative. Sometimes it’s easier to precisely specify the result, and sometimes it’s easier to specify the process instead. Alexander seems to make a point that to create living structure, it is much easier to describe the process to generate a living result and that it is next to impossible for us to describe the intricate details of the result.</p>
+
+<p>Specifying a (generative) process allows creating much more complex output than what we could come up with if we had to describe the structure of that output. Complexity needs to grow. It shouldn’t be designed.</p>
 
     </content>
 
     <side style="font-size: 0.9em">
       <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
       
-      <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
-      
-        <div class="backlink-box">
-        <a class="internal-link" href="/fifteen-fundamental-properties">15 fundamental properties</a><br>
-        <div style="font-size: 0.9em">Recurring identifiable structural characteristics of objects and buildings which manifest in their geometric features.
-</div>
-        </div>
-      
+
+      <div style="font-size: 0.9em">
+        <p>
+          There are no notes linking to this note.
+        </p>
       </div>
       
     </side>
