@@ -3,11 +3,11 @@
   <head>
   <meta charset="UTF-8">
 
-  <link rel="canonical" href="/unfolding-a-lisp" />
+  <link rel="canonical" href="/b4-c0-s1-authors-note" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="Building a LISP interpreter in a way that resembles Alexander’s process of unfolding.">
+  <meta name="description" content="  There are phenomena in the universe that are explainable only by means of specific models, or approaches, and not by any other means. Nature has many diffe...">
 
   <meta property="og:site_name" content="Notes on The Nature of Order">
 
@@ -16,11 +16,11 @@
   <link rel="stylesheet" href="/styles.css">
 
   
-  <meta property="og:description" content="Building a LISP interpreter in a way that resembles Alexander’s process of unfolding."/>
+  <meta property="og:description" content="  There are phenomena in the universe that are explainable only by means of specific models, or approaches, and not by any other means. Nature has many diffe..."/>
   
 
   
-  <meta property="og:title" content="Unfolding a LISP">
+  <meta property="og:title" content="Author’s note">
   <meta property="og:type" content="article">
   
 
@@ -29,13 +29,13 @@
   <meta property="article:author" content="/">
   
 
-  <meta property="og:url" content="/unfolding-a-lisp" />
+  <meta property="og:url" content="/b4-c0-s1-authors-note" />
 
   
 
   <title>
     
-      Unfolding a LISP &mdash; Notes on The Nature of Order
+      Author’s note &mdash; Notes on The Nature of Order
     
   </title>
 </head>
@@ -48,101 +48,96 @@
     <div class="wrapper">
       <main><article>
   <div>
-    <h1>Unfolding a LISP</h1>
-    <time datetime="2021-02-11T11:34:06+00:00">
-      Last updated on February 11, 2021
+    <h1>Author’s note</h1>
+    <time datetime="2021-02-22T15:09:04+00:00">
+      Last updated on February 22, 2021
       
     </time>
   </div>
 
   <div id="notes-entry-container">
     <content>
-      <p>Building a LISP interpreter in a way that resembles Alexander’s process of unfolding.</p>
+      <blockquote>
+  <p>There are phenomena in the universe that are explainable only by means of specific models, or approaches, and not by any other means. Nature has many different aspects and is not a single reality; at least the human mind cannot comprehend everything at once using a single model.</p>
+</blockquote>
 
-<p><em>Inspired and roughly based on <a href="https://github.com/kanaka/mal/blob/master/process/guide.md">https://github.com/kanaka/mal/blob/master/process/guide.md</a>.</em></p>
-
-<h2 id="mapping-architecture-concepts-to-software">Mapping architecture concepts to software</h2>
-<p>How do concepts from architecture map to software? Let’s try:</p>
-
-<p>The material we build software with is code of a particular programming language. The technology we use are language-specific features and techniques common in that language. The result is a program running in an execution environment, either compiled for a certain machine instruction set or interpreted in the host process.</p>
+<dl>
+  <dt>The Nature of Order</dt>
+  <dd>complete overview of: phenomenon of life in architecture + issue of value (inseparable from life)</dd>
+</dl>
 
 <ul>
-  <li>Programming language code = <em>material</em></li>
-  <li>Language features = <em>technology</em></li>
-  <li>Execution environment = <em>site</em>
+  <li>Book 1
     <ul>
-      <li>compiled: (virtual) machine instruction set + state</li>
-      <li>interpreted: host process + runtime + state</li>
+      <li>static character of living structure</li>
+    </ul>
+  </li>
+  <li>Book 2 &amp; 3
+    <ul>
+      <li>view of living processes, which can successfully generate living structure</li>
     </ul>
   </li>
 </ul>
 
+<h3 id="living-phenomena">Living phenomena</h3>
+<ul>
+  <li>are <strong>commonly observable</strong>
+    <ul>
+      <li>we see and feel them when they are present in the structure of the world</li>
+    </ul>
+  </li>
+  <li>are <strong>difficult to explain</strong>
+    <ul>
+      <li>cannot be explained within the world picture of conventional 19th-century mechanics</li>
+      <li>cannot be explained in the world views (as we know them at the end of the 20th century) of
+        <ul>
+          <li>biology</li>
+          <li>complex systems theory</li>
+          <li>quantum physics</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>do not fit within any <strong>previous explanatory context</strong></li>
+  <li>need their <strong>own model</strong></li>
+</ul>
+
+<h2 id="analogy-to-quantum-mechanics">Analogy to quantum mechanics</h2>
 <blockquote>
-  <p>Materials and technology change from era to era. It is in the nature of human society that these things evolve and will be different with each period of history. But within the enormous variation of materials and technique which inevitably change from age to age, we may identify certain invariants that must arise repeatedly, from the fundamental process.[^b3.c16.s13]</p>
+  <p>Whether a person has philosophical reservations about the basis of quantum mechanics or not, it remains true that it is useful, and that no other formalism available when it was first formulated, or now, does an equally good job explaining what has to be explained, in a certain range of phenomena.</p>
 </blockquote>
 
-<p>If code and language features are the material and technology of building software, and if these are expected to change, then we need a more abstract pattern language to describe generic sequences that can be used to describe certain functionality, but in a language-agnostic way.</p>
+<p>“All models are wrong, but some are useful.”</p>
 
-<h2 id="a-project-that-unfolds">A project that unfolds</h2>
-<p>The <em>Make-A-Lisp</em> project describes the implementation of an application — a LISP interpreter — in a sequence of 11 steps. Each step builds on the result of the former step. And each step results in an executable, and testable, application. In that way, the project guide can be considered a <em>sequence</em> written in a <em>pattern language</em> in the Alexandrian sense. And if you look at the architecture diagrams for each step, you’ll find that the structure unfolds in differentiating steps.</p>
+<dl>
+  <dt>The Nature of Order</dt>
+  <dd>a workable explanation of the physical and emotional phenomena observed in buildings and the living world</dd>
+</dl>
 
-<p>As far as I can tell, the project wasn’t designed with Alexander in mind; it just happens to be an example of an unfolding process.</p>
-
-<p>Let’s look which centers we can find in each step.</p>
-
-<h3 id="step-0-read-eval-print-loop-repl">Step 0: Read-Eval-Print loop (REPL)</h3>
 <blockquote>
-  <p>This step is basically just creating a skeleton of your interpreter.</p>
+  <p>What I am putting forward in these four books of <em>The Nature of Order</em> is — for the present — the only theoretical explanation I can construct (until a better one comes along) to help us understand what I have described.</p>
 </blockquote>
 
-<p>The largest structure established in the first step is (a) a common pattern and (b) closely related to the user interface: users are expected to interact through a text-based terminal-like interface. You can enter a command, it will be processed, and the result will be printed on screen. Then it starts over, waiting for the next command. This is a REPL — a read-eval-print loop.</p>
-
-<p>The REPL becomes the first center, with a circular structure — it repeats, potentially endlessly. As part of it, smaller centers are established within it as the steps that are repeated with each iteration:</p>
-
-<ol>
-  <li>The read step: read a command from the user</li>
-  <li>The evaluation step: evaluate the command and compute the result</li>
-  <li>The print step: print the result</li>
-</ol>
-
-<p>We end up with an executable program which doesn’t do much yet, but it does loop through reading a command and printing it (without any evaluation).</p>
-
-<p><em>What’s a bit confusing is that the structure of a program is more of a process than it is a static structure. Although we can clearly see how the process has more static parts — the 3-step loop structure isn’t going to change — and more dynamic parts — the exact user input will be unknown until we run the finished program, so we won’t be able to assume much about it (apart from its structure… oh well, more meta levels of circular references).</em></p>
-
-<h3 id="step-1-read-and-print">Step 1: Read and Print</h3>
+<h3 id="understanding--practical-applications">Understanding + practical applications</h3>
 <blockquote>
-  <p>In this step, your interpreter will “read” the string from the user and parse it into an internal tree data structure (an abstract syntax tree) and then take that data structure and “print” it back to a string.</p>
+  <p>Not only do we want to understand this set of phenomena, but we must also be able to reproduce them: we want to be able to create living structure in the world. […]
+We wish to apply this model of the universe in order to reproduce the phenomena that we are interested in.</p>
 </blockquote>
 
-<p>The second step focuses on the <em>Read</em> and the <em>Print</em> centers. Although much of the interesting stuff is going to happen with the <em>Evaluate</em> center, we can’t quite do anything there until we put some infrastructure in place — we need to be able to work with the input from the user.</p>
-
-<p>First, we need to parse the input from its text representation into a structure we can work with: we break the input down into smaller components and arrange them in a tree structure — in a way this is also a differentiation process strengthening the latent centers in the string and turning them into strong centers. This process is known as parsing; we basically created a <em>Parser</em> as a new center within <em>Read</em>. The parsed abstract syntax tree (AST) is then passed over to the <em>Evaluate</em> center/step.</p>
-
-<p><em>Parsing is another one of these well-understood patterns with lots of different flavors of implementation. A parser, therefore, can be seen as a complex center which has itself been unfolded from a generic sequence that describes how to build a parser. In software development we usually default to a pre-made component and many of the implementations that are part of the _Mal_ project do import libraries for this.</em></p>
-
-<p>We ignore <em>Evaluate</em> for now and just pass the AST through to the <em>Print</em> center/step.</p>
-
-<p>Then, in the <em>Print</em> center/step, we need to do the opposite of parsing to turn the tree back into a string. This direction is much easier because we go from a more complex hierarchical structure to a much simpler sequential structure. We create a <em>Printer</em> as a new center within <em>Print</em>.</p>
-
-<p><em>Here the project diverges somewhat from a “proper” unfolding process as it suggests implementing a parser for the whole language in this step, including constructs that won’t become essential until much later in the sequence. A properly unfolded process would restrict itself to only what is required in this step, or otherwise the most simple version of differentiation that strengthens latent centers (in this case I’d interpret “latent” as functionality which might not be required right now in this step, but is already clearly visible on the horizon for the step likely to be taken next.).</em></p>
-
-<p>This step in the sequence is made of two steps which each take a center and strengthen it by introducing a smaller center within it:</p>
-
-<ol>
-  <li><em>Read</em>: <em>Parser</em></li>
-  <li><em>Print</em>: <em>Printer</em></li>
-</ol>
-
-<p><em>Not sure how useful it is to split these into separate steps in the sequence…? To get to an executable program, both centers need to be in place. They are duals that depend on each other — perhaps one way symmetries manifest in the structure of this application.</em></p>
-
-<h3 id="step-2">Step 2:</h3>
 <blockquote>
-  <p>In step 1 your mal interpreter was basically just a way to validate input and eliminate extraneous white space. In this step you will turn your interpreter into a simple number calculator by adding functionality to the evaluator (EVAL).</p>
+  <p>The explanation that I give is not complete, and it is my hope that it will be improved by others in years to come.</p>
 </blockquote>
 
-<p>This step now focuses on the <em>Evaluate</em> center/step, and establishes three new centers within it: It introduces an environment (holding four operations) and then differentiates the existing <code class="language-plaintext highlighter-rouge">eval</code> function into two <code class="language-plaintext highlighter-rouge">eval</code> and <code class="language-plaintext highlighter-rouge">eval_ast</code> functions.</p>
+<h2 id="is-it-real">Is it real?</h2>
+<blockquote>
+  <p>Well, the phenomena are observable, and the results are reproducible (when we create an artifact or building that has the proposed qualities), so this part at least corresponds to reality.</p>
+</blockquote>
 
-<p><em>I have yet to fully understand why that second part — splitting <code class="language-plaintext highlighter-rouge">eval</code> into two separate functions — is necessary. In my implementation I kept them as one and it works fine. Perhaps this is another premature introduction of structure that will become important much later in the sequence?</em></p>
+<blockquote>
+  <p>The theoretical explanation is simply an attempts to consolidate the observed phenomena. A reader who rejects some aspects of my explanation in Book 4 as too unlikely, should keep in mind that this is but an attempt to explain certain observed phenomena. It helps us to understand a particular aspect of physical reality.</p>
+</blockquote>
+
+<p>#book/The Nature of Order/4 The Luminous Ground/Author’s note# (pages xv-xvi)</p>
 
     </content>
 
@@ -152,19 +147,8 @@
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
       
         <div class="backlink-box">
-        <a class="internal-link" href="/growing-a-lisp-with-structure-preserving-transformations">Growing a LISP with structure-preserving transformations</a><br>
-        <div style="font-size: 0.9em">An experiment to find ways to explore the solution space of program implementations in a way that resembles unfolding and...</div>
-        </div>
-      
-        <div class="backlink-box">
-        <a class="internal-link" href="/inspired-inklings">Ideas inspired by The Nature of Order</a><br>
-        <div style="font-size: 0.9em">Unfinished inklings which I don’t yet know where to put exactly, so I just collect them here for now:
-</div>
-        </div>
-      
-        <div class="backlink-box">
-        <a class="internal-link" href="/overspecification-and-ambiguity">Successively adding detail — over-specification and ambiguity</a><br>
-        <div style="font-size: 0.9em">Successively adding detail to a description of a process (meta, I know), is exactly how you make software. Software development...</div>
+        <a class="internal-link" href="/book-4-cliff-notes">Book 4 cliff notes</a><br>
+        <div style="font-size: 0.9em">I experiment with different note taking techniques and switch with each book. This is not (yet) a collection of the...</div>
         </div>
       
       </div>

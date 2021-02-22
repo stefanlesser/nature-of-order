@@ -3,11 +3,11 @@
   <head>
   <meta charset="UTF-8">
 
-  <link rel="canonical" href="/unfolding-a-lisp" />
+  <link rel="canonical" href="/b4-c0-s4-that-exists-in-me-and-before-me-and-after-me" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="Building a LISP interpreter in a way that resembles Alexander’s process of unfolding.">
+  <meta name="description" content="  Effectively, what all this amounts to is that in the process of making things through living process, gradually I approach more and more closely knowledge ...">
 
   <meta property="og:site_name" content="Notes on The Nature of Order">
 
@@ -16,11 +16,11 @@
   <link rel="stylesheet" href="/styles.css">
 
   
-  <meta property="og:description" content="Building a LISP interpreter in a way that resembles Alexander’s process of unfolding."/>
+  <meta property="og:description" content="  Effectively, what all this amounts to is that in the process of making things through living process, gradually I approach more and more closely knowledge ..."/>
   
 
   
-  <meta property="og:title" content="Unfolding a LISP">
+  <meta property="og:title" content="That exists in me, and before me, and after me">
   <meta property="og:type" content="article">
   
 
@@ -29,13 +29,13 @@
   <meta property="article:author" content="/">
   
 
-  <meta property="og:url" content="/unfolding-a-lisp" />
+  <meta property="og:url" content="/b4-c0-s4-that-exists-in-me-and-before-me-and-after-me" />
 
   
 
   <title>
     
-      Unfolding a LISP &mdash; Notes on The Nature of Order
+      That exists in me, and before me, and after me &mdash; Notes on The Nature of Order
     
   </title>
 </head>
@@ -48,101 +48,64 @@
     <div class="wrapper">
       <main><article>
   <div>
-    <h1>Unfolding a LISP</h1>
-    <time datetime="2021-02-11T11:34:06+00:00">
-      Last updated on February 11, 2021
+    <h1>That exists in me, and before me, and after me</h1>
+    <time datetime="2021-02-22T15:09:04+00:00">
+      Last updated on February 22, 2021
       
     </time>
   </div>
 
   <div id="notes-entry-container">
     <content>
-      <p>Building a LISP interpreter in a way that resembles Alexander’s process of unfolding.</p>
-
-<p><em>Inspired and roughly based on <a href="https://github.com/kanaka/mal/blob/master/process/guide.md">https://github.com/kanaka/mal/blob/master/process/guide.md</a>.</em></p>
-
-<h2 id="mapping-architecture-concepts-to-software">Mapping architecture concepts to software</h2>
-<p>How do concepts from architecture map to software? Let’s try:</p>
-
-<p>The material we build software with is code of a particular programming language. The technology we use are language-specific features and techniques common in that language. The result is a program running in an execution environment, either compiled for a certain machine instruction set or interpreted in the host process.</p>
-
-<ul>
-  <li>Programming language code = <em>material</em></li>
-  <li>Language features = <em>technology</em></li>
-  <li>Execution environment = <em>site</em>
-    <ul>
-      <li>compiled: (virtual) machine instruction set + state</li>
-      <li>interpreted: host process + runtime + state</li>
-    </ul>
-  </li>
-</ul>
-
-<blockquote>
-  <p>Materials and technology change from era to era. It is in the nature of human society that these things evolve and will be different with each period of history. But within the enormous variation of materials and technique which inevitably change from age to age, we may identify certain invariants that must arise repeatedly, from the fundamental process.[^b3.c16.s13]</p>
+      <blockquote>
+  <p>Effectively, what all this amounts to is that in the process of making things through living process, <strong>gradually I approach</strong> more and more closely <strong>knowledge of what is truly in my own heart</strong>.</p>
 </blockquote>
 
-<p>If code and language features are the material and technology of building software, and if these are expected to change, then we need a more abstract pattern language to describe generic sequences that can be used to describe certain functionality, but in a language-agnostic way.</p>
+<hr />
 
-<h2 id="a-project-that-unfolds">A project that unfolds</h2>
-<p>The <em>Make-A-Lisp</em> project describes the implementation of an application — a LISP interpreter — in a sequence of 11 steps. Each step builds on the result of the former step. And each step results in an executable, and testable, application. In that way, the project guide can be considered a <em>sequence</em> written in a <em>pattern language</em> in the Alexandrian sense. And if you look at the architecture diagrams for each step, you’ll find that the structure unfolds in differentiating steps.</p>
-
-<p>As far as I can tell, the project wasn’t designed with Alexander in mind; it just happens to be an example of an unfolding process.</p>
-
-<p>Let’s look which centers we can find in each step.</p>
-
-<h3 id="step-0-read-eval-print-loop-repl">Step 0: Read-Eval-Print loop (REPL)</h3>
 <blockquote>
-  <p>This step is basically just creating a skeleton of your interpreter.</p>
+  <p>Gradually, the older I got, I recognized […] that the thing which did have true value was only that thing which lay in my own heart. Then I learned to value only that which truly activates what is in my heart. I came to value those experiences which activate my heart as it really is. I sought, more and more, only those experiences which have the capacity, the depth, to activate the feeling that is my real feeling, in my true childish heart. And I learned, slowly, to <em>make</em> things which are of that nature.</p>
 </blockquote>
 
-<p>The largest structure established in the first step is (a) a common pattern and (b) closely related to the user interface: users are expected to interact through a text-based terminal-like interface. You can enter a command, it will be processed, and the result will be printed on screen. Then it starts over, waiting for the next command. This is a REPL — a read-eval-print loop.</p>
+<hr />
 
-<p>The REPL becomes the first center, with a circular structure — it repeats, potentially endlessly. As part of it, smaller centers are established within it as the steps that are repeated with each iteration:</p>
-
-<ol>
-  <li>The read step: read a command from the user</li>
-  <li>The evaluation step: evaluate the command and compute the result</li>
-  <li>The print step: print the result</li>
-</ol>
-
-<p>We end up with an executable program which doesn’t do much yet, but it does loop through reading a command and printing it (without any evaluation).</p>
-
-<p><em>What’s a bit confusing is that the structure of a program is more of a process than it is a static structure. Although we can clearly see how the process has more static parts — the 3-step loop structure isn’t going to change — and more dynamic parts — the exact user input will be unknown until we run the finished program, so we won’t be able to assume much about it (apart from its structure… oh well, more meta levels of circular references).</em></p>
-
-<h3 id="step-1-read-and-print">Step 1: Read and Print</h3>
 <blockquote>
-  <p>In this step, your interpreter will “read” the string from the user and parse it into an internal tree data structure (an abstract syntax tree) and then take that data structure and “print” it back to a string.</p>
+  <p>Then, gradually, I began to recognize that in the midst of that cleverness, which I never truly understood anyway, the one thing I could trust was a small voice, a tiny soft-and-hard vulnerable feeling, recognizable, which was something I actually <em>knew</em>. Slowly that knowledge grew in me. It was the stuff which I was actually certain of — not because it aped what others had taught me, but because I knew it to be true of itself, in me.</p>
 </blockquote>
 
-<p>The second step focuses on the <em>Read</em> and the <em>Print</em> centers. Although much of the interesting stuff is going to happen with the <em>Evaluate</em> center, we can’t quite do anything there until we put some infrastructure in place — we need to be able to work with the input from the user.</p>
+<p><em>I can’t truly claim that I understand what he is talking about, but it strangely resonates deeply. I don’t know how to describe how I choose the specific path of my research journey over the last four years, and it surely looks almost random even to myself, however, there is almost always a strong feeling of knowing involved. It’s not the kind of knowing as in “I understand it and can explain it”. It’s the kind of knowing as in “this must be right, I know it”. And more often than not do the outcomes in hindsight look exactly like what I needed to investigate, as slowly and gradually, all the pieces click into place.</em></p>
 
-<p>First, we need to parse the input from its text representation into a structure we can work with: we break the input down into smaller components and arrange them in a tree structure — in a way this is also a differentiation process strengthening the latent centers in the string and turning them into strong centers. This process is known as parsing; we basically created a <em>Parser</em> as a new center within <em>Read</em>. The parsed abstract syntax tree (AST) is then passed over to the <em>Evaluate</em> center/step.</p>
+<hr />
 
-<p><em>Parsing is another one of these well-understood patterns with lots of different flavors of implementation. A parser, therefore, can be seen as a complex center which has itself been unfolded from a generic sequence that describes how to build a parser. In software development we usually default to a pre-made component and many of the implementations that are part of the _Mal_ project do import libraries for this.</em></p>
-
-<p>We ignore <em>Evaluate</em> for now and just pass the AST through to the <em>Print</em> center/step.</p>
-
-<p>Then, in the <em>Print</em> center/step, we need to do the opposite of parsing to turn the tree back into a string. This direction is much easier because we go from a more complex hierarchical structure to a much simpler sequential structure. We create a <em>Printer</em> as a new center within <em>Print</em>.</p>
-
-<p><em>Here the project diverges somewhat from a “proper” unfolding process as it suggests implementing a parser for the whole language in this step, including constructs that won’t become essential until much later in the sequence. A properly unfolded process would restrict itself to only what is required in this step, or otherwise the most simple version of differentiation that strengthens latent centers (in this case I’d interpret “latent” as functionality which might not be required right now in this step, but is already clearly visible on the horizon for the step likely to be taken next.).</em></p>
-
-<p>This step in the sequence is made of two steps which each take a center and strengthen it by introducing a smaller center within it:</p>
-
-<ol>
-  <li><em>Read</em>: <em>Parser</em></li>
-  <li><em>Print</em>: <em>Printer</em></li>
-</ol>
-
-<p><em>Not sure how useful it is to split these into separate steps in the sequence…? To get to an executable program, both centers need to be in place. They are duals that depend on each other — perhaps one way symmetries manifest in the structure of this application.</em></p>
-
-<h3 id="step-2">Step 2:</h3>
 <blockquote>
-  <p>In step 1 your mal interpreter was basically just a way to validate input and eliminate extraneous white space. In this step you will turn your interpreter into a simple number calculator by adding functionality to the evaluator (EVAL).</p>
+  <p>Usually the things which embodied this knowledge were very small things, things so small that in ordinary discourse they might have seemed insignificant, like the fact that I felt comfortable when my back sank into a pillow arranged in a certain way, and the fact that a cup of tea was more comforting, when I lay thus, with my back in that pillow, staring at the sky.</p>
+
+  <p>Then in my later years I gradually began to recognize that this realistic voice, breaking through — and which by now, I had identified in many concrete ways, even to the point of writing this stuff down so others could recognize it also, for themselves, in their way, in their own hearts — was my own voice, the voice that had always been in me, since childhood, but which as a young man I had pushed away and which, now, again, I began to recognize as the only true value.</p>
+
+  <p>But this knowing of myself, and what was in my own true heart, was not only childish. Because at the same time that I recognized it in small things — like cups of tea, leaves blowing off an autumn tree, a pebble underfoot — I also began to recognize it in very great things, in works made by artists centuries away from us in time, thousands of miles away in space. In some thing which one of them had made, suddenly this childish heart, this me, came rushing back.</p>
 </blockquote>
 
-<p>This step now focuses on the <em>Evaluate</em> center/step, and establishes three new centers within it: It introduces an environment (holding four operations) and then differentiates the existing <code class="language-plaintext highlighter-rouge">eval</code> function into two <code class="language-plaintext highlighter-rouge">eval</code> and <code class="language-plaintext highlighter-rouge">eval_ast</code> functions.</p>
+<hr />
 
-<p><em>I have yet to fully understand why that second part — splitting <code class="language-plaintext highlighter-rouge">eval</code> into two separate functions — is necessary. In my implementation I kept them as one and it works fine. Perhaps this is another premature introduction of structure that will become important much later in the sequence?</em></p>
+<blockquote>
+  <p>Somehow, I began to realize that the greatest masters of their craft were those who somehow managed to release, in me, that childish heart which is my true voice, and with which I am completely comfortable and completely free.</p>
+
+  <p>Knowing this changed my perspective. What at first seemed like a return to childhood or a simple increase of the personal, gradually took on a different character. I begin to realize that what I come in touch with when I go closer and closer to myself is not just “me”. It is something vast, existing outside myself and inside myself, as if it were a contact with the eternal, something everlasting existing before me, in me, and around me. I recognized, too, that my most lucid moments occur when I am swept up in this void, and fully conscious of it, as if it were a blinding light.</p>
+</blockquote>
+
+<hr />
+
+<blockquote>
+  <p>Yet even though I am next to nothing in the presence of all this force, I am free there. In such a place, at such a moment, I am crushed to understand my own smallness, and then understand the immensity of what exists. But this immensity of what exists — and my connection to it — is not only something in my heart. It is a vastness which is outside me and beyond me and inside of me.</p>
+
+  <p>Actions and objects increase or decrease my connection to this vastness, which is in me, and which is also real. A concrete corridor without windows and which and endless line of doors is less likely to awaken it in me than a small apple tree in bloom. The brick on my front doorstep may awaken it, if it is ordinary, soft, like life in its construction.</p>
+
+  <p>It is at once enormous in extent and infinitely intimate and personal.</p>
+</blockquote>
+
+<p><em>This reminds me of many stories I heard and read from people who had psychedelic experiences, reporting a feeling of strong connection to “a larger whole” or being able to see the connections between everything at once.</em></p>
+
+<p>(Pages 5-7)</p>
 
     </content>
 
@@ -152,19 +115,8 @@
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
       
         <div class="backlink-box">
-        <a class="internal-link" href="/growing-a-lisp-with-structure-preserving-transformations">Growing a LISP with structure-preserving transformations</a><br>
-        <div style="font-size: 0.9em">An experiment to find ways to explore the solution space of program implementations in a way that resembles unfolding and...</div>
-        </div>
-      
-        <div class="backlink-box">
-        <a class="internal-link" href="/inspired-inklings">Ideas inspired by The Nature of Order</a><br>
-        <div style="font-size: 0.9em">Unfinished inklings which I don’t yet know where to put exactly, so I just collect them here for now:
-</div>
-        </div>
-      
-        <div class="backlink-box">
-        <a class="internal-link" href="/overspecification-and-ambiguity">Successively adding detail — over-specification and ambiguity</a><br>
-        <div style="font-size: 0.9em">Successively adding detail to a description of a process (meta, I know), is exactly how you make software. Software development...</div>
+        <a class="internal-link" href="/book-4-cliff-notes">Book 4 cliff notes</a><br>
+        <div style="font-size: 0.9em">I experiment with different note taking techniques and switch with each book. This is not (yet) a collection of the...</div>
         </div>
       
       </div>
