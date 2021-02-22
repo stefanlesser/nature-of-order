@@ -57,5 +57,8 @@ Book 3 is about implementation of living processes. With many examples of his ow
 		* -> *perhaps top-level, book 1 preface?*
 
 ### Book 4: The Luminous Ground
+*I’m currently in the process of reading book 4. Follow my raw [[Book 4 cliff notes]] as I take them.*
 
-* …
+* Part 1
+* Part 2
+* Conclusion to the four books

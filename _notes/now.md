@@ -2,7 +2,7 @@
 title: Now
 ---
 
-Infrequently updated status report on what’s on my mind right now (regarding this site).
+*Infrequently updated status report on what’s on my mind right now (regarding this site).*
 
 ### What’s happening?
 What I am working on currently:
@@ -11,11 +11,13 @@ What I am working on currently:
 * Making this site work better
 	* See also: [[Growing this site]]
 * Transferring and editing my private notes from Book 1
-	* *finished transferring notes up until and including chapter 4*
-	* next up: chapter 5 and 6
-* Currently reading Book 3: _A Vision of a Living World_
-	* chapter 13: _The Character of Rooms_, pp. 411-446
-		* *due Thursday, 4th February*
+	* *finished transferring notes for part 1 up until and including chapter 6*
+	* next up: part 2, chapters 7-11
+* [[Book 4 cliff notes|Currently reading]] Book 4: _The Luminous Ground_
+	* ~~Preface: _Towards a New Conception of the Nature of Matter_, pp. 1-8~~ ✔️
+	* chapter 1: _Our Present Picture of the Universe_, pp. 9-28
+	* chapter 2: _Clues from the History of Art_, pp. 29-48
+		* *due Tuesday, 9th March*
 
 ### Reading List
 If you like this site, you might like these (I have not read these yet):
