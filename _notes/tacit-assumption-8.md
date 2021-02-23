@@ -1,0 +1,7 @@
+---
+title: 8. At a profound level, architecture is irrelevant. The task of building has no special importance, except in so far as it contributes to practical function through engineering, or to material wealth through image.
+---
+
+> […] Few contemporary architects would reject the use of a building program; few lay people would question is either. It is the norm. Yet their acceptance of this norm (and this is only one tiny example) means that real beauty, real life, are pushed into a subsidiary position while the building program, more concerned with efficiency of administration than with life, stays in a higher position.
+> 
+> *It is reasonable to conclude the architecture is viewed as irrelevant. A society in which people routinely do something different from that which creates life of beauty.* Our daily behavior proves again and again, in thousands of examples like this, that a tacit assumption about the irrelevance of architecture is indeed part of the mechanistic world picture that we live by. However much one might *want* to say that buildings *ought to be* important in some deep sense, still, so long as we live in a mental world governed by our present cosmological assumptions, we shall continually accept (and create) a world in which the shaping of buildings has only the most banal kind of practical importance.

@@ -1,0 +1,7 @@
+---
+title: 10. The instinct that there is some kind of deeper meaning in the world is scientifically useless. It has to be ignored as a subject of serious scientific discussion.
+---
+
+> That is what our scientific civilization has been telling us for three to four hundred years. Yet it is hard to deny the fact that many of us have instincts about deeper meaning in the world. The experience may come, perhaps, as a result of love, as a result of gazing at the ocean, at a small flower.
+> 
+> The official position of 20th-century scientific philosophy said, explicitly, that science is neutral: it neither confirms nor denies the instinct that this experience is important […]. However, the *actual* state of mind encouraged by our current scientific cosmology is not neutral but negative. Since there is no official place for an instinct of deeper meaning to be realized as part of the consequences of present day science, adherents of the current world-picture (our teenagers for example) are given little intellectual support for dwelling on such thoughts. The assumption therefore exists — nearly always tacit, of course, rarely explicit — that experiences, ideas, which might lead to a feeling of profound meaning in the world are scientifically empty, and best kept at arm’s length, away from the body of precise thought about the world.

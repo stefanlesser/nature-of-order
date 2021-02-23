@@ -1,0 +1,11 @@
+---
+title: 6. Art is an intense and powerful social phenomenon, but one that has no deep importance in the physical scheme of things, and therefore no basic role in the structure of the universe.
+---
+
+> […] One can imagine the reader thinking… “on the *contrary*, many would *insist* that art *is* important, vital.”
+> 
+> Yet how can the view that art is truly important be taken seriously, or even make sense, if it has to be consistent with a mechanist view of the universe? Since the mechanical view of the world makes no room for value, except as an outpouring of personal idiosyncrasy, it creates no serious basis for art except as an outpouring of private value, or as a cynical construction of artificial images. And that is exactly what the 20th century — in architecture anyway — cerated time and again.
+> 
+> A mechanistic cosmology makes it difficult to formulate the idea that a building, or a painting, or a piece of music could have any *inherent* value. At best, for explanations of art to be coherent with the present mechanistic framework, they might be based on social realism (ascribing functional importance to works which help society), or psychological realism (describing the value of works of art in terms which appeal to human emotion).
+> 
+> These ideas are deeply conflicted. It is not undeniably true that certain works of art — works that we describe as great works of the spirit — go much further than mere social or psychological impact? For a person who is inspired by the last paintings of Van Gogh, by Bach’s Goldberg Variations, by Mahler’s 9th symphony, by the sculptures of Jean Arp or Constantin Brancusi, or by the Baptistry in Florence, it is hard to escape the certainty that these works are *somehow* genuinely profound and do, somehow, interact with the fundamental scheme of things in the universe. Yet so far, in our scientific picture of the world, such an intuition has no coherent place at all. Within the material universe of our current cosmology, the intuition cannot even be formulated.
