@@ -24,12 +24,12 @@ title: Book 4 cliff notes
 		9. [[The confrontation of art and science]]
 		10. [[A fusion of self and matter]]
 	2. Clues from the history of art
-		1. Introduction
-		2. An observation
-		3. Relatedness
-		4. A possible explanation
-		5. A connection to the self
-		6. What of our modern works?
-		7. More on the problem of our era
-		8. The black plaster
-		9. Footnote
+		1. [[b4 c2 s1 introduction|Introduction]]
+		2. [[b4 c2 s2 an observation|An observation]]
+		3. [[b4 c2 s3 relatedness|Relatedness]]
+		4. [[A possible explanation]]
+		5. [[A connection to the self]]
+		6. [[What of our modern works]]?
+		7. [[More on the problem of our era]]
+		8. [[The black plaster]]
+		9. [[b4 c2 s9 footnote|Footnote]]
