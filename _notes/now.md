@@ -14,10 +14,8 @@ What I am working on currently:
 	* *finished transferring notes for part 1 up until and including chapter 6*
 	* next up: part 2, chapters 7-11
 * [[Book 4 cliff notes|Currently reading]] Book 4: _The Luminous Ground_
-	* ~~Preface: _Towards a New Conception of the Nature of Matter_, pp. 1-8~~ ✔️
-	* ~~chapter 1: _Our Present Picture of the Universe_, pp. 9-28~~ ✔️
-	* chapter 2: _Clues from the History of Art_, pp. 29-48
-		* *due Tuesday, 9th March*
+	* chapter 3: _The Existence of the I_, pp. 49-72
+		* *due Thursday, 11th March*
 
 ### Reading List
 If you like this site, you might like these (I have not read these yet):

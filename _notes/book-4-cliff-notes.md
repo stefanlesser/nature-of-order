@@ -33,3 +33,20 @@ title: Book 4 cliff notes
 		7. [[More on the problem of our era]]
 		8. [[The black plaster]]
 		9. [[b4 c2 s9 footnote|Footnote]]
+	3. The existence of an “I”
+		1. [[b4 c3 s1 a dewdrop|A dewdrop]]
+		2. [[b4 c3 s2 relatedness|Relatedness]]
+		3. [[The mirror-of-the-self experiments]]
+		4. [[The real relatedness existing underneath the skin]]
+		5. The ancient and eternal truth of the relatedness
+		6. The numinous experience
+		7. True meaning of relatedness
+		8. A jump to speaking about the existence of an “I”
+		9. An experiment to determine the extension of the I
+		10. The I of our experience originating with the I in things
+		11. A hypothesis
+		12. Mobilizing the storm
+	4. The ten thousand beings
+	5. The practical matter of forging a living center
+* Mid-book appendix
+* Part 2
