@@ -14,8 +14,8 @@ What I am working on currently:
 	* *finished transferring notes for part 1 up until and including chapter 6*
 	* next up: part 2, chapters 7-11
 * [[Book 4 cliff notes|Currently reading]] Book 4: _The Luminous Ground_
-	* chapter 3: _The Existence of the I_, pp. 49-72
-		* *due Thursday, 11th March*
+	* chapter 4: _Ten Thousand Beings_, pp. 73-110
+		* *due Tuesday, 16th March*
 
 ### Reading List
 If you like this site, you might like these (I have not read these yet):

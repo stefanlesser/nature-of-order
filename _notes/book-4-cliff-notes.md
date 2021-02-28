@@ -38,15 +38,31 @@ title: Book 4 cliff notes
 		2. [[b4 c3 s2 relatedness|Relatedness]]
 		3. [[The mirror-of-the-self experiments]]
 		4. [[The real relatedness existing underneath the skin]]
-		5. The ancient and eternal truth of the relatedness
-		6. The numinous experience
-		7. True meaning of relatedness
-		8. A jump to speaking about the existence of an “I”
-		9. An experiment to determine the extension of the I
-		10. The I of our experience originating with the I in things
-		11. A hypothesis
-		12. Mobilizing the storm
+		5. [[The ancient and eternal truth of the relatedness]]
+		6. [[The numinous experience]]
+		7. [[True meaning of relatedness]]
+		8. [[A jump to speaking about the existence of an I]]
+		9. [[An experiment to determine the extension of the I]]
+		10. [[The I of our experience originating with the I in things]]
+		11. [[A hypothesis]]
+		12. [[Mobilizing the storm]]
 	4. The ten thousand beings
+		1. Introduction
+		2. Consider the possibility of viewing all living centers as beings
+		3. The jewel net of Indra
+		4. What it means for a center to be being-like
+		5. A corner of a farmer’s field
+		6. A shipyard
+		7. Looking at Chartres
+		8. Each living center is a being
+		9. Pure unity
+		10. The fundamental process
+		11. The difficulty of the task
+		12. Innocence
+		13. The vision of Matisse and Bonnard
+		14. In our own era
+		15. A new vision of building: making living structure in our brutal world
+		16. The life of the environment
 	5. The practical matter of forging a living center
 * Mid-book appendix
 * Part 2
