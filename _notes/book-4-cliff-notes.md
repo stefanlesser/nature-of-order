@@ -47,14 +47,14 @@ title: Book 4 cliff notes
 		11. [[A hypothesis]]
 		12. [[Mobilizing the storm]]
 	4. The ten thousand beings
-		1. Introduction
-		2. Consider the possibility of viewing all living centers as beings
-		3. The jewel net of Indra
-		4. What it means for a center to be being-like
-		5. A corner of a farmer’s field
-		6. A shipyard
-		7. Looking at Chartres
-		8. Each living center is a being
+		1. [[b4 c4 s1 introduction|Introduction]]
+		2. [[Consider the possibility of viewing all living centers as beings]]
+		3. [[The jewel net of Indra]]
+		4. [[What it means for a center to be being-like]]
+		5. [[A corner of a farmer’s field]]
+		6. [[A shipyard]]
+		7. [[Looking at Chartres]]
+		8. [[Each living center is a being]]
 		9. Pure unity
 		10. The fundamental process
 		11. The difficulty of the task
