@@ -55,14 +55,14 @@ title: Book 4 cliff notes
 		6. [[A shipyard]]
 		7. [[Looking at Chartres]]
 		8. [[Each living center is a being]]
-		9. Pure unity
-		10. The fundamental process
-		11. The difficulty of the task
-		12. Innocence
-		13. The vision of Matisse and Bonnard
-		14. In our own era
-		15. A new vision of building: making living structure in our brutal world
-		16. The life of the environment
+		9. [[Pure unity]]
+		10. [[b4 c4 s10 the fundamental process|The fundamental process]]
+		11. [[The difficulty of the task]]
+		12. [[Innocence]]
+		13. [[The vision of Matisse and Bonnard]]
+		14. [[In our own era]]
+		15. [[b4 c4 s15 a new vision of building making living structure in our brutal world|A new vision of building — making living structure in our brutal world]]
+		16. [[The life of the environment]]
 	5. The practical matter of forging a living center
 * Mid-book appendix
 * Part 2
