@@ -61,8 +61,21 @@ title: Book 4 cliff notes
 		12. [[Innocence]]
 		13. [[The vision of Matisse and Bonnard]]
 		14. [[In our own era]]
-		15. [[b4 c4 s15 a new vision of building making living structure in our brutal world|A new vision of building — making living structure in our brutal world]]
+		15. [[b4 c4 s15 a new vision of building making living structure in our brutal world|A new vision of building: making living structure in our brutal world]]
 		16. [[The life of the environment]]
 	5. The practical matter of forging a living center
-* Mid-book appendix
+		1. [[Intensifying shape]]
+		2. [[Unity achieved in a great blossom]]
+		3. [[Emergence of a being from the field of centers]]
+		4. [[Beings in arches, spaces, and columns: the example of West Dean]]
+		5. [[Emergence of the arches]]
+		6. [[Detailed design of the structural columns]]
+		7. [[A wall]]
+		8. [[Catching a being in color]]
+		9. [[The haunting melody]]
+* Mid-book appendix: Recapitulation of the argument
+	1. Introduction
+	2. The possibility of a coherent verifiable theory
+	3. The argument from verifiable details
+	4. The argument from coherence
 * Part 2
