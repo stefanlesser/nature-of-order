@@ -74,8 +74,9 @@ title: Book 4 cliff notes
 		8. [[Catching a being in color]]
 		9. [[The haunting melody]]
 * Mid-book appendix: Recapitulation of the argument
-	1. Introduction
-	2. The possibility of a coherent verifiable theory
-	3. The argument from verifiable details
-	4. The argument from coherence
+	1. [[Introduction]]
+	2. [[The possibility of a coherent verifiable theory]]
+	3. [[The argument from verifiable details]]
+	4. [[The argument from coherence]]
 * Part 2
+	* …
