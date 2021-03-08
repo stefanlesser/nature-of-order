@@ -1,0 +1,18 @@
+---
+title: Possible existence of a single underlying substance
+---
+
+> I am going to start with the idea that **the I exists physically**, that there is some plenum, not part of the physical space and matter, as we have modeled them in Cartesian science, but nevertheless there in fact, at every point of what we think of as space and matter. This is another possible way of expressing the I-hypothesis. In this version, we postulate that there is, in the universe, and underlying all matter, a single plenum or Ground. Above all, it is single, and it is personal. This plenum is the “something” which shall simply be called “I”.
+> 
+> However, I now add the idea that it really exists everywhere, it is single, underlying all things. It may exist in another dimension curled up in space, or it may exist in some other linkage we cannot yet imagine. I am viewing this plenum as being perfectly connected to all the physical reality that we know about, like a deeper reality which shadows and underlies the first. For the time being I shall say that this plenum is either “I” or “Self”, a huge, single Self, underlying all the matter in the universe.
+> 
+> According to this second version of the I-hypothesis, the plenum of I, or ground, really exists. It is not a metaphor. It lies behind, and inside matter and space. It is enveloped by them, and communicates with them, stands behind them and beneath them. It is everywhere. Wherever matter is, this I is also there.
+
+### Tunneling
+> Now I am going to say that some kind of tunneling can occur, to connect physical structures in our familiar physical domain with the single I-stuff of the plenum. I use the word “tunneling” in the sense that modern physics uses it, to mean a direct connection between two regions which are in different dimensions. I am asserting that some connection can occur between the physical structure of the everyday world of matter and the underlying I.
+> 
+> The most common example of this tunneling would be the one which occurs in the experience of I and self which every person has. In a human body, which is at least in part a structure of matter alone, the experience of I or “self” arises. In spite of various sociological attempts at explanation, this everyday experience of our own selves is not yet understood in a satisfactory way by physics. But it would be relatively easy to understand if we postulate the plenum of I, universal and general, linked to matter, and if it were a fact that the matter in a body, once organized, is able to make direct connection with this I. We would then experience the bridge or tunnel to the I *as our own self*, not realizing that it is in fact merely one bridge, of a million similar bridges, between the matter in different beings and the I. That is to say, in such a conception the I which one of us experiences as his own self is not a private and individual thing, as most of us imagine it to be, but a partial connection of our *own* physical matter (my body) to this very great, and single, plenum of I-stuff.
+> 
+> Now I am going to say, much more generally, that *every* living center in the matter of the universe — even the smallest center which is induced in space — starts this kind of tunneling towards the I-stuff. And, the stronger the center is, the bigger the tunnel, the stronger the connection of the matter to the I. That means, that every beautiful object, to the extent is has the structure which I have described, also begins to open the door towards the I-stuff or the self.
+
+(Pages 148-149)

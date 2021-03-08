@@ -14,7 +14,7 @@ What I am working on currently:
 	* *finished transferring notes for part 1 up until and including chapter 6*
 	* next up: part 2, chapters 7-11
 * [[Book 4 cliff notes|Currently reading]] Book 4: _The Luminous Ground_
-	* chapter 6: _The Blazing One_, pp. 143-156
+	* ~~chapter 6: _The Blazing One_, pp. 143-156~~ ✔️
 	* chapter 7: _Color and Inner Light_, pp. 157-240
 		* *due Thursday, 25th March*
 

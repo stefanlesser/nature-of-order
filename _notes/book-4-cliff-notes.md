@@ -79,4 +79,41 @@ title: Book 4 cliff notes
 	3. [[The argument from verifiable details]]
 	4. [[The argument from coherence]]
 * Part 2
-	* …
+	6. The Blazing One
+		0. [[The unity that speaks of I]]
+		1. [[The faintly glowing quality which can be seen in a thing which has life]]
+		2. [[A psychological explanation]]
+		3. [[Possible existence of a single underlying substance]]
+		4. [[The blazing one]]
+		5. [[What, then, is a center]]?
+		6. [[Though a strange model, it provides a viable explanation]]
+		7. [[Which I-hypothesis is true]]?
+		8. [[A non-material view of matter]]
+	7. Color and Inner Light
+		1. Introduction: A direct glimpse of the I
+		2. Color as an essential feature of reality
+		3. Inner light
+		4. The unfolding which produces inner light
+		5. The eleven color properties
+		6. Hierarchy of colors (levels of scale)
+		7. Colors create light together (positive space, alternating repetition)
+		8. Contrast of dark and light (contrast)
+		9. Mutual embedding (deep interlock and ambiguity)
+		10. Sequence of linked color pairs (gradients and the void)
+		11. Boundaries and hairlines (boundaries)
+		12. Families of color (echoes)
+		13. Color variation (roughness)
+		14. Intensity and clarity of individual colors (strong centers, good shape)
+		15. Subdued brilliance (inner calm and not-separateness)
+		16. Color depends on geometry (string centers, local symmetries)
+		17. Color and the field of centers
+		18. Inner light as a glimpse of the I which lies behind the field of centers
+		19. The hint of a transcendent unity
+		20. Transcendent wholeness as a kind of light
+		21. Conclusion
+	8. The Goal of Tears
+	9. Making Wholeness Heals the Maker
+	10. Pleasing Yourself
+	11. The Face of God
+* A Modified Picture of the Universe (Conclusion to the four books)
+* Epilogue: Empirical Certainty and Enduring Doubt
