@@ -1,0 +1,13 @@
+---
+title: The unfolding which produces inner light
+---
+
+> This subdued light which follows in the softest cases seems, when it occurs, to come from the underbelly of our experience. It shocks, grasps us directly in our emotion, takes on the character I have discussed at length in Book 1 as the mirror of the self. For this reason too, I believe it provides us with a direct vision of the I. Somehow, this quality reminds us of ourselves, makes us feel our own existence. It shocks us into awareness of our innermost feeling.
+> 
+> Like every other kind of life, inner light is created — always I think — by the unfolding process. The artist works at the whole which exists and then asks himself, at each step, what has to be done next, to intensify the light. The extraordinary thing is that while working, if we half close our eyes and look at the half-completed work in a passive and receptive state, we can *answer* that question. That is, the color which will produce light comes to my eye by itself, presents itself to me autonomously, arrives in me without my effort. The only effort I need to make is to make myself passive enough to *receive* the color which will then come into my eye. I have to get rid of other mental influences and keep paying attention only to the question: what dot of color — where, how much, how intense — will create that flash of deeper, more inner light in the thing before me? Usually, I can sense, intuitively, autonomously, what kind of color it is. We have the ability to see this color, partially formed, in our mind’s eye. Then we have to try and *make* the color. And then, with actual paint I have to try and see if an amount of that color, in the place where I imagined it, really will *create* a more brilliant light in the thing.
+> 
+> This is an empirical matter. I place the color, then check to see if it does have this kind of effect. And I must remember, while I am doing it, that I am not looking for some superficial brightness. I am truly looking to see if the process I have just done, increases the *inner* light. That means, does it increase the extent to which this thing I have made now seems to go deeper into the realm of I, makes me more vulnerable, reaches further into the light behind all things.
+> 
+> By asking *this* question, again and again for each new speck of color, for each brushstroke — and by working — I gradually make progress towards the kind of thing which has some value, and which has the seamless unity which reflects the I.
+
+(Pages 169-172)

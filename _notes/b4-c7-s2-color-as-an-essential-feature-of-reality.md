@@ -1,0 +1,21 @@
+---
+title: Color as an essential feature of reality
+---
+
+> In the first half of the 20th century, color in architecture was weakened as a way of understanding the world. Buildings, especially those built in the early part of the century, often had little or no color, just grey, white, brown, and black. Even now, in a time when color is permissible again, we live in an era when profound *color* (in the sense of unified deep color, in the singular) plays a rather minor role in things, even though there are lurid *colors* (in the plural) everywhere. Even our prevailing mental picture of the world leaves color out: for example, the color of a thing is rarely part of its scientific description.
+> 
+> Yet the black and white Cartesian scientific picture fails to describe things as they are, and certainly fails to describe pure unity as we experience it. Can you imagine daffodils which are blue, not yellow? Or consider the beauty of a forest. The green light breaks through the leaves, and fills the space below the trees. Can you imagine it without imagining that it is green? Would it be possible to see its unity if it were not green? Isn’t the beauty, the harmony we feel there, to an enormous degree, a result of the thousands of soft greens, dark greens, light green, yellowish green, blueish green, blackish green, light white green at the tips of the leaves, and of the glimpses of blue sky, or grey cloud, shining through?
+> 
+> We see here a weakness in our mental picture of the field of centers. So long as we are trying to understand the wholeness of the forest structurally, we can understand it through its field of centers. And yet, when we contemplate the *pure* wholeness of the forest, one of the overwhelming things about it is its greenness. The unity is green. This unity is not directly captures by the field of centers.
+> 
+> This is why it is so important to see unity itself beyond the field of centers. As scientists, we are used to thinking geometrically. To understand the unity of the forest, we naturally start with the kind of analysis which I have made in Book 1. This can give us the structure of the forest, the biology, the ecology, its life. And it is certainly true that the unity of the forest is explained in large part by its structure, by its centers.
+> 
+> But its color is also an essential part of its beauty — and this color goes beyond the “structure” we can analyze. If we leave this colored aspect of the forest out of our picture, we still have only a half-dead, impersonal picture of the world, which fails to capture its wholeness fully.
+> 
+> The same is true of buildings. We look at a cathedral or a temple, and we think of lines on paper, planes, volumes, columns, beams, arches, doorways. Obsessed by geometry we may imagine that the beauty, the harmony of the thing is a result of its geometrical organization, and the way these elements form wholeness through their geometry alone. Once again, the real thing is beautiful, harmonious, because of the soft grey stone, the darker gray of roof tiles against the sky, the green moss growing out of the ground and onto the stones, the deep blackish brown wood of window frames, the soft pinkish grey of tiles on pathways, because of the light yellow or yellowish gray and startling white where the sunlight hits the stone.
+> 
+> To modern ears, all this might sound romantic. But it sounds romantic only because the Cartesian world-view we have inherited has excluded these subtle features of pure unity from consideration. So, we have been brainwashed into assuming that the “essence” of a building lies in its so-called primary characteristics — its shape, volume, line, and spatial organization. But this coldly geometric point of view is not a thoughtful and intentional result of observation. It certainly does not describe reality as we experience it.
+> 
+> Reality as we *experience* it is full of color, saturated by color, dominated by color at every turn, in every point, in every line, in every shadow. And life is especially influenced by color. Indeed, color is one of the few aspects of wholeness where **we experience wholeness directly, because the sensations of color are not analyzable into parts**. We are simply aware of the overall color quality of something as a whole.
+
+(Pages 158-160)
