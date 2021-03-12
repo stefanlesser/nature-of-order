@@ -1,6 +1,8 @@
 ---
-title: Contrast of dark and light (contrast)
+title: Contrast of dark and light
 ---
+
+(contrast)
 
 > If the first two properties ([[hierarchy of colors]] and [[colors create light]]) are present in the field, but the relative dark and light are not appropriate, then the colors still won’t shine. Inner light is partly *caused* by dark-light contrast.
 

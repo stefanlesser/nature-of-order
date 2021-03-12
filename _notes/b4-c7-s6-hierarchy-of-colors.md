@@ -1,6 +1,8 @@
 ---
-title: Hierarchy of colors (levels of scale)
+title: Hierarchy of colors
 ---
+
+Like [[levels of scale]].
 
 > If we are working at a painting, or the color of a building or an object, as we slowly move it towards inner light, we shall find out almost before anything else that in the vast majority of cases, to make inner light occur, we are led to use *unequal amounts* of different colors. In all those things which succeed in having inner light, we will find that we have followed a broad general rule: the different colors must come in different *quantities*.
 > 

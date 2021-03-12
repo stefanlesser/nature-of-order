@@ -1,6 +1,8 @@
 ---
-title: Mutual embedding (deep interlock and ambiguity)
+title: Mutual embedding
 ---
+
+(deep interlock and ambiguity)
 
 > This is a version of the property called [[deep interlock]]. But, in the sphere of color it is more fundamental, and more necessary, than in the purely geometric cases which [[deep interlock]] describes.
 

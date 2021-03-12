@@ -1,6 +1,8 @@
 ---
-title: Colors create light together (positive space, alternating repetition)
+title: Colors create light together
 ---
+
+(positive space, alternating repetition)
 
 > The second most fundamental of the color properties is the way that one color approaches another and creates light with it. It resembles the way that smaller centers cooperate to form larger centers. When colors create light together, they create a larger “being”.
 > 

@@ -1,6 +1,8 @@
 ---
-title: Sequence of linked color pairs (gradients and the void)
+title: Sequence of linked color pairs
 ---
+
+(gradients and the void)
 
 > As I continue trying to create light, the next thing I find most commonly is that the colors essentially work in pairs. They interact spatially to form geometrical sequences of interaction.
 > 
