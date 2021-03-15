@@ -112,6 +112,14 @@ title: Book 4 cliff notes
 		20. [[Transcendent wholeness as a kind of light]]
 		21. [[b4 c7 s21 conclusion|Conclusion]]
 	8. The Goal of Tears
+		1. [[Why unity and sadness are connected]]
+		2. [[Sadness]]
+		3. [[Getting sadness in the flesh of the building]]
+		4. [[Sadness of color and geometry]]
+		5. [[Unity and sadness in a group of buildings]]
+		6. [[Unity and sadness of life in a back yard]]
+		7. [[The ground]]
+		8. [[Concluding section]]
 	9. Making Wholeness Heals the Maker
 	10. Pleasing Yourself
 	11. The Face of God
