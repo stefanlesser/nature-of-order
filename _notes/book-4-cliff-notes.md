@@ -121,6 +121,16 @@ title: Book 4 cliff notes
 		7. [[The ground]]
 		8. [[Concluding section]]
 	9. Making Wholeness Heals the Maker
+		1. [[b4 c9 s1 introduction|Introduction]]
+		2. [[The impact of making beauty on the maker's life]]
+		3. [[The healing process]]
+		4. [[Making wholeness heals the maker]]
+		5. [[Life made creates life in the maker]]
+		6. [[The source of the healing effect]]
+		7. [[Human growth: the movement of the self towards its origin]]
+		8. [[Towards full knowledge of the self which can arise in us]]
+		9. [[Drawing sadness from your most vulnerable self]]
+		10. [[Do not ask for whom the bell tolls]]
 	10. Pleasing Yourself
 	11. The Face of God
 * A Modified Picture of the Universe (Conclusion to the four books)

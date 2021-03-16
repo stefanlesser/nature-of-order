@@ -15,7 +15,7 @@ What I am working on currently:
 	* next up: part 2, chapters 7-11
 * [[Book 4 cliff notes|Currently reading]] Book 4: _The Luminous Ground_
 	* ~~chapter 8: _The Goal of Tears_, pp. 241-260~~ ✔️
-	* chapter 9: _Making Wholeness Heals the Maker_, pp. 261-270
+	* ~~chapter 9: _Making Wholeness Heals the Maker_, pp. 261-270~~ ✔️
 		* *due Tuesday, 30th March*
 
 ### Reading List
