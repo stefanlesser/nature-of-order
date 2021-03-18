@@ -132,6 +132,22 @@ title: Book 4 cliff notes
 		9. [[Drawing sadness from your most vulnerable self]]
 		10. [[Do not ask for whom the bell tolls]]
 	10. Pleasing Yourself
+		1. [[b4 c10 s1 introduction|Introduction]]
+		2. [[Recapitulation of books 1 to 4 as "pleasing yourself"]]
+		3. [[Veronica's blue chair]]
+		4. [[The heart-stopping quality]]
+		5. [[The thought police]]
+		6. [[Not pleasing yourself]]
+		7. [[A group of architecture students who were not pleasing themselves]]
+		8. [[A Mexicali story about the thought police]]
+		9. [[Pleasing yourself]]
+		10. [[The effort it took to get the stark geometry of West Dean to a state where it really pleases me]]
+		11. [[Emil Nolde's sunset and Paul Gauguin's cow]]
+		12. [[A significantly large structure]]
+		13. [[Being modern and being true]]
+		14. [[The childlike]]
+		15. [[There is nothing greater]]
+		16. [[Pure innocence and deep order — the message of St. Francis]]
 	11. The Face of God
 * A Modified Picture of the Universe (Conclusion to the four books)
 * Epilogue: Empirical Certainty and Enduring Doubt
