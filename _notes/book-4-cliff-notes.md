@@ -154,7 +154,7 @@ title: Book 4 cliff notes
 		3. [[The practical results of this knowledge]]
 		4. [[A necessary state of mind]]
 		5. [[The world beyond a given thing]]
-		6. [[b4 c11 s6 not-separateness|Not-separateness]]
+		6. [[b4 c11 s6 not separateness|Not-separateness]]
 		7. [[Making a gift for God]]
 		8. [[The face of God]]
 * A Modified Picture of the Universe (Conclusion to the four books)
