@@ -149,5 +149,25 @@ title: Book 4 cliff notes
 		15. [[There is nothing greater]]
 		16. [[Pure innocence and deep order — the message of St. Francis]]
 	11. The Face of God
+		1. [[This is God]]
+		2. [[Spirit made manifest]]
+		3. [[The practical results of this knowledge]]
+		4. [[A necessary state of mind]]
+		5. [[The world beyond a given thing]]
+		6. [[b4 c11 s6 not-separateness|Not-separateness]]
+		7. [[Making a gift for God]]
+		8. [[The face of God]]
 * A Modified Picture of the Universe (Conclusion to the four books)
+	1. Introduction
+	2. The nature of space and matter
+	3. Wholeness as a physical structure in the universe
+	4. Consciousness as a physical feature of the universe
+	5. A modified physics
+	6. Summary of the modified physics
+	7. A new picture of the world
+	8. A physical basis for religious awe
+	9. Essential awe
 * Epilogue: Empirical Certainty and Enduring Doubt
+	1. An extension of the scientific idea of what can be known
+	2. A new method of observation at the core of the world-picture
+	3. Enduring skepticism as a source of certainty

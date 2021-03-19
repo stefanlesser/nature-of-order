@@ -14,8 +14,8 @@ What I am working on currently:
 	* *finished transferring notes for part 1 up until and including chapter 6*
 	* next up: part 2, chapters 7-11
 * [[Book 4 cliff notes|Currently reading]] Book 4: _The Luminous Ground_
-	* chapter 11: _The Face of God_, pp. 301-316
-	* chapter 12: _A Modified Picture of the Universe_, pp. 317-338
+	* ~~chapter 11: _The Face of God_, pp. 301-316~~ ✔️
+	* Conclusion: _A Modified Picture of the Universe_, pp. 317-338
 	* Epilogue: _Empirical Certainty and Enduring Doubt_, pp. 339-344
 		* *due Thursday, 8th April*
 
