@@ -10,6 +10,8 @@ I'm hoping for a **small community of people**, who are interested in Alexander 
 
 Your support — in form of questions, suggestions, corrections, feedback, and any kind of small interaction that gets this little community off the ground and keeps it alive — means the world to me.
 
+Some [[Inspiring threads from Unfold Chat]].
+
 [-> to the **Unfold Chat** Telegram group](https://t.me/nature_of_order_chat)
 
 ### Telegram Group vs. Channel

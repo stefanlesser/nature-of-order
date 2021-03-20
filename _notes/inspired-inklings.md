@@ -2,7 +2,8 @@
 title: Ideas inspired by The Nature of Order
 ---
 
-Unfinished inklings which I don’t yet know where to put exactly, so I just collect them here for now:
+Unfinished inklings which I don’t yet know where to put exactly, so I just collect them here for now.
+Many of these originate from [[Inspiring threads from Unfold Chat]], our [[Telegram group]].
 
 ### Applying his theory in other domains
 
