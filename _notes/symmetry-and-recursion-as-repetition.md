@@ -21,25 +21,27 @@ My suspicion is that this is all fundamentally about the **duality of result/pro
 -> [[Imperative declarative process structure]]
 
 ### [Stefan](https://t.me/nature_of_order_chat/476)
-about the lowest-level symmetries in that visualization from the tweet: 
+about the **lowest-level symmetries** in that visualization from the tweet: 
 
 If we take the natural numbers representation for example, we could assign numbers to their binary representation in arbitrary order. Let’s say in random order (meaning without any discernible structure). Then we’d have to use a lookup table for each possible mapping to make sense of it, or memorize quite a lot.
 
-What we end up doing instead though, is we use an order that feels natural to us — from lowest to highest. We could still use a lookup table, but now we have much more efficient ways of converting a sequence of binary values into a natural number (and back): We can use an algorithm. That is more efficient, and it seems more elegant to do it that way. There are many different possible orders we can choose, but this one appeals to us a lot, because it somehow makes more sense. 
+What we end up doing instead though, is we use **an order that feels natural to us** — from lowest to highest. We could still use a lookup table, but now we have much more efficient ways of converting a sequence of binary values into a natural number (and back): We can use an **algorithm**. That is **more efficient**, and it seems **more elegant** to do it that way. There are many different possible orders we can choose, but this one appeals to us a lot, because it somehow **makes more sense**. 
 
-I can "feel" the symmetry in this: instead of memorizing everything, we memorize fewer things, in this case just a starting point, and then reconstruct the rest through unfolding the symmetries. It doesn't quite match perfectly, but I feel a strong connection here between symmetries, unfolding, and the recursive aspect of generative processes (I'd intuitively say that's a form of symmetry, but I don't know if that holds up mathematically?).
+I can "feel" the symmetry in this: instead of memorizing everything, we memorize fewer things, in this case just a starting point, and then reconstruct the rest through unfolding the symmetries. It doesn't quite match perfectly, but I feel a **strong connection here between symmetries, unfolding, and the recursive aspect of generative processes** (I'd intuitively say that's a form of symmetry, but I don't know if that holds up mathematically?).
 
-You can also picture some other partial orders somewhere in between those extreme cases of total randomness and total order, where locally some parts “make sense” (have order) but globally it doesn’t all fit together neatly. And that is pretty much our default mode of wandering through the world. Perhaps inspired by mathematics we think there must be some total order, the one rule or law of the universe that can describe everything. And maybe that is so.
+You can also picture some other partial orders somewhere in between those extreme cases of total randomness and total order, where locally some parts “make sense” (have order) but globally it doesn’t all fit together neatly. And that is pretty much our **default mode of wandering through the world**. Perhaps inspired by mathematics we think there must be some total order, the one rule or law of the universe that can describe everything. And maybe that is so.
 
-But anyway, the point here is that every partial order along the way lends itself to the construction of many grammars describing how an observation (a sequence of binary values) maps to meaning (a natural number) — and sometimes even backwards.
+-> [[Eleatic philosophers]]
 
-The order we choose to make sense of a complex thing, determines the grammars that can describe how this thing is put together. In that way, grammars are a sense-making device. Some are closer to a lookup table in that we can’t really find any elegant patterns and most of it seems arbitrary to us. Some are closer to a total order and we can express most results with just a few elegant rules.
+But anyway, the point here is that **every partial order** along the way **lends itself to the construction of many grammars** describing how an **observation** (a sequence of binary values) **maps to meaning** (a natural number) — and sometimes even backwards.
 
-Hypothesis: When we decide to take a complex thing apart structurally (structure: whole-part-configuration), it is symmetries that help us make sense of it. 
-And when we decide to take a complex thing apart procedurally (process: sequence/path-goal), it is recursion that helps us make sense of it.
-Because both symmetry and recursion allow us to "compress" the complexity in a form of repetition. **Symmetry as repetition in space, recursion as repetition in time.**
+The order we choose to make sense of a complex thing, determines the grammars that can describe how this thing is put together. In that way, **grammars are a sense-making device**. Some are closer to a lookup table in that we can’t really find any elegant patterns and most of it seems arbitrary to us. Some are closer to a total order and we can express most results with just a few elegant rules.
 
-Am I making sense to anybody else other than myself?
+-> [[Functional completeness and ergodicity]]
+
+Hypothesis: When we decide to take a complex thing apart **structurally** (structure: whole-part-configuration), it is **symmetries** that help us make sense of it. 
+And when we decide to take a complex thing apart **procedurally** (process: sequence/path-goal), it is **recursion** that helps us make sense of it.
+Because both symmetry and recursion allow us to **"compress" the complexity in a form of repetition**. **Symmetry as repetition in space, recursion as repetition in time.**
 
 ### [Prabros](https://t.me/nature_of_order_chat/488)
 > I can "feel" the symmetry in this: instead of memorizing everything, we memorize fewer things, in this case just a starting point, and then reconstruct the rest through unfolding the symmetries. It doesn't quite match perfectly, but I feel a strong connection here between symmetries, unfolding, and the recursive aspect of generative processes (I'd intuitively say that's a form of symmetry, but I don't know if that holds up mathematically?).
@@ -50,3 +52,8 @@ If you have some time to explore the math side of it, please have a look at the 
 > Symmetry as repetition in space, recursion as repetition in time.
 
 That is a damn awesome line. But let me scrutinize it privately see if it holds up in different settings, if it does, I think you said something striking about the structure/process dichotomy and possibly have identified a unifying concept here.
+
+---
+
+## References
+- [x] https://www.quora.com/What-is-an-intuitive-explanation-of-a-quotient-space

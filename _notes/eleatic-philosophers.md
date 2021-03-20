@@ -21,3 +21,8 @@ Note that this is **not the same** thing as **objectivism vs. subjectivism**. Th
 > Perhaps inspired by mathematics we think there must be some total order, the one rule or law of the universe that can describe everything. And maybe that is so.
 
 This is pretty much what the **Eleatic philosophers** I mentioned above played around with.
+
+---
+
+## References
+- [ ] <https://en.wikipedia.org/wiki/Brouwer%E2%80%93Hilbert_controversy>

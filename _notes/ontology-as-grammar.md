@@ -36,3 +36,8 @@ Exciting. I need to let this sink in more before I get to the second half of you
 I think this is where "meaning" can change from what is **fundamentally mathematical (and/or cognitive) on the lowest-levels** to **image-laden and constructed on the higher-levels**. For instance that we now have mental models of how things work in the grammar of capitalism, and therefore certain actions make more sense in that grammar than others. Yet, the whole thing is just a construction which happens to be somewhat coherent enough for us to make sense of it and with it.
 
 In that sense, Alexander is trying to focus our attention on the **lowest-level grammar** that is apparently **"built-in"**, either into our fundamental perception of the world or — what he really wants it to be — into the structure of the universe itself.
+
+---
+
+## References
+- [x] <https://twitter.com/elzr/status/1371732525106790402>

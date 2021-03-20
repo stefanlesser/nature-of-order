@@ -25,3 +25,8 @@ That is somewhat behind the idea of imperative vs. declarative programming langu
 > What we end up doing instead though, is we use an order that feels natural to us — from lowest to highest. We could still use a lookup table, but now we have much more efficient ways of converting a sequence of binary values into a natural number (and back): We can use an algorithm. That is more efficient, and it seems more elegant to do it that way. There are many different possible orders we can choose, but this one appeals to us a lot, because it somehow makes more sense. 
 
 I guess this hints at what you meant by compressing it by a process instead of structure earlier. Would I be off the point if I read this as: **You compactify a space that can be unfolded in time as a set of rules. Now, you can unfold and recreate the structures via the procedural rules at will?**
+
+---
+
+## References
+- [ ] https://www.ontology.co/two-views-language.htm
