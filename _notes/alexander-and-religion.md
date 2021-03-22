@@ -17,3 +17,12 @@ One of the most difficult concepts for me to understand was what he calls “fee
 Even with something as spiritual as this, he goes through great lengths to pull this concept into a scientific realm, partly because his argument is that we humans, even across cultures, are mostly aligned on being capable of identifying this particular kind of feeling, which becomes the basis for his suggested solution of how we can fix the most difficult problems in architecture, which turn out to also be some of the most pressing problems in society in general (and in tech in particular — precisely why I think more people need to know about this, and specifically more people who build large interactive systems with lots of users).
 
 There’s a lot more to say about this. Perhaps that’s the most important discussion to have about this. But please don’t let your rational, scientific, perhaps atheist/agnostic worldview prevent you from approaching this material. I guarantee you that you will be positively surprised by some profound, precious, and scientific thinking.
+
+---
+
+*After reading Book 4, I have more to say about this topic and this note needs updating with a more differentiated analysis. I haven't changed my general opinion that Alexander's approach in _The Nature of Order_ is scientific and his theory useful.*
+
+Two articles in which Alexander describes his relationship with religion and God:
+
+* [Making the Garden, Christopher Alexander, February 2016](https://www.firstthings.com/article/2016/02/making-the-garden)
+* [The Long Path that Leads from the Making of Our World to God, Christopher Alexander, August 2019](https://www.buildingbeauty.org/resource-center-entries/2019/8/6/christopher-alexander-the-long-path-that-leads-from-the-making-of-our-world-to-god)

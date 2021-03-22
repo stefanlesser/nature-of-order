@@ -33,13 +33,7 @@ You can also picture some other partial orders somewhere in between those extrem
 
 -> [[Eleatic philosophers]]
 
-But anyway, the point here is that **every partial order** along the way **lends itself to the construction of many grammars** describing how an **observation** (a sequence of binary values) **maps to meaning** (a natural number) — and sometimes even backwards.
-
-The order we choose to make sense of a complex thing, determines the grammars that can describe how this thing is put together. In that way, **grammars are a sense-making device**. Some are closer to a lookup table in that we can’t really find any elegant patterns and most of it seems arbitrary to us. Some are closer to a total order and we can express most results with just a few elegant rules.
-
--> [[Functional completeness and ergodicity]]
-
-Hypothesis: When we decide to take a complex thing apart **structurally** (structure: whole-part-configuration), it is **symmetries** that help us make sense of it. 
+[…] Hypothesis: When we decide to take a complex thing apart **structurally** (structure: whole-part-configuration), it is **symmetries** that help us make sense of it. 
 And when we decide to take a complex thing apart **procedurally** (process: sequence/path-goal), it is **recursion** that helps us make sense of it.
 Because both symmetry and recursion allow us to **"compress" the complexity in a form of repetition**. **Symmetry as repetition in space, recursion as repetition in time.**
 
@@ -52,6 +46,12 @@ If you have some time to explore the math side of it, please have a look at the 
 > Symmetry as repetition in space, recursion as repetition in time.
 
 That is a damn awesome line. But let me scrutinize it privately see if it holds up in different settings, if it does, I think you said something striking about the structure/process dichotomy and possibly have identified a unifying concept here.
+
+---
+
+## Thoughts about this discussion
+* Restricting representable forms is in violation of functional completeness and they are distinct concepts. Both are still interesting properties though and deserve further investigation.
+* It could be that the structure of a chosen grammar itself is what causes "fundamental properties" to emerge from a process described by that grammar. It seems intuitively sound that if a generative grammar restricts its solution space, that this makes some permutations of possible results more likely than others, perhaps even in a describable statistical distribution. This could explain the appearance of patterns in configurations, as for instance the [[Fifteen fundamental properties]].
 
 ---
 

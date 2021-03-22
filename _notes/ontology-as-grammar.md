@@ -37,6 +37,24 @@ I think this is where "meaning" can change from what is **fundamentally mathemat
 
 In that sense, Alexander is trying to focus our attention on the **lowest-level grammar** that is apparently **"built-in"**, either into our fundamental perception of the world or — what he really wants it to be — into the structure of the universe itself.
 
+### [Stefan](https://t.me/nature_of_order_chat/476)
+[…] But anyway, the point here is that **every partial order** along the way **lends itself to the construction of many grammars** describing how an **observation** (a sequence of binary values) **maps to meaning** (a natural number) — and sometimes even backwards.
+
+The order we choose to make sense of a complex thing, determines the grammars that can describe how this thing is put together. In that way, **grammars are a sense-making device**. Some are closer to a lookup table in that we can’t really find any elegant patterns and most of it seems arbitrary to us. Some are closer to a total order and we can express most results with just a few elegant rules. […]
+
+-> [[Functional completeness and ergodicity]]
+
+---
+
+## Thoughts on this discussion
+* It's worth following the thread of arbitrary vs. meaningful ontologies, and their connection to metaphorical structuring. And how more meaningful ontologies structure the solution space "better" in various ways.
+* Solution spaces in computing are usually discrete and limited. How does this observation help?
+* The logic gate example is an interesting case where a subset of the solution space can represent the whole solution space and points towards [[Functional completeness and ergodicity]]. This seems an interesting path to investigate further.
+* The idea of a grammar as a sense-making device points towards grammars being a foundational primitive for thinking — of course, language is heavily involved in how we think analytically. 
+	* Cognitive categories are like non-terminals, kinesthetic image schemas could be one form of terminals (there might be others), and the rules form the tree/lattice-shape of the ontology. 
+	* I'm unclear if this is really one ontology; I suspect it is a multi-dimensional overlapping of independent tree-shaped ontologies that combined form a lattice structure.
+	* If grammar is a foundational thinking primitive, (spoken/written) language would naturally form from it.
+
 ---
 
 ## References

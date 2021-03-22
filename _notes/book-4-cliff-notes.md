@@ -158,15 +158,15 @@ title: Book 4 cliff notes
 		7. [[Making a gift for God]]
 		8. [[The face of God]]
 * A Modified Picture of the Universe (Conclusion to the four books)
-	1. Introduction
-	2. The nature of space and matter
-	3. Wholeness as a physical structure in the universe
-	4. Consciousness as a physical feature of the universe
-	5. A modified physics
-	6. Summary of the modified physics
-	7. A new picture of the world
-	8. A physical basis for religious awe
-	9. Essential awe
+	1. [[b4 c12 s1 introduction|Introduction]]
+	2. [[The nature of space and matter]]
+	3. [[Wholeness as a physical structure in the universe]]
+	4. [[Consciousness as a physical feature of the universe]]
+	5. [[A modified physics]]
+	6. [[Summary of the modified physics]]
+	7. [[A new picture of the world]]
+	8. [[A physical basis for religious awe]]
+	9. [[Essential awe]]
 * Epilogue: Empirical Certainty and Enduring Doubt
 	1. An extension of the scientific idea of what can be known
 	2. A new method of observation at the core of the world-picture

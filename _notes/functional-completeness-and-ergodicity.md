@@ -22,7 +22,7 @@ Yes and I think there are sensible or rather **“complete” ways to partition 
 Great to see you draw parallel with Alexander’s Pattern Language here. My exposure is via NoFS, so I would probably need to read his literature further to grok the different aspects where it can be seen as this sort of map of possibilities. Also, looking forward to the second half’s reply.
 
 ### [Stefan](https://t.me/nature_of_order_chat/471)
-[…] It might very well be that Alexander's 15 properties are inevitable "residue" in ergodic systems — I'm not sure that's the correct way to characterize it, I'm just learning about ergodicity myself, but it seems intuitively similar. […]
+[…] It might very well be that Alexander's 15 properties are **inevitable "residue" in ergodic systems** — I'm not sure that's the correct way to characterize it, I'm just learning about ergodicity myself, but it seems intuitively similar. […]
 
 ### [Prabros](https://t.me/nature_of_order_chat/483)
 > I'm still mulling over the "functional completeness" part of it. The way I see it, a grammar does play a role in filtering out some forms that become the equivalent of syntax errors, so they reduce the solution space somewhat, but that is probably not in violence of what you mean by "functional completeness"?
@@ -38,10 +38,41 @@ Great to see you draw parallel with Alexander’s Pattern Language here. My expo
 
 ---
 
+## Thoughts on this discussion
+* I do not yet fully grasp the role of functional completeness in structuring the solution space in a way that fewer primitives allow the reconstruction of all possible solutions.
+	* What is an intuitive understanding of "generating the rest of all possibilities" from a subset of selected primitives?
+	* Is this what yields the felt benefit of "compression", or does that compression also include restricting which solutions are expressible?
+* I'm also still confused by the importance of completeness. Is it necessary to be able to describe all possible solutions, or is it beneficial to restrict which solutions can be described by a grammar? 
+	* This seems to relate to @Prabros' comment about "distinct advantages to making a system non-ergodic". Is this also connected to Turing-completeness vs. limited domain-specific languages?
+* If NAND is sufficient to express all possibilities, we still prefer the combination of AND + OR + NOT, which can also express all possibilities. 
+	* Multiple different functionally complete subsets exist. How do we decide which set is "better" than another?
+	* Where does the preference for a not minimal set come from? Does it map better to cognitive primitives (embodied schemas)?
+	* Note the "symmetry" that exists in the { AND, OR, NOT } set! Is that another key to what makes it "feel better"?
+	* This could explain why a minimalistic solution might not automatically be considered the simplest solution. "As simple as possible, but not simpler." -> Alexander's fundamental property [[Simplicity and inner calm]].
+* When I use the term "differentiate", I denote Alexander's meaning as in growing a system by specializing it further, similar to the development of an embryo, as Alexander likes to use as an example. @Prabros might take its mathematical definition instead. I wonder if that causes an interesting dissonance?
+	* As I think of the mathematical meaning of differentiation, I can see a connection (probably the connection @Prabros makes), and now I wonder how mathematical differentiation and integration relate to this. Intuitively, a derivative is sort of an abstraction and therefore "compression" of a more detailed function, and an integral is sort of the reverse.
+* I had forgotten how good a writer Stephen Wolfram is and how capable he is to describe deep mathematical concepts in an extremely accessible way. I'm also impressed by how much he has internalized how computation can be applied to solve problems that involve the traversal or exploration of huge solution spaces — exactly what computers can help us with. The way he gets to the proof is not much different to what he did in _A New Kind of Science_.
+	* This also makes me want to re-read _A New Kind of Science_. I had read it so long ago; I'm sure I'm in a very different headspace now that will likely make my experience of reading it again like reading a book I've never read before.
+	* Put _Gödel, Escher, Bach_ on the same re-read list.
+* Picking good primitives and rules for a grammar does feel like what Stephen Wolfram describes [in this article](https://writings.stephenwolfram.com/2008/01/ten-thousand-hours-of-design-reviews/) as the core of the design process by working out the "correct fundamental primitives to cover the area".
+
+> In fundamental science, one starts from a bunch of phenomena, and then one tries to drill down to find out what’s underneath them—to try to find the root causes, the ultimate primitives, of what’s going on.
+> 
+> Well, in software design, one starts from a bunch of functionality, and then one needs to drill down to find out just what ultimate primitives one needs to support them.
+> 
+> In science, if one does a good job at finding the primitives, then one can have a very broad theory that covers not just the phenomena one started from, but lots of others too.
+> 
+> And in software design, it’s the same kind of thing.
+> 
+> If one does a good job at finding the primitives, then one can build a very broad system that gives one not just the functionality one was first thinking about, but lots more too.
+
+---
+
 ## References
 - [x] <https://twitter.com/metadiogenes/status/1280682762996011008>
 - [x] <https://writings.stephenwolfram.com/2018/11/logic-explainability-and-the-future-of-understanding/>
 - [ ] <https://en.wikipedia.org/wiki/Functional_completeness>
-- [ ] <https://en.wikipedia.org/wiki/Functional_completeness#Minimal_functionally_complete_operator_sets>
+- [x] <https://en.wikipedia.org/wiki/Functional_completeness#Minimal_functionally_complete_operator_sets>
 - [ ] <https://en.wikipedia.org/wiki/Post%27s_lattice>
-- [ ] <https://www.johndcook.com/blog/2014/11/22/ergodic/>
+- [x] <https://www.johndcook.com/blog/2014/11/22/ergodic/>
+- [x] <https://writings.stephenwolfram.com/2008/01/ten-thousand-hours-of-design-reviews/>

@@ -1,0 +1,57 @@
+---
+title: Wholeness as a physical structure in the universe
+---
+
+> An idea that has recently begun to appear in physics is the idea that wholeness itself is a real structure, something geometrically concrete, not merely a general appreciation for the unity and connectedness which exists in things. It is, rather, nearly a *substance*, a definite structure, which appears all around us.
+
+---
+
+> We have all had the experience of remembering a human face. We may have experienced, sometimes, the fact that we can remember the *feeling* of this person's face, its gestalt, its effect on us, its kindness or its ferocity, without being able to summon up, in memory, the detailed features that generate this gestalt. Even in such a memory lapse, it is plain that we do remember the most essential thing, the overall *feeling quality* of the face, which allows us later to say, unhesitatingly, "There he is", or "He's the one", if shown a picture.
+> 
+> In this kind of experience, the "something" which is clearly seen, and felt, and understood — the underlying structure which can be carried in memory — *that* is the wholeness.
+> 
+> Although it seems difficult to define, this wholeness is a *structure*. It is not "mere intuition". It is not nebulous. It is a structure lying at such a deep level that we cannot easily describe it in feet and inches, or centimeters and millimeters. In short, the point by point description will not capture it. Efforts have been made to capture this gestalt, but they have not yet succeeded.
+
+*This seems another excellent example to explain what Alexander really means by "feeling".*
+
+*This seems also to be the root of his desire to search for this structure in the physical world and his disdain for a psychological explanation of this phenomenon. He points out that this "feeling" is "not mere intuition", as if a psychological explanation would for some reason be inferior to a grand unifying theory within the realm of physics. That might very well be so, but I think he underestimates the mysteries of the mind and that our capacity to recognize gestalt with such accuracy might as well be a feature of our cognition, which still picks up on a (visually distinct) arrangement of physical structure in space.*
+
+---
+
+> In buildings, too, it is the wholeness which governs. What matters about a place, what gives it life, lies in the realm of this kind of global structure, too. It lies in the wholeness. Yet, without a language for talking explicitly about this structure in the past, it is no wonder we have not always done justice to the life, or lack of it, which occurs in different buildings.
+> 
+> In physics, and especially in quantum mechanics, this gestalt, the global configuration of the apparatus, enters into the behavior and experiment in a decisive way. Possibly the most important discovery of the 20th century was that in physics, too, the behavior of matter depends *on the wholeness*, not merely on point by point phenomena. The wholeness influences, guides, and determines, what happens, where things go. Even in the most basic phenomena studied by physics, such as the flight of an electron through a slit onto a wall beyond, it is the wholeness of the electron and the experimental apparatus together, working through the gestalt of the whole, that determines that happens next, where the electron goes, on which part of the wall it lands. That was the essence of quantum mechanics.
+> 
+> And it was thus in *physics* that the vital role of the gestalt of things, the existence of the gestalt as an influential structure, and its influence on events, was first recognized. Since the behavior of electrons, photons, and so forth was for the first time understood to be dependent on the wholeness of the apparatus where the experiment is taking place, for this reason is was necessary to attempt mathematical descriptions of this wholeness. And indeed, in the case of quantum mechanics, the gestalt or wholeness was successfully described by a variety of mathematical formalisms: formalisms so powerful that they predict accurately to many decimal places, the detailed behavior of quantum mechanical systems.
+
+---
+
+> However, although the mathematics of quantum mechanics *works*, it is, even to this day, almost impossible to *understand*. Even now, it is still not entirely clear just *how* it works or what it *means*. For seventy or eighty years, a struggle has gone on to find a way of looking at these phenomena and their mathematical representations which makes them understandable. But the mathematics has outstripped our cognitive grasp of what is happening. Although we know how to predict, with extraordinary accuracy, the flight of the electron, the photon, and other particles, so far, the mathematics itself, although it works, is undecipherable to common sense. *Indirectly* the wholeness has beed described by mathematics. But what this gestalt really *is*, is still not grasped. We still do not have a clear picture of what the wholeness *is*, nor even how we should think about it or understand it.
+> 
+> I believe this difficulty in quantum mechanics is a special case of the more general difficulty I have been describing throughout these four books. Quantum mechanics has appeared undecipherable because, *altogether*, people alive in the 20th century had the greatest difficulty coming to terms with the idea that it is indeed the *wholeness* — just the very same structural gestalt-aspect of the experimental apparatus which in another case determines the kindliness or ferocity of a human face — that determines where the electron is going to go.
+> 
+> This hurdle to comprehension has occurred because we have not had an adequate way of depicting, in our minds, *what — in general — wholeness is like*, and how it might be depicted. The struggle to reach such an understanding has been very great. […]
+> 
+> […] It was too difficult to create workable pictures of just the wholeness itself. In cases of art or buildings, we can feel the wholeness sometimes, intuit is sometimes, grasp it with an artistic eye, but up until now we have had no concrete language for it in the world of everyday phenomena.
+
+*Alexander's greatest contribution then, could very well be an intuitive understanding and description of wholeness.*
+
+---
+
+> Recently, a few adventurous physicists began to see that the "meaningless" mathematical interpretations of quantum physics could be given up and replaced by a more realistic picture of the wholeness which makes sense in a more ordinary meaning. This came about because they gave the wholeness itself a different role and started with the assumption that the mysterious phenomena of quantum mechanics come about because of interactions between things which are extended wholes in the world of space and matter. Einstein argued, for many years, that such an interpretation must be possible. He was followed by Louis de Broglie and David Bohm and John Bell, and their work has recently culminated in the work of Bohm and Basil Hiley which they describe as "an ontological view" — that is to say, a view of how things *are*, not merely how they are observed, or known, or how they seem to be.
+> 
+> In this ontological view, phenomena of dependence on a larger whole are taken to be real in the ordinary sense. They are real because they are understood against a backdrop of the *structure* of wholeness together with the assumption that one could understand the thing realistically only by formulating an explicit picture of the structure of the wholeness. All this hinges on the idea that space contains a global configurational structure which is not acting mechanically, but is nevertheless guiding and shaping events.
+
+---
+
+> What has been said in these four books goes somewhat further. The key idea is that what grows and unfolds, grows and unfolds as a natural consequence of what is, because it literally grows out of the wholeness — a structure in space — not a vague quasi-religious term, but (at least in my opinion, and according to the definitions given in Book 1) *a structure of symmetries that exist in the way that a given portion of space is differentiated*. Of course, if this hidden structure of symmetries, latent in space, guides and shapes events in a foreseeable way, then it will be quite natural to say that the unfolding of the system is guided by wholeness, because this will be a mathematical consequence of the system of structures.
+
+---
+
+> A growing number of scientists share the vision that the so-called conundrums of quantum mechanics occur because a particle is seen as if it were a tiny bullet… and can be solved if we learn to see the particle as a larger portion of space containing a wholeness that then acts in apparently bizarre ways because of its natural interaction with the wholeness of the surrounding configurations. In Bohm's work, and in the work of Bohm and Hiley, the larger wholeness takes the form of the quantum potential, a field which interacts with events. I am not so sure this is exactly the right way to talk about it. As stated earlier, I believe the concepts of Book 1 may make a better starting point. However, among physicists, even today, the idea that these phenomena of wholeness are real has so far been accepted only hesitatingly, and very reluctantly. All this has arisen because it is so difficult — so very, very difficult — to form an adequate picture of what the wholeness may be like.
+> 
+> For an artist or an architect the task is little easier. For us, it is more everyday, more commonsense to experience wholeness, easier to see it, and perfectly clear that the phenomenon of wholeness is real. My demonstration with Matisse's self-portraits in Book 1 provides a simple example. Also, for art and building, much of what I have said concerning the fifteen properties that govern the liftoff buildings is recognizably real. It stems from the structure of the whole. It is undeniable in its impact. In such cases the intuition that wholeness is a deep structure, present in large-scale configurations of the world around us, is unmistakable and somewhat clear. In this context, talk of disappearing cats, multiple worlds existing in parallel, and collapsing wave functions, though typical of the physics of recent decades, makes no useful sense, and makes no contribution to the solution of real architectural problems. Its absurd character is obvious. Yet the central role of wholeness is the same in both.
+> 
+> The difficulty of achieving a comprehensive picture of wholeness as a structure is considerable. But it can be attempted. For this reason I have tried to make explicit structural accounts of the wholeness, partly in Book 1 (especially chapters 3-6 and the appendices), partly elsewhere. As reported in Book 1, appendix 6, in architecture, even the first approximate calculations made with this structure give remarkably accurate experimental results. Preliminary results of a comparable nature have been obtained for a biological example and are reported in Book 2, appendix 2. I believe it is likely that extensions of the calculations I have made with symmetries and centers can one day be extended to provide an exact geometric picture of the two-slit experiment to show how electrons move under the influence of wholeness.
+
+(Pages 319-322)
