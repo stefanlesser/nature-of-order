@@ -29,10 +29,51 @@ You might want to start with these [[helpful foundational ideas]].
 	* [[Center]]
 	* [[15 fundamental properties]]
 * Part 2: The Personal Nature of Order
-	* [[Feeling]]
+	* Feeling
+		* [[What does it mean for something to be personal]]?
+		* [[Feeling as the inward aspect of life]]
+		* [[Wholeness and feeling]]
 		* [[Can we talk about feeling|Can we talk about “feeling”…?]]
-	* [[Mirror of the self]]
-	* [[Life as a universal value]]
+	* Mirror of the self
+		* [[Wholeness and real liking]]
+		* [[The mirror of the self]]
+		* [[An empirical test for comparing the degree of life of different centers]]
+		* [[Liking something from the heart]]
+	* Life as a universal value
+		* [[A more general class of tests for life]]
+		* [[Emergence of this new form of observation from precedents in modern science]]
+		* [[The core of the new method of observation]]
+		* [[The relation to Descartes]]
+		* [[The appeal to shared experience]]
+		* [[Techniques of measurement]]
+		* [[The expanding and contracting of our humanity]]
+		* [[Comparisons]]
+		* [[Judgement and the pursuit of architecture]]
+	* 10 The impact of living structure on human life
+		* [[How does the world have its effect on us]]?
+		* [[Freedom of the spirit]]
+		* [[Freedom and loss of freedom]]
+		* [[The stress reservoir]]
+		* [[Separation from reality]]
+		* [[A world which enhances human life]]
+		* [[Andre Kertesz’s Paris]]
+		* [[b1 c10 the mirror of the self|The mirror of the self]]
+		* [[Experiments in our time]]
+		* [[Ordinary reality]]
+	* 11 The awakening of space
+		* [[Ornament and function]]
+		* [[How a chisel works]]
+		* [[How a living room works]]
+		* [[How centers work together]]
+		* [[The unity of ornament and function]]
+		* [[Function arising out of ornament]]
+		* [[Life as an attribute of space and matter]]
+		* [[The hypothesis of Denis Diderot]]
+		* [[Space itself carries the attribute of life]]
+		* [[Throw out all functional explanations in your mind except the life of centers]]
+		* [[The recursive character of life]]
+		* [[The awakening of space]]
+	* Conclusion: [[A foundation for all of architecture]]
 
 ### Book 2: The Process of Creating Life
 
