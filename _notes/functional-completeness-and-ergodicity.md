@@ -36,6 +36,34 @@ Great to see you draw parallel with Alexander’s Pattern Language here. My expo
 * For instance, for a regular language, this would be the **Kleene algebra** with its set of primitives that allows one to express any regular language out there. So when creating a formal system, if one has the context thoroughly in mind and then design the logical steps necessary to cover it, you get “completeness” in my mind and it is ergodic in the sense: <https://www.johndcook.com/blog/2014/11/22/ergodic/>
 * To be sure, there are **distinct advantages to making a system non-ergodic**, though I lack the (physics + logic)-fu to see how just yet.
 
+### [Stefan](https://t.me/nature_of_order_chat/509)
+Thanks for the link to Stephen Wolfram's writings about minimal axiomatic systems.
+
+I had forgotten how good a writer Stephen Wolfram is and how capable he is to describe deep mathematical concepts in an extremely accessible way.
+
+I’m also impressed by how much he has internalized how computation can be applied to solve problems that involve traversal or exploration of huge solution spaces — exactly what computers can help us with. The way he gets to the proof is not much different to what he did in A New Kind of Science.
+
+This also makes me want to re-read A New Kind of Science. I had read it so long ago; I’m sure I’m in a very different headspace now that will likely make my experience of reading it again like reading a book I’ve never read before. (Godel, Escher, Bach is in the same re-read category for me now.)
+
+As I was reading Wolfram's article, one of the many links in it caught my attention: 
+
+Picking good primitives and rules for a grammar does feel like what Stephen Wolfram describes [in this article](https://writings.stephenwolfram.com/2008/01/ten-thousand-hours-of-design-reviews/) as the core of the design process by working out the “correct fundamental primitives to cover the area”.
+
+That sounds a lot like what Alexander's theory is all about and I can't help but see connections to Alexander in almost every sentence in that article.
+
+### [Stefan](https://t.me/nature_of_order_chat/510)
+The whole article is absolutely worth reading, but this is the part that got me excited:
+
+In fundamental science, one starts from a bunch of phenomena, and then one tries to drill down to find out what’s underneath them—to try to find the root causes, the ultimate primitives, of what’s going on.
+
+Well, in software design, one starts from a bunch of functionality, and then one needs to drill down to find out just what ultimate primitives one needs to support them.
+
+In science, if one does a good job at finding the primitives, then one can have a very broad theory that covers not just the phenomena one started from, but lots of others too.
+
+And in software design, it’s the same kind of thing.
+
+If one does a good job at finding the primitives, then one can build a very broad system that gives one not just the functionality one was first thinking about, but lots more too.
+
 ---
 
 ## Thoughts on this discussion
@@ -51,20 +79,6 @@ Great to see you draw parallel with Alexander’s Pattern Language here. My expo
 	* This could explain why a minimalistic solution might not automatically be considered the simplest solution. "As simple as possible, but not simpler." -> Alexander's fundamental property [[Simplicity and inner calm]].
 * When I use the term "differentiate", I denote Alexander's meaning as in growing a system by specializing it further, similar to the development of an embryo, as Alexander likes to use as an example. @Prabros might take its mathematical definition instead. I wonder if that causes an interesting dissonance?
 	* As I think of the mathematical meaning of differentiation, I can see a connection (probably the connection @Prabros makes), and now I wonder how mathematical differentiation and integration relate to this. Intuitively, a derivative is sort of an abstraction and therefore "compression" of a more detailed function, and an integral is sort of the reverse.
-* I had forgotten how good a writer Stephen Wolfram is and how capable he is to describe deep mathematical concepts in an extremely accessible way. I'm also impressed by how much he has internalized how computation can be applied to solve problems that involve the traversal or exploration of huge solution spaces — exactly what computers can help us with. The way he gets to the proof is not much different to what he did in _A New Kind of Science_.
-	* This also makes me want to re-read _A New Kind of Science_. I had read it so long ago; I'm sure I'm in a very different headspace now that will likely make my experience of reading it again like reading a book I've never read before.
-	* Put _Gödel, Escher, Bach_ on the same re-read list.
-* Picking good primitives and rules for a grammar does feel like what Stephen Wolfram describes [in this article](https://writings.stephenwolfram.com/2008/01/ten-thousand-hours-of-design-reviews/) as the core of the design process by working out the "correct fundamental primitives to cover the area".
-
-> In fundamental science, one starts from a bunch of phenomena, and then one tries to drill down to find out what’s underneath them—to try to find the root causes, the ultimate primitives, of what’s going on.
-> 
-> Well, in software design, one starts from a bunch of functionality, and then one needs to drill down to find out just what ultimate primitives one needs to support them.
-> 
-> In science, if one does a good job at finding the primitives, then one can have a very broad theory that covers not just the phenomena one started from, but lots of others too.
-> 
-> And in software design, it’s the same kind of thing.
-> 
-> If one does a good job at finding the primitives, then one can build a very broad system that gives one not just the functionality one was first thinking about, but lots more too.
 
 ---
 
