@@ -8,11 +8,9 @@ title: Now
 What I am working on currently:
 
 * Getting the [[Telegram group]] going
-* [[Book 4 cliff notes|Currently reading]] Book 4: _The Luminous Ground_
-	* ~~chapter 11: _The Face of God_, pp. 301-316~~ ✔️
-	* ~~Conclusion: _A Modified Picture of the Universe_, pp. 317-338~~ ✔️
-	* Epilogue: _Empirical Certainty and Enduring Doubt_, pp. 339-344
-		* *due Thursday, 8th April*
+* [[Book 4 cliff notes|Currently reading]] Book 4: _The Luminous Ground_ ✔️
+	* ~~Epilogue: _Empirical Certainty and Enduring Doubt_, pp. 339-344~~ ✔️
+		* *I finished it. The whole thing. Can you believe it?*
 * Transferring and editing my private notes
 	* ~~Book 1~~ ✔️ finished
 	* Book 2

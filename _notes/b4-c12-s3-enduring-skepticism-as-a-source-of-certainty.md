@@ -1,0 +1,31 @@
+---
+title: Enduring skepticism as a source of certainty
+---
+
+> Throughout my life, I have found out everything that I have found out by a continued skepticism, by asking questions, by not accepting anything without questioning it again and again. This habit of a lifetime has not left me just because I have finally finished these four books.
+
+*Ok, good. I'm sure Alexander will appreciate then, that I remain skeptical and have many questions about this work. :)*
+
+> It is sometimes very hard for me to imagine that what I have written about the nature of the universe in this fourth book of _The Nature of Order_ can actually be true. Concretely, I am a child of the 20th century, and have been deeply molded by the belief in the mechanical nature of the world. Concretely, I have in my blood a belief in the mechanical nature of my own body, and in the short term of my own existence. Wonder alone does not dispel this skepticism. The wonderful and heart-rending things that happen in different human lives, the ripple that passes down the cat's fur when she jumps to catch the bird, the soft glow of evening in the winter sunset time, the joy of a child born, and the sadness thinking of that child's inevitable death — for all the happiness and sadness in these things, deep down part of me is still convinced that the world is mechanical, just as I learned when still a child.
+> 
+> And yet, in this fourth book, _The Luminous Ground_, I have described a way of understanding the world in which it appears that life is inherent in space itself, and in which soul, or spirit, is an inevitable part of matter, which shows through, as the curtain rends, in which not only people, but buildings, flowering bushes, even window-sills, have their own life and spirit too, as a real thing, which goes far beyond the mechanical world and is part of the nature of our existence.
+> 
+> Is one true and the other false? Is the idea which I have described in this fourth book nothing but an artist's dream, something that is ultimately — from the point of view of physics — *untrue*? I do not think so.
+> 
+> I have written down the view of matter described in this book because I cannot now see another way. For thirty years I have tried to find a consistent and coherent vision of architecture which is able to explain the facts about beauty, buildings, life, and harmony. Almost all of it is rooted in observation. Even during my occasional lapses towards poetic speech, I have not written anything down that is not based on my conviction of its empirical reality. In almost all cases, I have described facts about buildings, intuitions, experiences, as they are, as people experience them.
+
+*I agree with this, and I am still mesmerized by the discipline he showed dissecting all these details with wonderful scientific rigor. The theory in itself is a beautiful whole, coherent and consistent. Most of the points Alexander makes are important and have even more important practical applications. Just his ultimate explanation for why things are that way seems to me like perhaps a side-effect of the wonderful wholeness he has created with his theory itself — because everything fits so well together, he overlooked other possible explanations, or other possibly interesting paths to explore, to come to possibly different conclusions on how our universe works. But that does not take anything away from the observations Alexander makes, and the practical consequences that can be drawn from these observations.*
+
+> The scheme I have invented to encompass these things does seem fantastic. But it must also be accepted that the architectural facts which need to be explained will not go away. Just because I believe in the mechanical nature of my own body does not mean that the experiences and feelings described throughout this book are not true. I have been painstakingly accurate as much as I could be. I have tried not to exaggerate. I have used only what I know to be true, *of my own knowledge*. And I have used facts which are, in my experience, sharable. That is to say, others, too, when invited to consider the facts which they experience in the world of building, do make similar observations.
+> 
+> And now, as I consider the possible logical schemes which are consistent with these observations, I can see no genuine alternative. Farfetched as it is to propose a schema of space and matter which contains life, and which allows a curtain to be pulled aside as matter grows more coherent, looking through to an ultimate reality of I, *I cannot see any other coherent explanation which makes sense of everything in a useful and intelligible way*.
+
+---
+
+> As Sherlock Holmes said, if you have examined every possible alternative, and you have gradually eliminated all the alternatives but one, then that one — no matter how fantastic — must be the truth. That is more or less how I evaluate the finding on the interaction of matter and the I reported in this last of my four books. One part of me — the positivistic and 20th-century part of me that grew while I studied mathematics and the sciences at Cambridge — has the greatest difficulty believing it. But at the same time, intellectually I cannot escape the force of the logic that leads to these conclusions. No matter how hard I have tried, I have not been able to construct another scheme of things which gives a believable account of the nature of beauty and life in buildings. All this seems to me, then, like Sherlock Holmes' last alternative: something which seems fantastic, but which remains, nevertheless, the only alternative consistent with the facts, which therefore must be true.
+> 
+> The trained scientist in me, with the prejudices of an earlier era, cannot quite believe it. But as a hard-bitten scientist who goes where the evidence goes, I believe it must be true. And my instinct — lying deeper perhaps than logic, and nourished by years of skepticism — also says that it is true.
+> 
+> It is something like this that I hang onto. I want to believe it. I cannot believe it. But I believe it must be true.
+
+(Pages 343-344)

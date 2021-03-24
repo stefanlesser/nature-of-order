@@ -168,6 +168,6 @@ title: Book 4 cliff notes
 	8. [[A physical basis for religious awe]]
 	9. [[Essential awe]]
 * Epilogue: Empirical Certainty and Enduring Doubt
-	1. An extension of the scientific idea of what can be known
-	2. A new method of observation at the core of the world-picture
-	3. Enduring skepticism as a source of certainty
+	1. [[An extension of the scientific idea of what can be known]]
+	2. [[A new method of observation at the core of the world-picture]]
+	3. [[Enduring skepticism as a source of certainty]]
