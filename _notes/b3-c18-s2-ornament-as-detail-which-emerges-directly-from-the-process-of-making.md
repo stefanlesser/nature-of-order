@@ -1,0 +1,8 @@
+---
+title: 2 Ornament as detail which emerges directly from the process of making
+---
+
+> The architect, being the designer, is supposed to specify every aspect of the made thing, the building. The builder — that is, the contractor — is supposed to do what is on the drawings which have been specified by contract and by working drawings. The contractor is therefore not free to undertake this kind of embellishment — and besides, it doesn’t arise naturally in relationship to money, either. The contractor gets no extra for doing it; indeed, he would be in violation of the contract, often, if he *did* do it. In addition, because of the effects of the machine age, it is quite likely that the technicians and builders in a construction company have lost all natural sensibility that would allow them to make graceful, profound, ornament.  
+> The machine-age architect, on the other hand, who may have the intuitive ability, or the desire to make beautiful ornament, is often too removed, has no connection with the tools, materials, or actual processes, so the natural ornament does not flow naturally from his hands. For such an architect, the very circumstances of his existence dictate separation, so that ornament almost cannot be made to flow naturally from the centers which exist in the plan, the rooms, the walls of the emerging larger structure.  
+
+#book/The Nature of Order/3 A Vision of a Living World/18 Ornament as part of all unfolding#

@@ -1,0 +1,15 @@
+---
+title: 2 The essential reason for dynamic thinking
+---
+
+> In most typical 20th-century developments, the developer laid out a plan, and then, over the next few years, the houses, shops, and offices were built according to this plan, filling it in. Not surprisingly, these “filled-in” developments were often rather dead when built. The reason is that the form, the plan of the community, did not emerge naturally from actual events in the ongoing life of the community and was therefore not harmonious with ordinary life as it would have happened if things were natural.  
+
+> The position for the second workshop is a natural outcome of the answer “Where would I like to locate in relation to all these other things that are there already?” It is, almost certainly, a very different spot from the spot that would have been marked on an original master plan, if one existed. That is because on the master plan, someone was trying to arrange everything **at the same time**. Here it is more real. It is dependent on real smells, real relationships, real practicalities. So if this second workshop were built according to a master-plan it would inevitably be unrelated to the terrain, cafe, road. If, instead, it is built in this natural spot which emerges from people’s actions and volitions, it will be related — in a way that makes sense — to the road, cafe, terrain, and parking and view.  
+> The effect of time on the process of adaptation is huge, and leads to types and styles of order quite different from any planned arrangement. Even in this first very small increment of construction, the dynamic time-dependent process creates and maintains relatedness. The static master-planned process does not. In a community growing over time, such increments will happen hundreds — more likely thousands — of times. If a dynamic process is followed, so that each time the next step follows existing things — preserves the structure, and creates and maintains relationships — we get a harmonious living community.  
+> If, instead, a static master-plan-based process is followed, and the 20 or 100 things are built according to the original drawing or plan, then they will exist, for the most part, without real functional relationships: the whole is unrelated in its internal elements; there has been no structure-preserving going on, step after step, and the whole remains dead.  
+
+*We benefit from preserving the structure because we build up familiarity — or deep understanding — as the form unfolds over time. Is this what learning really is — familiarity with structure?*
+
+*Software, or rather data created with software, does not necessarily preserve its structure and thus gives flexibility but trades it for our familiarity with its structure.*
+
+#book/The Nature of Order/3 A Vision of a Living World/11 Necessary further dynamics of any neighborhood which comes to life#

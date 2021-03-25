@@ -1,0 +1,15 @@
+---
+title: 4 Start of a collective vision in Fort Lauderdale
+---
+
+> When people do sit down and discuss patterns together, one by one, the **remarkable unanimity** which comes from the discussions is often moving and profound.  
+> During the seventies and eighties of the last century, the then prevailing **rhetoric of pluralism** tried to persuade us that because we are all different, we live in a world of **competing interests**, and that unanimity is not available or reachable. Yet the language of “interests” “conflicts” and “compromise”, discussed by planners and social philosophers came chiefly from the special interests of particular players who want to do something one-sided — usually to do with money. It is these **one-sided interests** which have to be balanced, or negotiated — in my view, because they are **not quite legitimate** in the first place.  
+> Ordinary people, who are not pushing a special economic interest, or other special interest, rarely have such profound conflicts. The reality of daily life, even as disparate and various as people are, is largely shared in its deeper aspects, and remarkably uniform. There is likely to be far greater feeling, among them, that what needs to be done is obvious and ordinary. Ordinary people (by that I mean people without special *economic* interests) usually do not have the same items at the top of their individual wishlists, nor do they have such ferocious allegiance to the items. Their items are softer and can coexist more easily, often without causing difficulty in the unfolding of the whole.  
+
+> These ideas — only crudely formulated here — were the first eight items on a list of patterns that were considered by the neighborhood. Each one would merit detailed discussion; and would no doubt change considerably when subjected to careful discussion. But, going through them one by one, and thus unfolding the generic patterns from the present awareness of the community — the agreed elements that could bring life to the community — then the subsequent unfolding would gradually improve the place.  
+> It was not hard to get these generic patterns from the discussion. And, as you can see, working at this level of detail, with discussion of geometric patterns one at a time, there is very little conflict: little argument to suggest that any of these patterns that are being brought forward, are objectively invalid.  
+> Within a few hours, we already had the beginnings of a broad agreement.  
+
+Adjust the level of abstraction — how generic an issue is discussed — to find agreement. That still means that the vision in people’s minds might differ significantly in detail, but there is a generic version of it that everybody can agree on. Details can then later be discussed, in future steps of the adaptive process.
+
+#book/The Nature of Order/3 A Vision of a Living World/8 Forming a collective vision of a neighborhood#

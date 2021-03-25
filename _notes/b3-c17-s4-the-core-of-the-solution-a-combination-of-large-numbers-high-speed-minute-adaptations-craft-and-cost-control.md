@@ -1,0 +1,7 @@
+---
+title: "4 The core of the solution: a combination of large numbers, high speed, minute adaptations, craft, and cost control"
+---
+
+> The solution to the problem is an interlocked pattern of action in which we use resources for speed and efficiency, allowing them to perform what they can perform, rapidly and cheaply, yet interleaving with them, smoothly and cunningly, the personal qualities and procedures needed to create genuine fine-scale adaptation. In addition, there must be a set of procedures where (using electronic means, computers, and a variety of sophisticated but apparently native simulations) one is able, at high speed and in very short time span, to make just those kinds of detailed artistic adaptations which were possible in the 12th century, but in a new (and now partially simulated) form which can be transmitted to the real project through high-speed electronic means. The two procedures — the fast of the modern and the slow of the old — are united to form a new kind of process, one which would have been unrecognizable in the 12th century and unrecognizable in the 20th century. It is something, in principle genuinely new.  
+
+#book/The Nature of Order/3 A Vision of a Living World/17 The production of giant projects#

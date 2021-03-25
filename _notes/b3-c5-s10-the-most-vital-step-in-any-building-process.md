@@ -1,0 +1,9 @@
+---
+title: 10 The most vital step in any building process
+---
+
+> Once this work on site and volume design is done, the essential feeling of the coming buildings — their contribution to the world, their structure-preserving character — has been established. It is the most vital single step in the emergence of a new building or a new group of buildings. If the volume is congruent with the wholeness which existed previously in the city or on the land, a profound feeling can often come from its congruence.  
+> What follows, in later stages of design or construction process, must never be allowed to undo this congruence or damage it. If the feeling is genuine and does arise out of the site itself, then it must be thought of as an absolute which later stages of unfolding — detailed design and construction — must only strengthen, deepen. If, on the other hand, the volume that you have reached at this first crucial stage is in any sense inadequate, then you must fix it now. Any depth of feeling which exists in the thing will hinge on this volume and its placing on the land. You may try to tell yourself that you can fix it later, but you will not be able to. Later will be too late. The deep feeling can never be made essentially different later. If the disposition of volume and space has force in it — magic — now, then you have a chance of keeping it, and enlarging it by later actions of design. But a bad beginning of volume and space can never be set right later.  
+> When it exists only in your mind’s eye, or as a tiny cardboard model, your job is to make that feeling so intense that it captures the soul of that place, and fits harmoniously and with intense feeling into that piece of land.  
+
+#book/The Nature of Order/3 A Vision of a Living World/5 The positive pattern of space and volume in three dimensions on the land#

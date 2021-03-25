@@ -1,0 +1,12 @@
+---
+title: 7 A new kind of engineering design process based on finite element analysis
+---
+
+> A finite element model is a form of computer simulation in which the differential movement of the elements of a given structure can be determined, based on the loads it experiences. This has become the most powerful — and easiest — way of finding out what really happens to a structure. It allows you to make rapid tests to see how the various elements of the structure move, in relation to one another. This in turn allows one to correct the structure becomes well-behaved.  
+
+> It occurred to me that one could, with the advent of computers, do something more useful and far more creative with finite-element analysis, namely: To obtain the design *itself*, that is to say, the best *configuration* of members, not merely the best sizes of members in a given configuration. One could very quickly examine a sequence of different configurations, each time obtaining the overall forces, tension, compression, bending moments and shear, in the members, observing the badly behaved zones in the structure, and then inserting, or deleting members, or re-sizing them, to improve the behavior, then testing the finite-element program again, obtaining new forces and so on, thus moving rapidly through a sequence of different configurations — hence different designs. After a small number of iterations, which can be examined in a day or two, one is able to arrive at a “best” configuration which has good behavior as a whole.  
+
+> Just as a cardboard model of a building volume on a site gives us excellent feedback about its spatial life within the larger configuration — so the finite element computer model gives us almost instant feedback about the good, or bad, behavior of the structure when forces are applied to it.  
+> We are able to correct the structure within minutes, making different elements stiffer, or less stiff, or larger, smaller, differently connected and so on. Then we run the program again, and watch to see how the structure behaves. If the behavior gets better, we have done something useful. If it gets worse, we go back, and try again. Within a few hours it is possible to make many, many iterations of this kind. With care, we may then allow a beautiful and efficient structure to develop.  
+
+#book/The Nature of Order/3 A Vision of a Living World/6 Positive space in engineering structure and geometry#

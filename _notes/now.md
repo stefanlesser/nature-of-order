@@ -14,8 +14,8 @@ What I am working on currently:
 * Transferring and editing my private notes
 	* ~~Book 1~~ ✔️ finished
 	* Book 2
-	* Book 3
-	* ~~Book 4~~ ✔️ finished (took them here directly)
+	* [[Book 3 Cliff Notes]]
+	* ~~[[Book 4 Cliff Notes]]~~ ✔️ finished (took them here directly)
 * Making this site work better
 	* See also: [[Growing this site]]
 

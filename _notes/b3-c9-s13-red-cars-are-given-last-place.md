@@ -1,0 +1,10 @@
+---
+title: "13 Red: cars are given last place"
+---
+
+> The pedestrian realm is the framework for the growing neighborhood. A neighborhood should be a place where you would rather walk than drive your car, where people feel free to walk, meet, enjoy themselves; a place where children can play safely almost anywhere; there are public spaces and walking paths throughout.  
+> In a neighborhood modified by a living process, the car must therefore be made to play second fiddle to the pedestrian; vehicular traffic must be accommodated without dominating the pedestrian environment. The car has to play a subsidiary role. It is convenient, the car can reach almost every house, almost every workshop, but it is not allowed to dominate the situation, not to create conditions which threaten the well-being of the pedestrian world. What this means, in practical terms, is that the *pedestrian* world, not the car world, must be geometrically the more coherent of the two.  
+> To achieve this we give, in the unfolding process, priority to the process that establishes the pedestrian structure, and we expect this pedestrian structure to be coherent, dominated by local symmetries which form the land into nice pieces, and so on.  
+> The cars and the land devoted to cars play a secondary role. The process of setting in parking, lanes for cars, alignments for cars to drive along, must always be playing second fiddle, from a process point of view. It comes later. And we expect that the paths for cars will be somewhat tortured. It makes the car slow down when it is in the neighborhood. The car can easily negotiate bends, curves, etc. On the other hand, for the pedestrian, unless there are views, and a coherent sense of the space, the pedestrian world will not easily be grasped. So (contrary to most 20th-century thinking) the car is given irregular streets and parking, while the pedestrian is pampered, made to feel king, allowed to feel at home.  
+
+#book/The Nature of Order/3 A Vision of a Living World/9 The reconstruction of an urban neighborhood#

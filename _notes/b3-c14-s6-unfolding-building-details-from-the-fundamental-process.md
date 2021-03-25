@@ -1,0 +1,13 @@
+---
+title: 6 Unfolding building details from the fundamental process
+---
+
+> Consider an imaginary process in which a generalized building is conceived, in outline, as a hazy volume, its shape roughly known but not yet considered as a substance of physical material, brick, concrete, wood, plastic, steel and so on.  
+> The hazy volume, even without knowledge of its material substance, already has certain latent centers which exist, just in virtue of the *configuration*. These latent centers occur most typically at the joints of the whole thing, but also in the major lines and planes and columns which form the building.  
+> For instance, if it is a rectangular volume, there are latent centers at the corners. If it has a flat roof, there are latent centers where the roof meets the wall. If it has a pitched roof, there is an additional latent center along the ridge, and at the eave. If the building has columns, these arise as latent centers. Where a line of columns meets the building roof of floor, there is a base, or a capital, all latent. If a wall exists, a low flat wall, then there is a latent center along the top of the wall. A wall, in itself, has latent centers, just by virtue of the wall plane; a roof surface or a ceiling surface, these, too, are latent centers. If a ceiling meets a wall, there are latent centers there.  
+> In most traditional cultures these latent centers become strengthened to form natural “traditional” elements. Thus the latent center in the zone of the eave is intensified by construction detailing which strengthens this center and makes it more alive. Some of this development is function-based (gutter, ventilation, change of slope), other is what we would traditionally call ornament-based (cornice molding, special edge tiles, change of profile or material). But in any case, what is sure is that in almost every traditional culture, patterns evolved for elaborating the latent center of the eave.  
+> In traditional cultures most building elements exist as traditions because they have been elaborated thousands of times in just this way. The particular way these elements are elaborated is what gives rise to the typical character of any one building style. The “style” is a set of details which have typically evolved at some place in time to deal with the further unfolding of the latent centers in the evolving building.  
+
+> These centers which I speak about exist merely because of the configuration. They are there, whether we like it or not, latent in the geometry of any building’s preliminary form.  
+
+#book/The Nature of Order/3 A Vision of a Living World# #book/The Nature of Order/3 A Vision of a Living World/14 Construction elements as living centers#

@@ -1,0 +1,11 @@
+---
+title: 11 Everything is joyful ornament
+---
+
+> For me the joy of building is that, in a profound sense, I feel the *whole* building as an ornament. It is not a question of putting ornaments *on* a building, or *into* the walls and floors and columns, but rather that the whole building is an ornament — whose rooms, passages, staircases, windows, ceilings, paving, benches, lamps are all extensions, pieces of that ornament.  
+> You have seen, I hope, that this is an inevitable result of the theory which I have laid before you. If the field of centers comes to life when it is endlessly differentiated and extended, then that same field of centers — which is after all pure structure of geometry in space — will find its most living state when all creation, everything in the world, really is an ornament.  
+> In this way of thinking, the walls are extended by structure-preserving transformations to be ornamented as they become part of the greater ornament which is the room. The eaves are ornaments, extensions of the wall and roof; the bosses on the intersections of a panelled ceiling, the decoration on a wainscot, window panes themselves, are all ornaments, all part of some larger ornament.  
+> I know that I am using the word ornament in an unusual way as I say this. But sometimes, thinking in this way, seeing the field of centers (living structure) as a pure geometric structure, I think of animals, and plants, and human beings, too, as ornaments in this sense: ornaments which have unfolded out of nature, and which might for this reason then truly be seen, as if in the eyes of God, *as* ornaments.  
+> In any case, I hope that you will get the same joy that I have, from seeing each building in its microstructure as an ornament from the largest to the smallest detail — and that this joy can extend to the making of every part and window-sill, to every ceiling, to the color of the plaster, even in the end to the animals and plants you may feel inclined to place here and there within the structure, as its embellishment unfolds continuously, in your hands.  
+
+#book/The Nature of Order/3 A Vision of a Living World/18 Ornament as part of all unfolding#

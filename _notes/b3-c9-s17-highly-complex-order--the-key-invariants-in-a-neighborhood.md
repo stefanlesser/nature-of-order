@@ -1,0 +1,10 @@
+---
+title: 17 Highly complex order — the key invariants in a neighborhood
+---
+
+> The large-scale order which is created by this apparently simple local process is highly complex, and almost not describable geometrically, *except* as the result of this kind of process. This may be understood in the context of the discussion in Book 2 where I asserted that the kind of order that occurs in living structure has a complexity not usually describable by drawings or by architectural images.  
+
+> The primary invariant which follows proper use of living process in a neighborhood is a statistical balance of the areas of pedestrians, positively shaped gardens, buildings, and cars. Under a living process, as unfolding proceeds, the relative areas of these four components need to remain almost equal. In particular, a living process will maintain the size and coherence of the pedestrian and garden areas and severely limit unruly growth of areas for cars.  
+> The most important secondary invariants concern the complex intertwined character of the areas devoted to pedestrian (yellow), gardens (green), buildings (gray), and cars (red). The interaction of these areas will be topologically complex, not easily described by simple geometry. Green areas will be mixed in size, and all positive; gray areas partly surround green areas. Yellow areas touch all the green areas and the gray areas; the yellow areas have different sizes and are all coherent and locally symmetrical geometrically; red areas consist of small loops of narrow roads with very small areas devoted to parking no more than a few hundred square feet at a time, and only a very small number of larger, high-speed roads, carefully placed to avoid damaging the delicate fabric of yellow, green and gray.  
+
+#book/The Nature of Order/3 A Vision of a Living World/9 The reconstruction of an urban neighborhood#

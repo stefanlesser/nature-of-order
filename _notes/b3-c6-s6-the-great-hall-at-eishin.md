@@ -1,0 +1,13 @@
+---
+title: 6 The great hall at Eishin
+---
+
+> The essence of the problem lies in the process through which we understand solid and void as two balanced opposites.  
+
+> At any state our model was in, one or another of these centers was in some sort of weakened state. As I kept on trying to intensify the structural system of the building as a whole, I was at the same time actively making one of these centers *more* of a center, a more powerfully *living* center. The process of making it more of a center (giving it more life) then also played a role structurally, at the same time that the elements and members helped the space.  
+> When I started, all I knew was that there must be a number of columns. As I placed the columns, and as we watched the light develop in the 1:20 model we had in our office, it became clear that the building was most powerful, had most life in its columns, when the columns were very big, and the space between the columns rather small. So, I put a rhythm of this kind — big columns, small spaces — into the building. Of course this rhythm was useful structurally.  
+> From an elementary point of view we might have said, “But we do not need this much structure. There could be less material. The columns could be smaller, or further apart.” But if we take this step, then the life of the building evaporates. So I kept the big columns, and the close spacing, because that is where the life comes from, and asked myself instead: How can I get the most structural efficiency out of *this* pattern of columns?  
+> We considered the possibility they might be hollow. Then we considered them as elements of a moment-resisting frame. We were looking for a pattern which made the best structural use of this beautiful arrangement for columns. We never allowed the simple-minded pure-efficiency argument to dictate, since this would have killed the structure. The simple efficiency argument has no more sense, in structure, than allowing *any* single aspect of the building to rule.  
+> For example, the pure plumbing economy argument in an apartment building says all bathrooms and kitchens must be in the same relative position. Obviously, we do not give way to such a silly argument, since it will certainly kill the life of the building. In the same spirit, when designing structure we must recognize that our job is to take the pattern of columns which has the maximum life, and to extract from this maximum life a more intense pattern still, which develops great structural strength and benefits from the life to create a further *structural* life.  
+
+#book/The Nature of Order/3 A Vision of a Living World/6 Positive space in engineering structure and geometry#

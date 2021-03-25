@@ -1,0 +1,23 @@
+---
+title: 2 Interlocking elements of mass and elements of space
+---
+
+> It is too often forgotten that a building is, above all, a **load-bearing structure**. The most significant thing about what we call a building is that it is a **disposition of material** weighing several hundred or several thousand tons. The question is, how do we arrange these thousands of tons to make something with powerful sense, with psychic force?  
+> To do it, we essentially have to think of the structure as big and the space as small. The structure is made of big and massive members (volumetrically, but not necessarily with regard to weight). And the building will be beautiful, or not, according to the pattern of these members in three dimensions.  
+> In many historic buildings, what we experience as “the building” is really **almost nothing but the structure**: it is that disposition of members which stands in the air, and shouts, cries, to the sky.  
+
+> To create living structure in *any* building, we must form a powerful interlock of space and mass that intertwine in three dimensions, making (if we are lucky) something inescapable that moves us, imposes its sensation on us, comes to us as a creature that we cannot avoid.  
+
+> Structural mass is almost always distributed with rhythm. It is a pattern of alternating mass and space whose regularity has the power to resist movement. So, to get it, we first form a rough skeleton of the possible mass, and then begin to ask how this skeleton of mass can be made to resist movement: and what elements of mass we have to add to make it resist movement more effectively.  
+> The process of creating the structure consists mainly of work we do in the centers, trying to make them stronger and more intense. The process of making the centers intense, and the process of making the structure powerful and able to withstand forces, are the essence of the thing. We master the art of making this structure at that moment when we see the system of load-bearing elements (structure) and the system of rooms (spatial centers) as one and the same problem. That is, when our intuition for the structure (our understanding of its centers) and our intellectual grasp of its structural behavior (knowledge of its movements in failure) become one and the same.  
+> In the end, the making of the design — the integration of building, circulation, rooms, and structure — is a creation of pure pattern like an abstract painting or an ornament in which the beauty of the pure pattern is both the ultimate goal and, when it works, the ultimate achievement.  
+> Of course, the building is helped to work by non-structural issues — if light is good, if quiet spots are really quiet, if the important centers in the rooms are off the track of doors, circulation and movement paths and have beautiful relationships to light and windows.  
+> But the building as a whole, its *feeling*, and above all the decision about whether it really works in these important ways, will largely hinge on the way in which it is a beautiful, pure pattern in which solid elements and open elements, volumes, spaces, voids, and solid cores of material, together form a satisfying pattern of centers.  
+
+> This is virtually pure art. It is not, as people sometimes like to say, a mixture of practical and art. It is *pure* art. The centers are purely in the configuration alone; and the beauty of the centers works only *when* they are pure. Of course it also happens that the centers are defined by aspects which are practical — strength, light and so on, together with human and social considerations. But the game that is played by these elements in space, the pure unity which they accomplish, lies purely in the realm of art.  
+
+> The process by which this outline of the building’s approximate space and volume is transformed to become a coherent geometric *structure*. It is during this phase that the building gets its guts, its inner force, establishes its feeling in a meaningful way, and may first become a living creature.  
+
+> In summary, what the fundamental process does to make a building beautiful, is to make the structure part and parcel of the space. Like negative and positive, the matter and the space become complementary opposites. Each complements the other. The structural elements form a composition in their own right, as do the spaces: two beautiful systems of centers, each with its own weight and substance, each interlocked and interdependent with the other.  
+
+#book/The Nature of Order/3 A Vision of a Living World/6 Positive space in engineering structure and geometry#

@@ -1,0 +1,23 @@
+---
+title: 3 Positive space and positive structure — a three-dimensional carpet of space
+---
+
+> So, a good building, in the end, is a dense packing of pure pattern in three dimensions, in which every piece, every part, is positive.  
+
+> The general feeling and idea of what it means, how space is packed together, what it feels like to accomplish this, is visible in ancient carpets as in almost no other human artifact.  
+
+> In a building, what we are trying to do is to form a complete densely packed system of centers, both in the space (void), and in the solid structure (the material mass of the building). Rooms and structure alternate; space and solid alternate; the rooms of the building and the members that form its mass form [[Alternating repetition]].  
+> To make the structure live, the spaces between the structural elements, too, must form a beautiful composition of centers, with *their* own weight and substance. And the structural elements, too, need to be large, substantial enough to exist as solid centers in their own right, square, massive, big enough to have relationship with the human body, to form a significant part of the rooms in which they occur. If the structural elements make a pattern in themselves, then, because of [[Alternating repetition]], the spaces between the elements will also be well-shaped, small enough, and beautiful.  
+
+> The forging of this interlocking fabric of three dimensions, in which each element is positive, is the crux of the architectural problem. The building must be put together so that every *space* is positive, and so that every building *element* is positive; that means, each must be a center. It resides in large part in the structure, since the structural bays must be visible, coherent, and solid to accomplish this. And the core also lies, even at the first gross level, in the positive nature of the smaller building elements.  
+> Even when one first conceives rooms, halls, and corridors, the walls, floors, columns, ceilings, and windows are already imagined as positive and solid entities. And for this, even sills, doorsteps, window frames, and cornices, must also appear, already, in the mind’s eye as positive entities. It is this positive interlocking nature, and the character of space in three dimensions which is required to carry it out, that is the essence of the problem. In this respect it is, almost exactly, a three-dimensional analog of what is carried out in the great old Turkish carpets.  
+
+> When a living process makes a meaningful volume, we must accomplish a perfect solidity of the land — that means, a disposition of building volume, which makes the *land* positive. At one or two scales, this is relatively simple. But in the case of the building interior and the mass of the building itself, the interlock of space which is to be positively shaped and mass components which are to be positively shaped is of unbelievable complexity. This is where the heart of architecture arises.  
+
+> Effectively, the fundamental process, applied repeatedly, creates a series of nested, layered packings of space. A packing of the main spaces, the largest entities of space. A packing of minor entities of space, rooms, and so on. A packing of the smallest spaces, passages, alcoves, closets, window seats, toilets, stairs. A packing of the main structural bays: bays, beams bays, vaults, units of spanned space. A packing of smaller positive entities: the columns, walls, etc., themselves visible as centers — and thus positive. But the fundamental process achieves, further, a **congruence between these systems**, so that the space is visible in the structural plan, and the structure is legible in the space plan.  
+> First in the plan we expect to see the rooms take on the character of making every space positive. Then we expect that a structural system will form structural bays that have the same positive nature, and in which one can see the positive space of the rooms, within the framing plan and column plan of the structure. And finally, the actual elements of the structure, individually stand out as positive solid entities in themselves.  
+
+> It is vital that in the finished composition, one experiences the structural elements and the space, together. We experience the space, formed by the structural massive elements, as something truly alive in which we feel and breathe. One brings the space to life by giving life to the structural elements. The whole then speaks.  
+> In a complex structure, which has to be analyzed for structural behavior, the same process gives the disposition of the individual elements, and their pattern.  
+
+#book/The Nature of Order/3 A Vision of a Living World/6 Positive space in engineering structure and geometry#

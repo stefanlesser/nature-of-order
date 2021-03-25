@@ -1,0 +1,12 @@
+---
+title: 10 Each step uses the fundamental process to unfold an earlier wholeness
+---
+
+> At each step, progress is made using the transformations to intensify the field of centers reached previously. When the transformations alone were insufficient to guide me, I used the mirror-of-the-self as a more subtle criterion. Of course, the whole process was guided by practical analysis of structural forces. But even the forces themselves are seen as centers, and the process of elaborating and intensifying the field of centers was used to channel and redirect the forces themselves.  
+> In some cases, it took a lot of effort, and trial and error, to find out which differentiation would do the most to preserve the field and its centers. Various possibilities had to be examined and compared. But after hard work at each step it became possible to find out which of the alternatives that could be imagined preserved the wholeness most.  
+
+> A two-dimensional truss in which the tension, compression and bending are distributed in the bootstrap basket fashion we reached in this truss, was a completely new idea. It did not emerge from the intention or desire for a new idea. It followed just from the fact that the latent centers which existed in the wholeness of this emerging truss design were continuously respected and developed, step by step, while we watched what happened. Thus, what sounds like a conservative, dull process actually led to startling innovations.  
+
+> The floral plant-like truss which came from this process followed naturally from the unfolding process. Yet it had never been seen before. Of course, two different individuals or groups, faced with the same problem, and taking the same steps, will not get the same result. Even if they find their way to one of the best half-dozen structure-preserving steps at each stage in the process, they will not choose the same ones, and the evolving designs will certainly diverge, in some cases dramatically, after only a few steps. So, of course, different engineers and architects will rarely go in the same direction. As a result, we get unique and beautiful works.  
+
+#book/The Nature of Order/3 A Vision of a Living World/6 Positive space in engineering structure and geometry#

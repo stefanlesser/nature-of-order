@@ -1,0 +1,8 @@
+---
+title: "3 The world originating from its people"
+---
+
+> It is amazing to see that the complex and profound structure of life — understood with considerable difficulty in Book 1, because of substantial intellectual changes required even to understand its very existence — is nevertheless a simply attained and almost automatic by-product of correctly defined society-wide processes that are ego-free and concept-free.  
+> But, on another level, we may also see how profoundly difficult the concept of a “proper” process is. It has one requirement only: namely that the existing wholeness of the land, or of a town, or of the Earth itself, be allowed to unfold truly and without distortion. And this rule is, for human beings of the modern era, the most difficult rule imaginable. It requires that we do not distort the unfolding with our concepts, that we abandon ideas and concepts. We need to pay attention to the wholeness, that is, to the feeling which lies dormant in the land, and awaken and consolidate this feeling through the presence of our buildings. It is more mathematical, more rational, more deeply steeped in feeling than what we do today. In the process, the wholes which are created are those wholes which awaken archetypal feelings in ourselves. Coming from the land, they stir what lies in ourselves.  
+
+#book/The Nature of Order/3 A Vision of a Living World/Conclusion: The world created and transformed#

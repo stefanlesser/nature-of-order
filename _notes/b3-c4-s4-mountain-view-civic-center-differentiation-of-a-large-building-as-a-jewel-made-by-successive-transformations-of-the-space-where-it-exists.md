@@ -1,0 +1,21 @@
+---
+title: "4 Mountain View Civic Center: differentiation of a large building as a jewel, made by successive transformations of the space where it exists"
+---
+
+> If we follow a living process to embellish a public space, what must be made to happen is that the various aspects of the building break out from the context in such a way that it has the most magnificent effect on the place.  
+> Here we come to the fact that **a building must preserve the structure of its surroundings**. It should not impose itself; but instead — modestly, in a self-effacing way — creates a brilliant light, a flash of volume, shape, and color which takes the latent centers and symmetries present in that public place, develops, enhances, strengthens them.  
+
+> The first thing to unfold will usually be the volume itself: actually an *arrangement* of volumes. In relation to the centers which exist in the public space, it is our task to do the minimum. This means that the volume is most probably established as a **primitive rectangular volume** — often a principal, single rectangle — often with minor rectangles accompanying it, or “hanging” from it.  
+> To understand this process well, it is necessary to see the rectangles of the building *volume* as centers, and the rectangles of the *space* as centers too. Then **both space and volume will have equal weight**. Subsequently, at a second level, a series of smaller embellishments occur. The main symmetries of volume and space are usually given focus by new centers (again symmetries, again often rectangular) inserted at key points where latent centers are visible in the first-level structure.  
+> This act creates a more elaborate structure, in which simple forms together generate highly complex asymmetries, while yet being simplified and smoothed out to preserve the simplicity of the whole.  
+> At a third level of scale, we shall find the differentiation introducing more detailed structure: articulations in the building volume, segments, divisions, all locally symmetrical as far as possible — and again calculated to have their own, distinct levels of scale. This further encrusting of structure in the whole then begins to create a fabric of nearly sheet-like unity which binds the whole together and gives power to its feeling.  
+> The whole, a carpet of structure at many levels, will then exist as something rich and complex, sometimes immensely large, which yet remains — for all that — simple.  
+
+> Each of these buildings contains a pyramid of scale, going from the largest shape, in steady steps, down to the smallest details, which are at a comfortable, even intense human scale.  
+> Once the broad structure is laid in — and even *that* is based directly on feeling, relatively simple and humane — the larger interior spaces then come directly from their location. Engineering structure comes from the larger spaces. Small spaces come from the structure. The detail comes from the structure and the smallest spaces. Above all, there is a careful pure geometry, simple and organized, with high degrees of local symmetries. Shapes have been found, which, within the scheme of unfolding, are able to express the deepest feeling directly.  
+
+> From the point of view of unfolding, the design of a very large building poses special problems: The location and character of the most important rooms; the **flow of movement from entrance to biggest space**; the positive character of corridors and movement places, and the centeredness of each one; the position of the building volume in the site; the contribution which the building volume makes to surrounding space; methods of testing the validity of these larger features of the building, through models big enough to anticipate the feeling of the real thing; depth of feeling in the whole; rapid use of models, tearing up stuff, changing, chopping, placing, moving, until a deep feeling appears; major composition in terms of centers; very early involvement of the users; taking the users’ notions seriously, whenever they contribute to unfolding, but not otherwise.  
+
+*Flow of movement appears as an important part of figuring out the most important centers early in the building process. It seems analogous to interaction flows in software applications.*
+
+#book/The Nature of Order/3 A Vision of a Living World/4 Large public buildings#

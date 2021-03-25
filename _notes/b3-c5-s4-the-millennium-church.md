@@ -1,0 +1,14 @@
+---
+title: 4 The Millennium Church
+---
+
+> Again we search. The mind races through fifty or a hundred different ways of making that volume. I consider it as five stories high, or as two stories high. I consider it a long and thin, or massive and squat like a cube — then again higher, deeper, further away from us as we are standing. Again, I am aware as I go mentally through many, many cases, that most of them do not help, they make the city worse and less harmonious. But gradually, as the process goes forward, I get a glimpse of the fact that if the new church is high, it will have the effect of intensifying that one place — which was not much of a place before. That is the way to get the first glimpse of the right building volume.  
+> Whatever I think about, I ask if — genuinely — the latent centers in the site can be preserved. This is not so hard to do when the latent centers are fairly small, say 100 of 150 feet across. But sometimes it is possible to find a way of introducing the new volume, so that is not only strengthens a small center like that, but also, at the same time, some much larger latent center — in this case the river itself, perhaps 500 feet across — is made more beautiful.  
+> *This* is the kind of action which is really powerful in bringing the configuration to life. But to do it, you can’t just sweep everything away. As you introduce the new volume, and make the highly complex three-dimensional configuration more alive, you have to protect and preserve all the small centers — lawns, buildings, walls, seats, trees, bushes, paths, spaces that are loved — all the centers formed by groups of things. Whatever new centers you inject must not cur across these existing centers or destroy them.  
+
+> There are no simple rules for finding the best volume. There is not, as far as I know, any algorithm for it. But I would summarize like this: Look at the centers in the configuration. Some are latent, weak, not yet complete. Try to shape and place the new volume in such a way that all the important centers that exist now — especially the larger ones — are preserved; and try to do it so that some of these latent centers are made more beautiful.  
+> The effect of the fundamental process is that the site and volume become intertwined, since centers in the mass and centers in the space are developing together.  
+
+> In the first moments, the process has a particular visionary and dynamic character. To start with, we look at that land with the eyes of lovers. We see the land, appreciate its good qualities, love what it is; no matter how derelict, still we love what is best in it. And then, as lovers of it, we have to imagine that by putting a building there, we can make the place better.  
+
+#book/The Nature of Order/3 A Vision of a Living World/5 The positive pattern of space and volume in three dimensions on the land#

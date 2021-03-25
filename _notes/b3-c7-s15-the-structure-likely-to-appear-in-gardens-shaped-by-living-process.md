@@ -1,0 +1,9 @@
+---
+title: 15 The structure likely to appear in gardens shaped by living process
+---
+
+> The outline of each garden made by living process, and each part of every garden, is likely to be positive space. Within the positive space of each garden, further positively spaced structures will have been placed, creating local symmetries, which then form positive space at smaller scales, so that the garden, even when it is raw and ungrown, already has positive space that one can feel at many levels in large centers and small centers.  
+> There will be few places which do not form definite and coherent centers of this kind. We shall see an interaction of formal shapes possessing local symmetries and forming large scale centers (lawns, courts, hedges, flower borders, paved areas, a seat around a tree) with land-inspired shapes that have smaller-scale symmetries typical of grassland, forest, and rocks. And these areas themselves will often have very subtle minor centers and symmetries, like the raked sand in a Japanese sand garden, connecting them to the formal symmetries of the outline, to the smallest symmetries of nearby buildings, bushes, trees, plants, and water.  
+> Color will probably play an important role, in flowers and flowering bushes and trees of different season — even if it is based only on the huge variety of greens. Seats, fences, and other centers, placed in the landscape to connect the garden with the buildings, will form a continuity of structure between inside and outside, and make the gardens usable almost in the sense that rooms are usable. Curved forms will enter in only rarely. More often, rectilinear structures will interact with organic contour-inspired forms. Walls, catching the sun, are likely to play a special role for climbing trees, fruit, apricots, roses and trellises. Wildness covers everything.  
+
+#book/The Nature of Order/3 A Vision of a Living World/7 The Character of Gardens#
