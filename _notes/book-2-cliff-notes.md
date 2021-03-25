@@ -2,6 +2,10 @@
 title: Book 2 Cliff Notes
 ---
 
+- [[Living processes]]
+
+---
+
 - Author's note
 	- [[The concept of living structure]]
 - Preface
