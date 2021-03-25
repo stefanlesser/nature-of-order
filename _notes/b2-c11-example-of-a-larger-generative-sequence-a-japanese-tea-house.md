@@ -1,0 +1,16 @@
+---
+title: "Example of a larger generative sequence: a Japanese tea house"
+---
+
+> 3. The 24 steps of the tea house sequence were studied in 1972 in a seminar with my Ph.D. students. We made efforts to find algorithms for obtaining consistent and backtrack-free sequences. Other mathematical and LISP methods of obtaining good sequences as a function of temporal priorities defined among centers, were worked out at that time.  
+
+> The process is effortless because the differentiations have been read to you **in the right order**. Each new differentiation introduces a new center by making a further division in the configuration of previously existing centers. The new center you create in your mind’s eye at each step is easy to create because **the context for creating it has been built up coherently in the steps before**. The next center emerges easily and naturally, because the evolving structure which gives birth to the new center is **complete and coherent at each step** and gives birth to the new center almost by itself. This is what we mean by a process of unfolding.  
+> […] A coherent picture has built up in your mind because the steps are arranged in such a sequence that **no step contradicts the structure which has been built up by the steps before it**. At each moment you have a wholeness in your mind. As the wholeness develops it gets differentiated. It gets more and more structure. Each step is designed to operate on the previously existing wholeness that is in your mind. As a result, the wholeness unfolds a little further each time. The sequence is chosen so that **each differentiation unfolds naturally from the one which preceded it**.  
+
+*What is a single generative step in both a green field software development process as well as in an integrative app extension development process? It seems one quality such a step should have is that it is a working piece of software, which later on gets more and more differentiated. One kind of differentiation is dealing with certain failure states.*
+
+> Generative sequences which work by differentiation existed pervasively for traditional buildings and allowed people to create traditional design in nearly effortless fashion. The user was able to pull a new design almost directly from the interaction of the generative sequence with the specifics of their own needs and context.  
+
+*If a program is a function (transformation?), then ”needs and context” are basically inputs to that function, and the generated whole is the output. If that function is pure, the output will always be exactly the same as long as the inputs are exactly the same. It seems that the whole context as Alexander describes it — the whole state consisting of context, personal needs, environment, values, culture, etc. — is much more complex than the average function invocation we’re used to. But this complexity can be modeled, for instance as an environment object that is passed in and gradually grows in complexity. Which means both the function as well as the passed in environment grow separately in complexity to form the whole complexity addressed by the function.*
+
+#book/The Nature of Order/2 The process of creating life/11 The sequence of unfolding#

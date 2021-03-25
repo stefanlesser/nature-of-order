@@ -1,0 +1,14 @@
+---
+title: "Creation of structure as it occurs in nature"
+---
+
+> The principle of *unfolding wholeness*. This principle states that, *in the evolution of an otherwise undisturbed system, the wholeness W is progressively enhanced and intensified*. […]  
+> According to this principle, **the transformations which occur in the system take whatever wholeness exists at any given instant and continue it and intensify it while, broadly, maintaining its global structure**, so that at the next instant that wholeness is more pronounced; as time goes forward, the wholeness gets progressively intensified, step by step by step. It is this process — I maintain — which is responsible for the creation of living structure. When the wholeness is intensified again and again, precisely that structure we recognize as living (with its fifteen properties) will begin to appear. In this view, then, the appearance of living structure in the world is caused by the repeated application of the principle of unfolding wholeness to every system.  
+
+*Is that another voice for the simulation hypothesis? ;o)*
+
+> It is *wholeness* which exhibits smooth unfolding. That is, the structure I have defined as the wholeness, as it changes from state to state over time, follows a path where **the centers which constitute the wholeness (and particularly the large ones) are changing as little as possible**. The wholeness is essentially preserved at each step, and the new structure is introduced in such a way that **it maintains and extends — but almost never violates — the existing structure**. It is globally structure-preserving. That is why the unfolding seems smooth.  
+
+> In all these cases, when we look at the sequence of development, we see a sequence which is essentially *smooth* in character. That means, within the sequence, *each state follows, without breaking structure, from the state before*. The structure of the state before (its wholeness) develops, evolves, changes — but is still visible in the next state. Even in those important cases where an entirely new structure is introduced — often the most important moments in the sequence — the new structure is still introduced in such a way as to maintain the essence, the underlying structure, of the previous state. This smoothness of evolution is visible in all the examples, essentially without exception. Even in those cases where there is a catastrophe — the mathematical term for the appearance of some new feature, not visible in the symmetries of the previous state — this catastrophe always begins as a feature *which is essentially consistent with the symmetries of the earlier state*, and which then develops, and continues to develop, as the new source of structure, thus still allowing a smooth and consistent evolution of structure.  
+
+#book/The Nature of Order/2 The process of creating life/1 The principle of unfolding wholeness in nature#

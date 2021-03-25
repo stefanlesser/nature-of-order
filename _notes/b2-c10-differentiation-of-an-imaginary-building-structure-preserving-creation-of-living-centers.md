@@ -1,0 +1,28 @@
+---
+title: "Differentiation of an imaginary building structure-preserving creation of living centers"
+---
+
+> I am not trying to be clever. I am not trying to follow any special archetype, ancient or modern. I am just trying to make that thing, which, when its centers have been created, will most honestly make me feel a tremor, make me feel that my life is (even if only slightly) illuminated by the existence of this thing.  
+> And at each step, among the various steps I have described, I had to keep asking myself this: Is it going in such a direction? Does it start to make me feel that life can be worth-while? Does it make me tremble, and feel on the edge of the chasm of life, so that all the uncertainty and fear of everyday life, is wrapped up, made worth something, summarized and justified, by the existence of this thing?  
+> Most often the answer is, No. Ten times the answer comes back, *No*. But sometimes, if I feel even a little tiny bit of yes, I can move the building more towards the yes. And if I keep on looking for that yes direction, gradually it does come into existence.  
+> But I haven’t done anything until, *because of the existence of the center emerging in my care*, my life is more worth while than it was before, and my knowledge of the meaning of existence has become more real.  
+> That is a tall order. It is a great demand. Perhaps too great a demand. But that *is* the demand, anyway, that I must make of things, while I am making them. It sounds pretentious, perhaps. But it isn’t really. […]   
+> Being afraid of such magnificence is only the sad underside of out too mundane late 20th century.  
+
+> Of course, in a real example, to make sense in a real context and a real culture, this playful technique which I have just shown, has to be combined with knowledge of realistic generic centers. Instead of just making up geometric centers, as I have done in this little example, we also include with them some real generic centers, which have to respond to the geometry of the evolving design and to the wholeness of the culture, by using the patterns of the pattern language we have chosen.  
+
+> All design is a “center building process”. Once we have that clear, we can then go on […] to ask where the centers come from, in their inspiration.  
+
+> The process of unfolding is always governed by the repeated application of this fundamental operation, thousands and thousands of times, over and over again. Outwardly, this repeated operation seems to take very different character at different moments. […] Superficially, it seems difficult to see all these apparently distinct operations, as versions of the same fundamental process. Nevertheless, I wish to re-emphasize that it is indeed this fundamental process which presents itself in a thousand versions.  
+
+> The design is not necessarily growing on paper, not necessarily on the actual site. **At first it is only growing in my mind.** In my mind, I am aware of this field, which is the thing that the building is going to become.   
+> At any given moment in the evolution of my thought about the building, **I know a certain amount about this field** (and, of course, so long as it is unfinished, there is always some part that I do not yet know).  
+> So I have in my mind, a kind of **partially finished field** (wholeness) which has **some of its structure sketched in, some of its structure not yet sketched in**. At each moment, I am struggling to **get more clear** about this emerging field.  
+
+> Since the field is entirely made of centers, the state of my knowledge at any given moment, is always given by some set of centers, which to whatever stage of evolution they have reached, defines and encompasses what I know about the building so far.  
+> The simplicity of this idea, lies in the existence of centers. Since the field exists only in virtue of its centers, it means that **everything I know, at any given moment — absolutely everything — is always summarized by some system of centers**.  
+> At the beginning of any project, I have very little understanding — and may only grasp half a dozen centers — and those only hazily. At the earliest stage it may even be just one, and that abstract, not concrete. Much later in the process, as my understanding deepens, I know and can feel hundreds — and later thousands — of centers in the evolving complex.  
+> This does not mean that the thing is simply becoming more and more encrusted in my mind, becoming more complex in a numerical fashion. Simplicity os of great importance, and sometimes, I may get a great insight by removing material or structure. But even when it is one center which is growing in my mind, the intensity of life of this one center, as it grows, comes from the cooperation of, at first two or three, then dozens, and finally thousands of complex centers.  
+> Thus, even if at a certain stage in the unfolding, all that happens is that the shape of a particular arch becomes more refined, the increasing refinement, will be manifested in my mind, in the form of a growing understanding of a beautiful shape — the good shape of the arch — and this will come about because I have learned and seen, and created, a shape that is the product of dozens of smaller centers which cooperate to give beautiful life to the shape of the curve.  
+
+#book/The Nature of Order/2 The process of creating life/10 Always making centers#

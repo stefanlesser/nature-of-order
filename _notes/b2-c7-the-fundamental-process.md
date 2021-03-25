@@ -1,0 +1,21 @@
+---
+title: "The fundamental process"
+---
+
+> I am proposing, instead, that in the course of all planning, building, conceiving, designing, landscaping, or making, at every stage we understand every process to be composed of **repeated applications** of the fundamental differentiating steps I have described. I believe all living processes are, in effect, combinations or combinations of combinations of this kind of differentiating step. A given living process may have a dozen steps, hence a dozen applications of the fundamental process, or it may have 500 steps, hence 500 applications — and the given building project may still be in the process of being imagined on a computer or a drawing board, or may be under construction, or may have been developing for many years — but the situation is always essentially the same, and the essential nature of each step, each application, is always similar. **The core of the differentiating steps lies in the way that centers emerge and evolve and interact.**  
+
+> At each stage in its evolution the process — when a living one — **always starts from the wholeness as it currently exists at that moment**. The work is complete in some respects, in some respects incomplete. At the next moment, we take **a new step — introducing one new bit of structure** (always composed of new, living, centers) into the whole. The new structure we introduce may be large, medium, or tiny; it may be physical or abstract; it may occur on the land itself or in a person’s mind, or in the collective understanding of a group of people. But the point is that at every stage of every life-creating process, **the new bit of structure which is injected** to transform and further differentiate the previously existing wholeness, **will always extend, enhance, intensify the structure of the previous wholeness** by creating further, and stronger, living centers.  
+
+> I therefore regard the group of fifteen transformations which do this work as providing what we may regard as elements of a universal building block — or **universal “next step”** — for each step forward in all living processes. The structure-enhancing step, which again and again intensifies one center and creates “hooks” to other new centers, might even be called *the* fundamental process.  
+
+-> [[The fundamental differentiating process]]
+
+> This process, though presented as atomic, is multiple. What appears like a basic unit of process, is itself actually a complex system of processes. At any given moment one center holds our focus. As we make it stronger, we have to strengthen (or create) half a dozen other centers and we try to do this simultaneously. That is a necessary part of making the one center we are working on. If our focus shifts, and we start paying focused attention to one of these other centers that is being worked on, we are then effectively ending one cycle of the fundamental process, and starting a new cycle, now focused on a different center.  
+
+> In principle (not always in fact) every life-creating process repeats the fundamental process hundreds of times, iteratively, applying it again and again to the product of the previous application of the process. The process stops repeating when no further step can be taken that intensifies the life of the whole.  
+> Such a process will always be structure-enhancing — by definition — because it **keeps the wholeness intact, and extends it iteratively**.  
+> Remember that wholeness in a given region of space is defined by the system of centers that exists there. **Repeated use of the fundamental process keeps differentiating the space by enhancing some one or another of these centers (large or small) that is already latent (dimly present, but not yet fully emphasized) in the structure.** It keeps on strengthening centers in such a way as to extend and preserve and enhance the whole.  
+
+-> [[The class of living processes]]
+
+#book/The Nature of Order/2 The process of creating life/7 The fundamental differentiating process#

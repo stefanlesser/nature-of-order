@@ -1,0 +1,16 @@
+---
+title: "Process, the key to making life in things"
+---
+
+> On the other hand, processes which work against the existing life of a place, which fragment it, ignore it, cut across it, do damage. Even when they only *ignore* the wholeness or defy it with the best intentions, damage is done, disorder begins to occur. And as we watch the progress of the world, its growth, its change, we find that various acts — coming either from outside or from inside the thing itself — may be helpful or unhelpful to this wholeness which exists. This happens because the wholeness of any given thing may be helped or hindered by the character of the parts which it contains.  
+> Once we recognize the possibility that some centers will be helpful to the life of an existing wholeness, while others will be antagonistic to it, we then begin to recognize the possibility of a highly complex kind of self-consistency in any given wholeness. The various centers within a wholeness may be in harmony with one another in different degrees, or at odds with one another in different degrees. And this is where the degree of life, or degree of value, in any given thing comes from.  
+> This we see that each given wholeness has a certain history: the wholeness becomes more valuable if the history allows this wholeness to unfold in a way that is considerate, respectful, of the existing structure, and less valuable if the steps which are taken in the emergence of the wholeness are antagonistic to the existing structure.  
+> What is fascinating, then, is the hint of a conception of value which emerges dynamically from respect for existing structure. We do not need any arbitrary or external criterion of value. The value exists within the unfolding of the wholeness itself. **When the wholeness unfolds unnaturally, value is destroyed. When the wholeness unfolds naturally, value is created.**  
+> That is the origin of living structure.  
+
+> The further I went to understand the actual process which had been used to make the tile, the more I realized that it was this *process*, more than anything, which governs the beauty of the design. **Perhaps nine-tenths of its character, its beauty, comes simply from the process that the maker followed. The design, what we nowadays think of as the design, followed.** It was almost a residue from the all-important process. The design is indeed beautiful, yes. But it can only be made as beautiful as it is within the technique, or process, used to make it. **And once one uses this technique, the design — what appears as the sophisticated beauty of the design — follows almost without thinking, just as a result of following the process.**  
+> If you do not use this technique — process — you cannot create a tile of this design. An attempt to follow the same drawing, but with different techniques, will fall flat on its face. And if I change the technique (process), then the design must change, too. This design follows almost without effort from this *technique*. It is the process, not the design, that is doing all the hard work, and which is even paving the way for the design.  
+
+> This gradual rubbing together of phenomena to get the right result, the slow process of getting things right, is almost unknown to us today.  
+
+#book/The Nature of Order/2 The process of creating life/Preface — On Process#

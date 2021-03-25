@@ -1,0 +1,19 @@
+---
+title: "A generative process for middle-range order in the building structure"
+---
+
+> *Middle-range order* appears in the buildings which are formed by this sequence.  
+> What I mean by “middle-range order” is the existence of entities — centers — at the scale of rooms, bays, portions of a building. […] These middle-sized entities, of a size so that there are perhaps four or five of them across in any one direction, provide the bridge — in terms of scale — between the large entity of the building volume and the smallest entities such as columns, beams, windows, doors, and other individual structural elements.  
+> There cannot be profound order in the building unless these middle-range entities exist. And, what is more important, there cannot be order in the building unless these middle range elements have a beautiful pattern, a beautiful pattern of arrangement among themselves. […]  
+> It is the generating process and the use of the aperiodic grid which produces these middle-sized centers.  
+
+> When we construct an aperiodic grid, the critical issue is the alternation of narrow grid bands with larger grid bands: This is what allows for the creation of boundaries and levels of scale inside the building, and paves the way for a variety of bay sizes at the intersection of the larger grid bands. It is also this which then stimulates the formation of strong, middle-sized centers.  
+> Within this grid, it is certainly obvious that [strong centers], [local symmetries], [good shape], and [levels of scale] play a huge part in the kind of process I have been describing. The outer shapes, the envelope, the plan, the sections, the walls, the structural bays, are all creating strong form at a level of scale which is intermediate to the building volume.  
+
+> The existence of these halfway, middle-range centers in a living structure sheds a great deal of light on the unfolding process. The living process *must* give rise to coherent entities at a middle range of scale. In buildings, especially, the success of the process will be judged by the extent to which these middle-range entities appear with their own distinct symmetries, with their own definite and distinct force as strong centers, no matter where they are, and how they fit together in the building.  
+> I have described this geometrical process almost viscerally as “brutal”, because that is how it does present itself. But even so, although it is the most naked and forceful artistic act, this too must be seen as an *unfolding* which uses nothing but the fundamental process.  
+> The effort is, at each moment, to make each “thing” positive. Space is made positive. Mass is made positive. Each element is given a positive and definite form. Each element contained within it is given a positive and definite form. And the masses of which the elements are made, they, too, are given positive and definite form.  
+> Thus, the elaboration of form which occurs, is a raw harmony made of the simplest elements, in a telling and geometrical order, which is balanced and gauged to convey raw feeling. It repeats. It is often brutally simple in its regularities. But each mass is calculated to oppose, or complement, or complete, the harmony of the other elements.  
+> This process, which circles around a bit, is the process of trial and error in which the solid geometry receives calculable, massive weight. When you are done, if you have reached what you aim for, you feel the impact of its “presence”. *This* is how architecture comes about.  
+
+#book/The Nature of Order/2 The process of creating life/15 Emergence of formal geometry#

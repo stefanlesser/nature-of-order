@@ -1,0 +1,11 @@
+---
+title: "A dynamic view of order"
+---
+
+> Book 1 invited us to see the world around us — buildings, plants, a painting, our own faces and hands — as field-like structures with centers arranged in a systematic fashion and interacting within the whole. When a structure is living we will feel the echo of our own aliveness in response to it.  
+> Book 2 takes the necessary next step of investigating the process of how living structure creates itself over time. […] What I describe throughout Book 2 is a comparably new view of architectural process, with a focus on architectural processes that are capable of generating living structure. It is my hope that a world of architecture, more suitable for human life, will emerge from this new view of living process and of what process *is*.  
+> Book 2 invites us to reconsider the role and importance of process and how it is living or not. It is about the face that order cannot be understood sufficiently well in purely static terms because there is something *essentially* dynamic about order. Living structure can be attained in practice, and will become fully comprehensible and reachable, only from a dynamic understanding. Indeed *the nature of order is interwoven in its fundamental character with the nature of the processes which create the order*.  
+> When we look at order dynamically, the concept of living structure *itself* undergoes some change. Book 1 focused on the idea of *living* structure, and the viewpoint was geometric, static. In Book 2, I start with a second concept, based on the idea of an *unfolded* structure. The point of view — even for the structure itself — is dynamic.  
+> The two conceptions of structure turn out to be **complementary**. In the end we shall see that **living structure and unfolded structure are equivalent**. **All living structure is unfolded and all unfolded structure is living.** And I believe the concept of an *unfolded* structure is as important as, and should play  as essential a role in architecture, as the concept of *living* structure. Thus we shall end up with two equivalent views — one static, one dynamic — of the same idea.  
+
+#book/The Nature of Order/2 The process of creating life/Preface — On Process#

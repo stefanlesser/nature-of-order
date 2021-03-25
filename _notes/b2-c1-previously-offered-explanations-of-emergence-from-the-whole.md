@@ -1,0 +1,45 @@
+---
+title: "Previously offered explanations of emergence from the whole"
+---
+
+> Throughout centuries of study of nature, many, many cases of emergence of form from the whole have been observed and studied. Many have been matter-of-fact. Rarely, until now, has it been seen as necessary to propose new mechanisms of emergence. Generally speaking, **the emergence of form in the world has been seen and understood as a relatively straightforward mechanical emergence of the product of different causal laws**.  
+> The possibility that a new principle, altogether, might need to be invoked, and above all, that the unfolding of the whole might have to be seen, in its own right, as a fundamental principle of nature — these are relatively new ideas. And certainly we shall not wish to propose or invoke an entirely new principle, if this is not absolutely needed — if it is not *required* — by the failure of existing explanations.  
+
+### Mechanical origins of living centers
+> After the wind has been blowing for some time, the sand has an overall pattern of wave-like ridges which lie at right angles to the direction of the wind. They are not waves at all; the apparent wavelength is simply the distance that the wind carries an average grain of sand. This purely mechanical explanation shows how, in this particular case, alternating repetition — repeating ridges alternating with valleys — is produced. The explanation for its appearance is entirely mechanical. The local mechanics of the situation create a pattern in the whole.  
+
+*A lot of the examples Alexander brings up all have in common that the number of individual objects forming a whole is very large — be it water droplets in a wave, grains of sand in the desert, or cells of an organism. I wonder how important it is for emergent phenomena to be ultimately rooted in a large number of individual objects as a substrate for these effects to manifest?*
+
+> In these mechanical cases, the whole — the marvelous pattern of the whole — emerges from the interaction of small events and local circumstances. The whole itself appears almost as if by accident. Certainly, in these cases, there does not appear to be a need for any explanation in which the whole itself takes a hand and guides events.  
+> The classical picture of nature was of a system formed and guided entirely by such local mechanical laws.  
+> But these local explanations are far too specific to answer our questions. Although each can explain a particular phenomenon, they are not generalizable, and they give no general insight into the general question: why do alternating repetition, or local symmetries, or good shape appear repeatedly *in general*?  
+
+### The principle of least action
+> The evolution of any dynamic system will always follow the path of least work.  
+
+> Might we say that morphogenesis occurs because of a general tendency for systems to move towards a state with minimum potential energy? Many systems do evolve in the direction which minimizes their potential energy. The deeper problem is that we are then faced with the question, Why should the potential energy be minimized?  
+
+> It is always the global effect of some larger principle, calling for least energy, or least work, coupled with the detailed mechanics, which finally produces the explanation.  
+
+> The principle of least action was formulated essentially fo summarize these many principles and others like them. The principle says that the “action”, S, the rate of expenditure of energy twice integrated over time, is minimized in any system. This principle generalizes the examples I have given, and many others. It is one of the most general principles of this kind ever discovered and essentially underlies all others.  
+> Max Planck said of it, “Present-day physics is completely governed by a system of differential equations… this entire rich system of differential equations, though they differ in detail since they refer to mechanical, electrical, magnetic and thermal processes, is now completely contained in a single theorem, the principle of least action. The principle is now viewed by physicists as indispensable to the underpinning of modern quantum field theory.  
+> But like the simpler minimum-energy principles, this principle, too, is not in *itself* comprehensible enough, not intuitively general or convincing enough, to explain the complex appearance of the fifteen properties in living structures. There are so many *different* explanations for these kinds of phenomena.  
+
+> So the uneasy sense exists that there is more here than meets the eye. Various holistic explanations have been formulated. No single one of these holistic explanations is clearly “the” origin of the other explanations. Under the surface, something still more general must be going on. Some still more fundamental unifying explanation is needed, something which truly underlies all phenomena.  
+
+### Non-linear dynamics
+> Since the arrival of high-speed computers, it has become possible to simulate the behavior of many complex systems by making up simple rules which approximate the behavior of component elements, and then simulation the interaction of these rules.  
+> With the help of this approach, we have been able to create (and thus explain) many large-scale configurations similar to those we see in nature. More generally, in recent years the new science of complexity theory, and the study of non-linear systems modeled by computer, have provided an entirely new class of explanations for the forms we see in nature. Prigogine, Thom, Mandelbrot, Feigenbaum, Kauffman, Goodwin, and hundreds of others have demonstrated that highly complex, ordered phenomena can arise as a result of relatively simple interactions among variables linked by non-linear equations. These non-linear systems, which can usually not be solved by arithmetic techniques, have become accessible to study largely through the use of computers which simulate, in effect, the path of the evolving system over time.  
+
+> Central to the studies in complexity theory, is the discovery that these systems converge to attractors (small regions in the state-space of the system), and that because of the mathematical behavior of the state-space, order will arise in these systems spontaneously, under suitable conditions. This discovery has recently held out the promise that the evolution of biological organisms, and the problems of development and growth in organisms, may be orderly in large part because of the mathematical properties of the state-space for these systems (according to Kauffman, Goodwin, et al.).  
+
+### Still other kinds of structure creation, also not easily explainable
+> Is there a pattern-like tendency which makes transformations toward coherent patterns (based on the fifteen properties) which then tend to produce coherent mechanisms for geometric reasons — *and the selective pressure then finds a use for these beautiful and coherent mechanisms to gain advantages*.  
+> Is it not possible that the emergence of large-scale pattern — global order — comes about *merely* from many small Darwinian step-by-step changes, but modified and improved by some kind of directional twist in the dynamics of the evolving system which makes it go towards global patterns of a certain sort, and that it is this pattern-seeking or pattern-creating tendency which must be taken into account, *together* with selective advantage of small steps, if one really wants a satisfactory explanation of the evolutionary sequences in detail?  
+> *According to this view, the evolving system of the genetic material itself causes evolution to follow certain pathways, not only because of selective pressure from outside, but also by virtue of its own internal dynamical ordering tendencies. The results of evolution are then to be understood mainly formed not by Darwinian selective pressure acting from outside, but by pressures created by the geometry and dynamics of the evolving genetic system itself.  
+
+> If true — and such theories seem to hold promise for explaining many problems that have been glossed over by Neo-Darwinian evolutionists — it means that there is essentially something in the *geometry* of living systems which contributes order by itself: that the biological material evolves, and advances, on the basis of some tendency to order embedded in the very action of the process, and interacting with the Darwinian selection.  
+
+> In each of these puzzling cases, it appears that some inherently geometric principle of form-creation is at work, encouraging a coherent large-scale order to emerge. We do not yet know what it is. All we know for sure about it is that in each of these examples new geometric form — with an increase of living structure and large-scale order — springs, in steps, from an older form.  
+
+#book/The Nature of Order/2 The process of creating life/1 The principle of unfolding wholeness in nature#

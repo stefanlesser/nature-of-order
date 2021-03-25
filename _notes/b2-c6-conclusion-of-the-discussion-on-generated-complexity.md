@@ -1,0 +1,19 @@
+---
+title: "Conclusion of the discussion on generated complexity"
+---
+
+> The high level of complexity we need in urban tissue, working and dwelling spaces, computer programs, etc., can only be attained when an existing, albeit latent, structure unfolds through **differentiation to the needed level of complexity**.  
+> Each differentiation, i.e. decision, is made **in sequence and context**. It is reworked right then and there until it is mistake-free, i.e., it takes into account all the connecting relationships. This must be done in sequence and context because **the necessary information for a successful decision is not available prior to that step in the unfolding**.  
+
+> This differentiating process is a successive application of the fifteen structure-preserving transformations that both **adapt each part to the whole, locally**, and, at the same time, **preserve and bring forth the deep geometric structure of the larger surrounding whole**.  
+> It is important to grasp that **each differentiation adds relationships and brings more interdependence among the centers**. Of course, as a result of the many adaptations, and the growing centers and properties, the structure slowly becomes thick with relationships. It is getting denser and denser all the time. And it is vital, for success, that the process is *able* to keep on cramming in more and more relationships, so that the mistake-avoiding adaptations can continue to be generated.  
+> This “cramming” of complexity brings with it a need to constantly **clean out any non-functionalities** and **leave only the most simple possible geometry** in place. **It is simple structure that allows for maximum relationships** (you need only think of the sphere whose simplicity allows for so many properties at once). The transformations called simplicity, inner-calm, and the-void have as a direct function the task of keeping a structure clean of useless debris and open to the possibility of further useful differentiations.  
+> In short, then, to make room for more and more relationships, there is **a cleaning process going on in parallel** with the differentiation process. The process keeps cleaning itself out. Any garbage that accumulates has to be flushed out. The process is simplifying itself, getting rid of debris, and leaving itself, at each moment, with the **cleanest and most spare structure possible**. Only then, can the system be certain that there will always be room for more relationships, and only then will it truly be possible to keep injecting further transformations and maintain a coherent structure. It is this simplifying process, together with the fifteen transformations, which makes the beauty and majestic structure we think of as deep primitive art, or nature generating nature, at its best.  
+
+> A generated structure seeks to maintain and enhance its own internal geometric coherence, to avoid mistakes, and to be open to evolution and differentiation.  
+
+> The [generated] structure seeks, above all, to **avoid mistakes**. To do it, it promotes an activity of structure-preserving transformations, to **maintain coherence**. In addition, to make the structure capable of containing the vast density of significant relationships which eventually builds up, the process is also **cleaning the structure** and **simplifying itself continually**, at the very same time that complexity is building up. To do this, the leveling and sharpening that is typical of a process trying to preserve relationships, and get rid of non-relationship stuff, so that a spruce, spare structure is being built, and we keep moving towards the fine, profound simplicity which is typical of the greatest art, and typical in nature. This is the only way a profound, well adapted structure can be built.  
+
+*What exactly takes the roles of relationships and cleaning/simplifying in software?*
+
+#book/The Nature of Order/2 The process of creating life/6 Generated structure#

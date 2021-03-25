@@ -1,0 +1,23 @@
+---
+title: "Second major problem: the very small — How to deepen the architect’s responsibility, finer scope with more subtle detail"
+---
+
+> Successful design and creation of living structure needs *more* care, not less; *more* input, *more* information, *more* slowness. To make the details of a building right, we need to be closer to the craft, closer to materials, closer to every step and every window sill, closer to construction, fabrication, ornament, color. […]  
+> This means, simply put, that architects must — if they wish to have any kind of serious relationship to the making of beautiful buildings, and wish to generate life in buildings — they must then move back towards the profession they once came from, the profession of builders.  
+> It is really not possible to carry out the living process, as I have described it, unless the architect is making things, taking responsibility for money, craft, sequence of construction, modification of construction — all in all, the building, to become beautiful, must be an emerging work of art *under his hands*.  
+
+> Who knows the most about a place? *The people who love there and work there*.  
+> Who is capable of providing all the detailed twists and turns, the detailed nuances, the detailed lovely subtleties, required to created a well-adapted structure? *The people who live there, and the people who work there.*  
+> This means, then, that a well-adapted environment must include participation, effort, and ownership in some form, by millions — no, billions — of people.   
+
+> To meet the ideals of quality we need to go more into depth, work more closely, work more in construction, making, fabrication, craft — and also give more time to working more with families, owners, occupiers. All this makes the work slower.  
+> Yet to take care of our responsibility as guardians of the Earth’s built environment, we need to do fifty or a hundred times as much work as we do today, because we have a responsibility for all the buildings, not merely a few of them.  
+
+> In the way I have described living structure, the building becomes a living thing, only when it is conceived, throughout its fabric, as an ornament. The geometry of the work, the fine geometry, as in a work of sculpture or a work of painting, is the thing which makes the building beautiful. Where roofs, walls, windows, rooms, passages, floors, ceilings, steps, sills, moldings, tiles, material surfaces work together — all of it — as an ornament which touches the soul.  
+> By my arguments, this is not only beautiful in conception but *necessary*. The proper adaptation and shape of detail and ornament, plays a role in the unity of living structure not very different from the role played by molecules in a leaf.You cannot keep the leaf yet not have the properly adapted molecules within it. Just so, you cannot have a large-scale environment 8 square miles in extent, with buildings, bridges, roads, all working properly, all alive in the large, if the details of which it is made, the bricks and mortar, windows, plants, and ornaments — do not make sense, and do not have life themselves.  
+> And that means that all this material, too, must be controlled by people who understand living structure very deeply, and who are close enough to actual material, to be able to shape it with love and grace.  
+> To achieve this highly complex adaptation successfully, in every cubic inch, it is impossible merely to draw drawings for others to build. The connection to the material, its working through, the dynamic development of shape, color, form and substance in the evolving building, must be controlled by the architect or builder or craftsman, if a living structure is to be made.  
+
+> All this suggests — *requires* — that, even in the largest buildings, the architect must become more of a builder, must come closer to the direct control of money and material, and time, and process, than a conventional architect can do. It means that we must find a way for the emergence of a new kind of architect-builder, consistent with the conditions of modern contracting, yet placing the architect, or his and her evolved future counterparts, more directly in control of the real art of building, and of the physical results which only such direct control can bring.  
+
+#book/The Nature of Order/2 The process of creating life/21 The role of the architect in the third millennium#

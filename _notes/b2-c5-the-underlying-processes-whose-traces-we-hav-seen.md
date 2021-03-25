@@ -1,0 +1,11 @@
+---
+title: "The underlying processes whose traces we hav seen"
+---
+
+> In every case, the process is straightforward, simple, and above all it is free: it allows the reality of the situation, the human needs, human joys, to find expression.  
+> Gradually, as I assembled more and more descriptions of this kind, something dawned on me: these step-by-step processes are very simple, very straightforward. What they all have in common is that they are virtually unhampered by concepts or by too much thought about the intricacy of design. The tortured manipulations of 20th-century architectural practice do not show up in these examples. These processes are all simpler and more direct, their makers more forgetful, or unworried, about the consequences. An unworried, unhesitating sequence of actions, creates unfolding, and creates life — because it is direct, motivated by practical concerns, and because each step takes care of something not taken care of in the moment before.  
+
+> How different all this is from the anal-retentive up-tight worry about design, in which factors A, and B, and C, and D, and E, and F… all have to be manipulated together, before the designer and the planner and the client and the bureaucrats can be satisfied. We have seen some thing in the examples of this chapter which is far more robust. Each process does something — just one thing — which is important, practical, and creates good feeling. Then it does another. Then it does another. There is no manipulation and distortion of the structure, trying to predict where it is going, trying to make sure everything is OK. There is a sublime confidence, and practicality, and simplicity.  
+> If we do one thing at a time, and if what we do is wholesome and sound, then whatever comes next will work. We do not have to tie it down ahead of time for fear of some imaginary potential catastrophe of “design”. Instead, we just go step by step, doing what is required as well as we are able, with confidence that the next thing, too, will work out somehow when its time comes, but that it need not be worked out now.  
+
+#book/The Nature of Order/2 The process of creating life/5 Examples of living process in the modern era#

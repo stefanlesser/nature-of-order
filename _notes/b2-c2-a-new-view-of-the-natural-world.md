@@ -1,0 +1,13 @@
+---
+title: "A new view of the natural world"
+---
+
+> As wholeness unfolds under the fifteen structure-preserving transformations, these fifteen associated geometric properties necessarily appear more and more often, and more densely, while latent centers are progressively being differentiated and intensified. This is why the living structure appears in nature.  
+> Living structure appears in the wholeness as a direct result of repeated unfolding. If the evolution of the natural world follows a step-by-step process in which each step is structure-preserving, it will then follow that the fifteen properties will appear more and more often, and that the life or degree of life in the wholeness will increase steadily.  
+
+> To grasp the underlying nature of this process clearly and systematically, we need just one assumption: *Throughout the process, centers will always tend to form in such a way as to preserve and enhance previous structure — and this means, in such a way as to help sustain other existing and emerging centers.* Mathematically, this structure-preserving process will then be embodied in the fifteen possible transformations I have described.  
+
+> For every natural system which evolves, we see the fifteen properties developing as the trace of the system’s evolution, a product of the field of centers’ gradual intensification and of the action of the fifteen transformations. So the fifteen properties define not only the different ways a system can be whole, statically, but — as transformations — the various ways in which any system evolves naturally — *provided that it is allowed to become whole naturally, under the gradual rubbing together of its processes*. In any case, nature has these fifteen properties, and has the field of centers in it, because, at least for the most part, it demonstrates an undisturbed unfolding process in which each wholeness gives way to a next wholeness that is consistent with the previous one.  
+> This, I believe, is an essential model which teaches us the real meaning of living structure, and which shows us these phenomena as naturally existing phenomena of beauty which will occur without effort *in any world where the wholeness is allowed to unfold smoothly and truthfully, without disturbing previously existing centers*. Once this is clear, we shall then have a vision of the world in which the world itself — *all of it* — animals, plants, mountains, rivers, buildings, roads, terraces, rooms, and windows — is part of a single system and a single way of understanding.  
+
+#book/The Nature of Order/2 The process of creating life/2 Structure-preserving transformations#

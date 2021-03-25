@@ -11,10 +11,10 @@ What I am working on currently:
 * [[Book 4 cliff notes|Currently reading]] Book 4: _The Luminous Ground_ ✔️
 	* ~~Epilogue: _Empirical Certainty and Enduring Doubt_, pp. 339-344~~ ✔️
 		* *I finished it. The whole thing. Can you believe it?*
-* Transferring and editing my private notes
+* Transferring and editing my private notes ✔️
 	* ~~Book 1~~ ✔️ finished
-	* Book 2
-	* [[Book 3 Cliff Notes]]
+	* ~~[[Book 2 Cliff Notes]]~~ ✔️ imported
+	* ~~[[Book 3 Cliff Notes]]~~ ✔️ imported
 	* ~~[[Book 4 Cliff Notes]]~~ ✔️ finished (took them here directly)
 * Making this site work better
 	* See also: [[Growing this site]]

@@ -1,0 +1,18 @@
+---
+title: "Creating highly complex objects"
+---
+
+> In general, we may say that a complex object will only be successful if it is generated. This is obvious in the case of organisms (animals and plants), which are always generated. But it is less obvious, and so far hardly recognized at all for the complex objects we create such as houses, buildings, rooms, cities, and neighborhoods.  
+
+> Computer scientists have told me proudly that they consider computer programs the most complex objects designed by human beings.  
+> Yet, to date, there is little recognition of the following commonsense point: If indeed the programs are so complex, then it is likely that they, too, will be potentially subject to hundreds of thousands, perhaps millions of egregious mistakes of adaptation. Here I am not only talking about “bugs” — failures which stop a program from running altogether. I am talking about **mistakes of adaptation, ways in which the program fails to do what it is supposed to do, fails to meet the needs of the people who use it, or is more awkward, more annoying, less useful, than it is supposed to be**.  
+> If the analysis given in this chapter correct, then it is fair to say that **truly successful programs can only be *generated***; and that the way forward in the next decades, towards programs with highly adapted human performance, will be through programs which are generated through unfolding, in some fashion comparable to what I have described for buildings.  
+
+*The term “generated” here is easily misunderstood, as it already has a vey specific meaning in software.*
+
+> Of course I am in favor of small steps, of adaptation through trial and error, and of what we may call evolutionary adaptation. But this is not the central point at all. After listening to all these computer scientists’ comments, and taking them to heart, I realized that I had failed, in my lecture, to emphasize the real essence of all generated structures. *The real essence lies in the structure-preserving transformations which move the structure forward through time, and which are primarily responsible for the success of the generating process.*  
+> The needed transformations are not merely trial-and-error steps, or some neat way of continually checking and making things better.  
+> In chapter 2, I have referred to the fifteen transformations which act, in all structure-preserving transformations, to move a whole structure forward in a deliberate and explainable way. *It is because of these fifteen transformations and their effect*, that a whole may be said to “unfold”. It is because of these transformations that a whole becomes coherent, and beautiful. And it is because of this unfolding, and the way the unfolding processes work, that the structure is able to become “mistake-free”.  
+> To assume that the point of generated structure is merely slow, step-by-step evolutionary adaptation, is to make the same mistake that early adherents of Darwinism made in biology — to assume that small steps *alone*, modification coupled with selective pressure, would be sufficient to get a genotype to a new state, hence to create entirely new organisms… and so on. This does not work, and is now widely recognized not to work, because it lays too little emphasis on the (hitherto) unknown transformation which actually do the hard work of moving the evolving organism through stages that lead to its coherence and its geometric beauty in the emerging genotype.  
+
+#book/The Nature of Order/2 The process of creating life/6 Generated structure#
