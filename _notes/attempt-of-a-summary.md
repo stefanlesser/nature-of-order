@@ -1,5 +1,5 @@
 ---
-title: Attempt of a summary of Alexander’s theory
+title: "Attempt of a summary of Alexander’s theory"
 ---
 
 A somewhat crude summary of Alexander's theory could be: To create artifacts with living structure, we can't specify the result in all detail because it is too complex. However, we can specify a generative process instead, which is much simpler to describe.
